@@ -60,32 +60,32 @@ function generateMap(dataNatality, elementID) {
     //     "fillOpacity": 0
     // };
 
-    // combine data
-    _.each(ussData.features, function(d) {
-        d.properties.natalities = [];
-        var state = d.properties.name;
-        _.each(dataNatality, function(n) {
-            if (n.State == state) {
-                var tmp = {
-                    "Year": n["Year"],
-                    "Diabetes": n["Diabetes"],
-                    "Tobacco Use": n["Tobacco Use"],
-                    "Age of Mother": n["Age of Mother"],
-                    "Births": n["Births"]
-                };
-                d.properties.natalities.push(tmp);
-            }
-        });
-    });
+    // // combine data
+    // _.each(ussData.features, function(d) {
+    //     d.properties.natalities = [];
+    //     var state = d.properties.name;
+    //     _.each(dataNatality, function(n) {
+    //         if (n.State == state) {
+    //             var tmp = {
+    //                 "Year": n["Year"],
+    //                 "Diabetes": n["Diabetes"],
+    //                 "Tobacco Use": n["Tobacco Use"],
+    //                 "Age of Mother": n["Age of Mother"],
+    //                 "Births": n["Births"]
+    //             };
+    //             d.properties.natalities.push(tmp);
+    //         }
+    //     });
+    // });
 
     // _.each(ussData.features, function(d) {
     //     d.properties.total = [];
     //     var
     // });
 
-    var ussd = ussData.features;
-    var ussf = _.map(ussd, function(d) { return d.properties.natalities; });
-    console.log(ussf);
+    // var ussd = ussData.features;
+    // var ussf = _.map(ussd, function(d) { return d.properties.natalities; });
+    // console.log(ussf);
 
     // // combine data
     // _.each(ussData.features, function(d) {
@@ -121,7 +121,7 @@ function generateMap(dataNatality, elementID) {
     //     });
     // });
 
-    console.log(ussData);
+    console.log(dataNatality);
 
 
 
@@ -223,6 +223,7 @@ function createVis(errors, dataNatality, elementID)
 }
 
 d3.queue()
+    // .defer(d3.json, "https://raw.githubusercontent.com/minhnaru/cis602-02-project/master/data/natality.json")
     .defer(d3.json, "https://raw.githubusercontent.com/minhnaru/cis602-02-project/master/data/natality.json")
     .await(createVis);
 
