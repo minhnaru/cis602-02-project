@@ -1,0 +1,4133 @@
+[
+  {
+    "State": "Alabama",
+    "Year": 2007,
+    "Births": 64804,
+    "Total Population": 4672840,
+    "Birth Rate": 13.87,
+    "Female Population": 958472,
+    "Fertility Rate": 67.61
+  },
+  {
+    "State": "Alabama",
+    "Year": 2008,
+    "Births": 64546,
+    "Total Population": 4718206,
+    "Birth Rate": 13.68,
+    "Female Population": 960680,
+    "Fertility Rate": 67.19
+  },
+  {
+    "State": "Alabama",
+    "Year": 2009,
+    "Births": 62475,
+    "Total Population": 4757938,
+    "Birth Rate": 13.13,
+    "Female Population": 962060,
+    "Fertility Rate": 64.94
+  },
+  {
+    "State": "Alabama",
+    "Year": 2010,
+    "Births": 60050,
+    "Total Population": 4779736,
+    "Birth Rate": 12.56,
+    "Female Population": 960620,
+    "Fertility Rate": 62.51
+  },
+  {
+    "State": "Alabama",
+    "Year": 2011,
+    "Births": 59354,
+    "Total Population": 4802740,
+    "Birth Rate": 12.36,
+    "Female Population": 960184,
+    "Fertility Rate": 61.82
+  },
+  {
+    "State": "Alabama",
+    "Year": 2012,
+    "Births": 58448,
+    "Total Population": 4822023,
+    "Birth Rate": 12.12,
+    "Female Population": 959003,
+    "Fertility Rate": 60.95
+  },
+  {
+    "State": "Alabama",
+    "Year": 2013,
+    "Births": 58167,
+    "Total Population": 4833722,
+    "Birth Rate": 12.03,
+    "Female Population": 959756,
+    "Fertility Rate": 60.61
+  },
+  {
+    "State": "Alabama",
+    "Year": 2014,
+    "Births": 59422,
+    "Total Population": 4849377,
+    "Birth Rate": 12.25,
+    "Female Population": 961109,
+    "Fertility Rate": 61.83
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Births": 59657,
+    "Total Population": 4858979,
+    "Birth Rate": 12.28,
+    "Female Population": 958981,
+    "Fertility Rate": 62.21
+  },
+  {
+    "State": "Alaska",
+    "Year": 2007,
+    "Births": 11052,
+    "Total Population": 680300,
+    "Birth Rate": 16.25,
+    "Female Population": 141687,
+    "Fertility Rate": 78
+  },
+  {
+    "State": "Alaska",
+    "Year": 2008,
+    "Births": 11442,
+    "Total Population": 687455,
+    "Birth Rate": 16.64,
+    "Female Population": 140747,
+    "Fertility Rate": 81.29
+  },
+  {
+    "State": "Alaska",
+    "Year": 2009,
+    "Births": 11324,
+    "Total Population": 698895,
+    "Birth Rate": 16.2,
+    "Female Population": 142508,
+    "Fertility Rate": 79.46
+  },
+  {
+    "State": "Alaska",
+    "Year": 2010,
+    "Births": 11471,
+    "Total Population": 710231,
+    "Birth Rate": 16.15,
+    "Female Population": 143229,
+    "Fertility Rate": 80.09
+  },
+  {
+    "State": "Alaska",
+    "Year": 2011,
+    "Births": 11456,
+    "Total Population": 722718,
+    "Birth Rate": 15.85,
+    "Female Population": 145873,
+    "Fertility Rate": 78.53
+  },
+  {
+    "State": "Alaska",
+    "Year": 2012,
+    "Births": 11187,
+    "Total Population": 731449,
+    "Birth Rate": 15.29,
+    "Female Population": 147310,
+    "Fertility Rate": 75.94
+  },
+  {
+    "State": "Alaska",
+    "Year": 2013,
+    "Births": 11446,
+    "Total Population": 735132,
+    "Birth Rate": 15.57,
+    "Female Population": 147110,
+    "Fertility Rate": 77.81
+  },
+  {
+    "State": "Alaska",
+    "Year": 2014,
+    "Births": 11392,
+    "Total Population": 736732,
+    "Birth Rate": 15.46,
+    "Female Population": 147302,
+    "Fertility Rate": 77.34
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Births": 11282,
+    "Total Population": 738432,
+    "Birth Rate": 15.28,
+    "Female Population": 146514,
+    "Fertility Rate": 77
+  },
+  {
+    "State": "Arizona",
+    "Year": 2007,
+    "Births": 102981,
+    "Total Population": 6167681,
+    "Birth Rate": 16.7,
+    "Female Population": 1246026,
+    "Fertility Rate": 82.65
+  },
+  {
+    "State": "Arizona",
+    "Year": 2008,
+    "Births": 99442,
+    "Total Population": 6280362,
+    "Birth Rate": 15.83,
+    "Female Population": 1259250,
+    "Fertility Rate": 78.97
+  },
+  {
+    "State": "Arizona",
+    "Year": 2009,
+    "Births": 92798,
+    "Total Population": 6343154,
+    "Birth Rate": 14.63,
+    "Female Population": 1262564,
+    "Fertility Rate": 73.5
+  },
+  {
+    "State": "Arizona",
+    "Year": 2010,
+    "Births": 87477,
+    "Total Population": 6392017,
+    "Birth Rate": 13.69,
+    "Female Population": 1262557,
+    "Fertility Rate": 69.29
+  },
+  {
+    "State": "Arizona",
+    "Year": 2011,
+    "Births": 85543,
+    "Total Population": 6482505,
+    "Birth Rate": 13.2,
+    "Female Population": 1271186,
+    "Fertility Rate": 67.29
+  },
+  {
+    "State": "Arizona",
+    "Year": 2012,
+    "Births": 86441,
+    "Total Population": 6553255,
+    "Birth Rate": 13.19,
+    "Female Population": 1281057,
+    "Fertility Rate": 67.48
+  },
+  {
+    "State": "Arizona",
+    "Year": 2013,
+    "Births": 85600,
+    "Total Population": 6626624,
+    "Birth Rate": 12.92,
+    "Female Population": 1290612,
+    "Fertility Rate": 66.33
+  },
+  {
+    "State": "Arizona",
+    "Year": 2014,
+    "Births": 86887,
+    "Total Population": 6731484,
+    "Birth Rate": 12.91,
+    "Female Population": 1308000,
+    "Fertility Rate": 66.43
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Births": 85351,
+    "Total Population": 6828065,
+    "Birth Rate": 12.5,
+    "Female Population": 1319880,
+    "Fertility Rate": 64.67
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2007,
+    "Births": 41378,
+    "Total Population": 2848650,
+    "Birth Rate": 14.53,
+    "Female Population": 569041,
+    "Fertility Rate": 72.72
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2008,
+    "Births": 40669,
+    "Total Population": 2874554,
+    "Birth Rate": 14.15,
+    "Female Population": 569079,
+    "Fertility Rate": 71.46
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2009,
+    "Births": 39808,
+    "Total Population": 2896843,
+    "Birth Rate": 13.74,
+    "Female Population": 568923,
+    "Fertility Rate": 69.97
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2010,
+    "Births": 38540,
+    "Total Population": 2915918,
+    "Birth Rate": 13.22,
+    "Female Population": 569446,
+    "Fertility Rate": 67.68
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2011,
+    "Births": 38715,
+    "Total Population": 2937979,
+    "Birth Rate": 13.18,
+    "Female Population": 570789,
+    "Fertility Rate": 67.83
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2012,
+    "Births": 38347,
+    "Total Population": 2949131,
+    "Birth Rate": 13,
+    "Female Population": 572675,
+    "Fertility Rate": 66.96
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2013,
+    "Births": 37832,
+    "Total Population": 2959373,
+    "Birth Rate": 12.78,
+    "Female Population": 574203,
+    "Fertility Rate": 65.89
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2014,
+    "Births": 38511,
+    "Total Population": 2966369,
+    "Birth Rate": 12.98,
+    "Female Population": 574772,
+    "Fertility Rate": 67
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Births": 38886,
+    "Total Population": 2978204,
+    "Birth Rate": 13.06,
+    "Female Population": 576460,
+    "Fertility Rate": 67.46
+  },
+  {
+    "State": "California",
+    "Year": 2007,
+    "Births": 566414,
+    "Total Population": 36250311,
+    "Birth Rate": 15.63,
+    "Female Population": 7803744,
+    "Fertility Rate": 72.58
+  },
+  {
+    "State": "California",
+    "Year": 2008,
+    "Births": 551779,
+    "Total Population": 36604337,
+    "Birth Rate": 15.07,
+    "Female Population": 7828450,
+    "Fertility Rate": 70.48
+  },
+  {
+    "State": "California",
+    "Year": 2009,
+    "Births": 527020,
+    "Total Population": 36961229,
+    "Birth Rate": 14.26,
+    "Female Population": 7851872,
+    "Fertility Rate": 67.12
+  },
+  {
+    "State": "California",
+    "Year": 2010,
+    "Births": 510198,
+    "Total Population": 37253956,
+    "Birth Rate": 13.7,
+    "Female Population": 7876871,
+    "Fertility Rate": 64.77
+  },
+  {
+    "State": "California",
+    "Year": 2011,
+    "Births": 502120,
+    "Total Population": 37691912,
+    "Birth Rate": 13.32,
+    "Female Population": 7916936,
+    "Fertility Rate": 63.42
+  },
+  {
+    "State": "California",
+    "Year": 2012,
+    "Births": 503755,
+    "Total Population": 38041430,
+    "Birth Rate": 13.24,
+    "Female Population": 7959596,
+    "Fertility Rate": 63.29
+  },
+  {
+    "State": "California",
+    "Year": 2013,
+    "Births": 494705,
+    "Total Population": 38332521,
+    "Birth Rate": 12.91,
+    "Female Population": 7982855,
+    "Fertility Rate": 61.97
+  },
+  {
+    "State": "California",
+    "Year": 2014,
+    "Births": 502879,
+    "Total Population": 38802500,
+    "Birth Rate": 12.96,
+    "Female Population": 8061479,
+    "Fertility Rate": 62.38
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Births": 491748,
+    "Total Population": 39144818,
+    "Birth Rate": 12.56,
+    "Female Population": 8084612,
+    "Fertility Rate": 60.83
+  },
+  {
+    "State": "Colorado",
+    "Year": 2007,
+    "Births": 70809,
+    "Total Population": 4803868,
+    "Birth Rate": 14.74,
+    "Female Population": 1004684,
+    "Fertility Rate": 70.48
+  },
+  {
+    "State": "Colorado",
+    "Year": 2008,
+    "Births": 70031,
+    "Total Population": 4889730,
+    "Birth Rate": 14.32,
+    "Female Population": 1012966,
+    "Fertility Rate": 69.13
+  },
+  {
+    "State": "Colorado",
+    "Year": 2009,
+    "Births": 68628,
+    "Total Population": 4972195,
+    "Birth Rate": 13.8,
+    "Female Population": 1020625,
+    "Fertility Rate": 67.24
+  },
+  {
+    "State": "Colorado",
+    "Year": 2010,
+    "Births": 66355,
+    "Total Population": 5029196,
+    "Birth Rate": 13.19,
+    "Female Population": 1025085,
+    "Fertility Rate": 64.73
+  },
+  {
+    "State": "Colorado",
+    "Year": 2011,
+    "Births": 65055,
+    "Total Population": 5116796,
+    "Birth Rate": 12.71,
+    "Female Population": 1038317,
+    "Fertility Rate": 62.65
+  },
+  {
+    "State": "Colorado",
+    "Year": 2012,
+    "Births": 65187,
+    "Total Population": 5187582,
+    "Birth Rate": 12.57,
+    "Female Population": 1050616,
+    "Fertility Rate": 62.05
+  },
+  {
+    "State": "Colorado",
+    "Year": 2013,
+    "Births": 65007,
+    "Total Population": 5268367,
+    "Birth Rate": 12.34,
+    "Female Population": 1065777,
+    "Fertility Rate": 60.99
+  },
+  {
+    "State": "Colorado",
+    "Year": 2014,
+    "Births": 65830,
+    "Total Population": 5355866,
+    "Birth Rate": 12.29,
+    "Female Population": 1084623,
+    "Fertility Rate": 60.69
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Births": 66581,
+    "Total Population": 5456574,
+    "Birth Rate": 12.2,
+    "Female Population": 1106534,
+    "Fertility Rate": 60.17
+  },
+  {
+    "State": "Connecticut",
+    "Year": 2007,
+    "Births": 41660,
+    "Total Population": 3527270,
+    "Birth Rate": 11.81,
+    "Female Population": 701587,
+    "Fertility Rate": 59.38
+  },
+  {
+    "State": "Connecticut",
+    "Year": 2008,
+    "Births": 40399,
+    "Total Population": 3545579,
+    "Birth Rate": 11.39,
+    "Female Population": 699195,
+    "Fertility Rate": 57.78
+  },
+  {
+    "State": "Connecticut",
+    "Year": 2009,
+    "Births": 38896,
+    "Total Population": 3561807,
+    "Birth Rate": 10.92,
+    "Female Population": 694930,
+    "Fertility Rate": 55.97
+  },
+  {
+    "State": "Connecticut",
+    "Year": 2010,
+    "Births": 37708,
+    "Total Population": 3574097,
+    "Birth Rate": 10.55,
+    "Female Population": 691265,
+    "Fertility Rate": 54.55
+  },
+  {
+    "State": "Connecticut",
+    "Year": 2011,
+    "Births": 37281,
+    "Total Population": 3580709,
+    "Birth Rate": 10.41,
+    "Female Population": 686640,
+    "Fertility Rate": 54.29
+  },
+  {
+    "State": "Connecticut",
+    "Year": 2012,
+    "Births": 36539,
+    "Total Population": 3590347,
+    "Birth Rate": 10.18,
+    "Female Population": 686665,
+    "Fertility Rate": 53.21
+  },
+  {
+    "State": "Connecticut",
+    "Year": 2013,
+    "Births": 36085,
+    "Total Population": 3596080,
+    "Birth Rate": 10.03,
+    "Female Population": 684995,
+    "Fertility Rate": 52.68
+  },
+  {
+    "State": "Connecticut",
+    "Year": 2014,
+    "Births": 36285,
+    "Total Population": 3596677,
+    "Birth Rate": 10.09,
+    "Female Population": 684158,
+    "Fertility Rate": 53.04
+  },
+  {
+    "State": "Connecticut",
+    "Year": 2015,
+    "Births": 35746,
+    "Total Population": 3590886,
+    "Birth Rate": 9.95,
+    "Female Population": 680629,
+    "Fertility Rate": 52.52
+  },
+  {
+    "State": "Delaware",
+    "Year": 2007,
+    "Births": 12170,
+    "Total Population": 871749,
+    "Birth Rate": 13.96,
+    "Female Population": 179779,
+    "Fertility Rate": 67.69
+  },
+  {
+    "State": "Delaware",
+    "Year": 2008,
+    "Births": 12090,
+    "Total Population": 883874,
+    "Birth Rate": 13.68,
+    "Female Population": 179986,
+    "Fertility Rate": 67.17
+  },
+  {
+    "State": "Delaware",
+    "Year": 2009,
+    "Births": 11559,
+    "Total Population": 891730,
+    "Birth Rate": 12.96,
+    "Female Population": 179610,
+    "Fertility Rate": 64.36
+  },
+  {
+    "State": "Delaware",
+    "Year": 2010,
+    "Births": 11364,
+    "Total Population": 897934,
+    "Birth Rate": 12.66,
+    "Female Population": 179232,
+    "Fertility Rate": 63.4
+  },
+  {
+    "State": "Delaware",
+    "Year": 2011,
+    "Births": 11257,
+    "Total Population": 907135,
+    "Birth Rate": 12.41,
+    "Female Population": 178901,
+    "Fertility Rate": 62.92
+  },
+  {
+    "State": "Delaware",
+    "Year": 2012,
+    "Births": 11023,
+    "Total Population": 917092,
+    "Birth Rate": 12.02,
+    "Female Population": 179542,
+    "Fertility Rate": 61.4
+  },
+  {
+    "State": "Delaware",
+    "Year": 2013,
+    "Births": 10831,
+    "Total Population": 925749,
+    "Birth Rate": 11.7,
+    "Female Population": 179522,
+    "Fertility Rate": 60.33
+  },
+  {
+    "State": "Delaware",
+    "Year": 2014,
+    "Births": 10972,
+    "Total Population": 935614,
+    "Birth Rate": 11.73,
+    "Female Population": 180400,
+    "Fertility Rate": 60.82
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Births": 11166,
+    "Total Population": 945934,
+    "Birth Rate": 11.8,
+    "Female Population": 180812,
+    "Fertility Rate": 61.75
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2007,
+    "Births": 8864,
+    "Total Population": 574404,
+    "Birth Rate": 15.43,
+    "Female Population": 149303,
+    "Fertility Rate": 59.37
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2008,
+    "Births": 9130,
+    "Total Population": 580236,
+    "Birth Rate": 15.73,
+    "Female Population": 152846,
+    "Fertility Rate": 59.73
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2009,
+    "Births": 9040,
+    "Total Population": 592228,
+    "Birth Rate": 15.26,
+    "Female Population": 157384,
+    "Fertility Rate": 57.44
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2010,
+    "Births": 9165,
+    "Total Population": 601723,
+    "Birth Rate": 15.23,
+    "Female Population": 162314,
+    "Fertility Rate": 56.46
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2011,
+    "Births": 9295,
+    "Total Population": 617996,
+    "Birth Rate": 15.04,
+    "Female Population": 166081,
+    "Fertility Rate": 55.97
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2012,
+    "Births": 9399,
+    "Total Population": 632323,
+    "Birth Rate": 14.86,
+    "Female Population": 170060,
+    "Fertility Rate": 55.27
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2013,
+    "Births": 9288,
+    "Total Population": 646449,
+    "Birth Rate": 14.37,
+    "Female Population": 174288,
+    "Fertility Rate": 53.29
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2014,
+    "Births": 9509,
+    "Total Population": 658893,
+    "Birth Rate": 14.43,
+    "Female Population": 177568,
+    "Fertility Rate": 53.55
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2015,
+    "Births": 9578,
+    "Total Population": 672228,
+    "Birth Rate": 14.25,
+    "Female Population": 181381,
+    "Fertility Rate": 52.81
+  },
+  {
+    "State": "Florida",
+    "Year": 2007,
+    "Births": 239165,
+    "Total Population": 18367842,
+    "Birth Rate": 13.02,
+    "Female Population": 3578652,
+    "Fertility Rate": 66.83
+  },
+  {
+    "State": "Florida",
+    "Year": 2008,
+    "Births": 231445,
+    "Total Population": 18527305,
+    "Birth Rate": 12.49,
+    "Female Population": 3575057,
+    "Fertility Rate": 64.74
+  },
+  {
+    "State": "Florida",
+    "Year": 2009,
+    "Births": 221394,
+    "Total Population": 18652644,
+    "Birth Rate": 11.87,
+    "Female Population": 3561023,
+    "Fertility Rate": 62.17
+  },
+  {
+    "State": "Florida",
+    "Year": 2010,
+    "Births": 214590,
+    "Total Population": 18801310,
+    "Birth Rate": 11.41,
+    "Female Population": 3560982,
+    "Fertility Rate": 60.26
+  },
+  {
+    "State": "Florida",
+    "Year": 2011,
+    "Births": 213414,
+    "Total Population": 19057542,
+    "Birth Rate": 11.2,
+    "Female Population": 3578464,
+    "Fertility Rate": 59.64
+  },
+  {
+    "State": "Florida",
+    "Year": 2012,
+    "Births": 213148,
+    "Total Population": 19317568,
+    "Birth Rate": 11.03,
+    "Female Population": 3612609,
+    "Fertility Rate": 59
+  },
+  {
+    "State": "Florida",
+    "Year": 2013,
+    "Births": 215407,
+    "Total Population": 19552860,
+    "Birth Rate": 11.02,
+    "Female Population": 3634590,
+    "Fertility Rate": 59.27
+  },
+  {
+    "State": "Florida",
+    "Year": 2014,
+    "Births": 219991,
+    "Total Population": 19893297,
+    "Birth Rate": 11.06,
+    "Female Population": 3687140,
+    "Fertility Rate": 59.66
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Births": 224269,
+    "Total Population": 20271272,
+    "Birth Rate": 11.06,
+    "Female Population": 3740217,
+    "Fertility Rate": 59.96
+  },
+  {
+    "State": "Georgia",
+    "Year": 2007,
+    "Births": 151137,
+    "Total Population": 9349988,
+    "Birth Rate": 16.16,
+    "Female Population": 2054423,
+    "Fertility Rate": 73.57
+  },
+  {
+    "State": "Georgia",
+    "Year": 2008,
+    "Births": 146603,
+    "Total Population": 9504843,
+    "Birth Rate": 15.42,
+    "Female Population": 2070606,
+    "Fertility Rate": 70.8
+  },
+  {
+    "State": "Georgia",
+    "Year": 2009,
+    "Births": 141377,
+    "Total Population": 9620846,
+    "Birth Rate": 14.69,
+    "Female Population": 2074589,
+    "Fertility Rate": 68.15
+  },
+  {
+    "State": "Georgia",
+    "Year": 2010,
+    "Births": 133947,
+    "Total Population": 9687653,
+    "Birth Rate": 13.83,
+    "Female Population": 2073006,
+    "Fertility Rate": 64.61
+  },
+  {
+    "State": "Georgia",
+    "Year": 2011,
+    "Births": 132409,
+    "Total Population": 9815210,
+    "Birth Rate": 13.49,
+    "Female Population": 2076093,
+    "Fertility Rate": 63.78
+  },
+  {
+    "State": "Georgia",
+    "Year": 2012,
+    "Births": 130280,
+    "Total Population": 9919945,
+    "Birth Rate": 13.13,
+    "Female Population": 2088555,
+    "Fertility Rate": 62.38
+  },
+  {
+    "State": "Georgia",
+    "Year": 2013,
+    "Births": 128748,
+    "Total Population": 9992167,
+    "Birth Rate": 12.88,
+    "Female Population": 2089387,
+    "Fertility Rate": 61.62
+  },
+  {
+    "State": "Georgia",
+    "Year": 2014,
+    "Births": 130946,
+    "Total Population": 10097343,
+    "Birth Rate": 12.97,
+    "Female Population": 2104573,
+    "Fertility Rate": 62.22
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Births": 131404,
+    "Total Population": 10214860,
+    "Birth Rate": 12.86,
+    "Female Population": 2119884,
+    "Fertility Rate": 61.99
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2007,
+    "Births": 19134,
+    "Total Population": 1315675,
+    "Birth Rate": 14.54,
+    "Female Population": 259500,
+    "Fertility Rate": 73.73
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2008,
+    "Births": 19484,
+    "Total Population": 1332213,
+    "Birth Rate": 14.63,
+    "Female Population": 260557,
+    "Fertility Rate": 74.78
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2009,
+    "Births": 18887,
+    "Total Population": 1346717,
+    "Birth Rate": 14.02,
+    "Female Population": 261245,
+    "Fertility Rate": 72.3
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2010,
+    "Births": 18988,
+    "Total Population": 1360301,
+    "Birth Rate": 13.96,
+    "Female Population": 262107,
+    "Fertility Rate": 72.44
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2011,
+    "Births": 18956,
+    "Total Population": 1374810,
+    "Birth Rate": 13.79,
+    "Female Population": 263598,
+    "Fertility Rate": 71.91
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2012,
+    "Births": 18980,
+    "Total Population": 1392313,
+    "Birth Rate": 13.63,
+    "Female Population": 265029,
+    "Fertility Rate": 71.61
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2013,
+    "Births": 18987,
+    "Total Population": 1404054,
+    "Birth Rate": 13.52,
+    "Female Population": 265474,
+    "Fertility Rate": 71.52
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2014,
+    "Births": 18550,
+    "Total Population": 1419561,
+    "Birth Rate": 13.07,
+    "Female Population": 267712,
+    "Fertility Rate": 69.29
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Births": 18420,
+    "Total Population": 1431603,
+    "Birth Rate": 12.87,
+    "Female Population": 268188,
+    "Fertility Rate": 68.68
+  },
+  {
+    "State": "Idaho",
+    "Year": 2007,
+    "Births": 25019,
+    "Total Population": 1505105,
+    "Birth Rate": 16.62,
+    "Female Population": 301581,
+    "Fertility Rate": 82.96
+  },
+  {
+    "State": "Idaho",
+    "Year": 2008,
+    "Births": 25149,
+    "Total Population": 1534320,
+    "Birth Rate": 16.39,
+    "Female Population": 304773,
+    "Fertility Rate": 82.52
+  },
+  {
+    "State": "Idaho",
+    "Year": 2009,
+    "Births": 23737,
+    "Total Population": 1554439,
+    "Birth Rate": 15.27,
+    "Female Population": 305968,
+    "Fertility Rate": 77.58
+  },
+  {
+    "State": "Idaho",
+    "Year": 2010,
+    "Births": 23198,
+    "Total Population": 1567582,
+    "Birth Rate": 14.8,
+    "Female Population": 306303,
+    "Fertility Rate": 75.74
+  },
+  {
+    "State": "Idaho",
+    "Year": 2011,
+    "Births": 22305,
+    "Total Population": 1584985,
+    "Birth Rate": 14.07,
+    "Female Population": 308675,
+    "Fertility Rate": 72.26
+  },
+  {
+    "State": "Idaho",
+    "Year": 2012,
+    "Births": 22963,
+    "Total Population": 1595728,
+    "Birth Rate": 14.39,
+    "Female Population": 309836,
+    "Fertility Rate": 74.11
+  },
+  {
+    "State": "Idaho",
+    "Year": 2013,
+    "Births": 22383,
+    "Total Population": 1612136,
+    "Birth Rate": 13.88,
+    "Female Population": 311712,
+    "Fertility Rate": 71.81
+  },
+  {
+    "State": "Idaho",
+    "Year": 2014,
+    "Births": 22876,
+    "Total Population": 1634464,
+    "Birth Rate": 14,
+    "Female Population": 314852,
+    "Fertility Rate": 72.66
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Births": 22827,
+    "Total Population": 1654930,
+    "Birth Rate": 13.79,
+    "Female Population": 317807,
+    "Fertility Rate": 71.83
+  },
+  {
+    "State": "Illinois",
+    "Year": 2007,
+    "Births": 180836,
+    "Total Population": 12695866,
+    "Birth Rate": 14.24,
+    "Female Population": 2655310,
+    "Fertility Rate": 68.1
+  },
+  {
+    "State": "Illinois",
+    "Year": 2008,
+    "Births": 176795,
+    "Total Population": 12747038,
+    "Birth Rate": 13.87,
+    "Female Population": 2648509,
+    "Fertility Rate": 66.75
+  },
+  {
+    "State": "Illinois",
+    "Year": 2009,
+    "Births": 171163,
+    "Total Population": 12796778,
+    "Birth Rate": 13.38,
+    "Female Population": 2641171,
+    "Fertility Rate": 64.81
+  },
+  {
+    "State": "Illinois",
+    "Year": 2010,
+    "Births": 165200,
+    "Total Population": 12830632,
+    "Birth Rate": 12.88,
+    "Female Population": 2631753,
+    "Fertility Rate": 62.77
+  },
+  {
+    "State": "Illinois",
+    "Year": 2011,
+    "Births": 161312,
+    "Total Population": 12869257,
+    "Birth Rate": 12.53,
+    "Female Population": 2622664,
+    "Fertility Rate": 61.51
+  },
+  {
+    "State": "Illinois",
+    "Year": 2012,
+    "Births": 159160,
+    "Total Population": 12875255,
+    "Birth Rate": 12.36,
+    "Female Population": 2613073,
+    "Fertility Rate": 60.91
+  },
+  {
+    "State": "Illinois",
+    "Year": 2013,
+    "Births": 156931,
+    "Total Population": 12882135,
+    "Birth Rate": 12.18,
+    "Female Population": 2603359,
+    "Fertility Rate": 60.28
+  },
+  {
+    "State": "Illinois",
+    "Year": 2014,
+    "Births": 158556,
+    "Total Population": 12880580,
+    "Birth Rate": 12.31,
+    "Female Population": 2596483,
+    "Fertility Rate": 61.07
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Births": 158116,
+    "Total Population": 12859995,
+    "Birth Rate": 12.3,
+    "Female Population": 2577634,
+    "Fertility Rate": 61.34
+  },
+  {
+    "State": "Indiana",
+    "Year": 2007,
+    "Births": 89864,
+    "Total Population": 6379599,
+    "Birth Rate": 14.09,
+    "Female Population": 1297846,
+    "Fertility Rate": 69.24
+  },
+  {
+    "State": "Indiana",
+    "Year": 2008,
+    "Births": 88742,
+    "Total Population": 6424806,
+    "Birth Rate": 13.81,
+    "Female Population": 1295656,
+    "Fertility Rate": 68.49
+  },
+  {
+    "State": "Indiana",
+    "Year": 2009,
+    "Births": 86673,
+    "Total Population": 6459325,
+    "Birth Rate": 13.42,
+    "Female Population": 1290807,
+    "Fertility Rate": 67.15
+  },
+  {
+    "State": "Indiana",
+    "Year": 2010,
+    "Births": 83940,
+    "Total Population": 6483802,
+    "Birth Rate": 12.95,
+    "Female Population": 1287393,
+    "Fertility Rate": 65.2
+  },
+  {
+    "State": "Indiana",
+    "Year": 2011,
+    "Births": 83701,
+    "Total Population": 6516922,
+    "Birth Rate": 12.84,
+    "Female Population": 1287382,
+    "Fertility Rate": 65.02
+  },
+  {
+    "State": "Indiana",
+    "Year": 2012,
+    "Births": 83227,
+    "Total Population": 6537334,
+    "Birth Rate": 12.73,
+    "Female Population": 1286576,
+    "Fertility Rate": 64.69
+  },
+  {
+    "State": "Indiana",
+    "Year": 2013,
+    "Births": 83102,
+    "Total Population": 6570902,
+    "Birth Rate": 12.65,
+    "Female Population": 1292138,
+    "Fertility Rate": 64.31
+  },
+  {
+    "State": "Indiana",
+    "Year": 2014,
+    "Births": 84080,
+    "Total Population": 6596855,
+    "Birth Rate": 12.75,
+    "Female Population": 1295431,
+    "Fertility Rate": 64.91
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Births": 84040,
+    "Total Population": 6619680,
+    "Birth Rate": 12.7,
+    "Female Population": 1296510,
+    "Fertility Rate": 64.82
+  },
+  {
+    "State": "Iowa",
+    "Year": 2007,
+    "Births": 40886,
+    "Total Population": 2999212,
+    "Birth Rate": 13.63,
+    "Female Population": 581579,
+    "Fertility Rate": 70.3
+  },
+  {
+    "State": "Iowa",
+    "Year": 2008,
+    "Births": 40224,
+    "Total Population": 3016734,
+    "Birth Rate": 13.33,
+    "Female Population": 579260,
+    "Fertility Rate": 69.44
+  },
+  {
+    "State": "Iowa",
+    "Year": 2009,
+    "Births": 39701,
+    "Total Population": 3032870,
+    "Birth Rate": 13.09,
+    "Female Population": 577301,
+    "Fertility Rate": 68.77
+  },
+  {
+    "State": "Iowa",
+    "Year": 2010,
+    "Births": 38719,
+    "Total Population": 3046355,
+    "Birth Rate": 12.71,
+    "Female Population": 576692,
+    "Fertility Rate": 67.14
+  },
+  {
+    "State": "Iowa",
+    "Year": 2011,
+    "Births": 38214,
+    "Total Population": 3062309,
+    "Birth Rate": 12.48,
+    "Female Population": 578260,
+    "Fertility Rate": 66.08
+  },
+  {
+    "State": "Iowa",
+    "Year": 2012,
+    "Births": 38702,
+    "Total Population": 3074186,
+    "Birth Rate": 12.59,
+    "Female Population": 579691,
+    "Fertility Rate": 66.76
+  },
+  {
+    "State": "Iowa",
+    "Year": 2013,
+    "Births": 39094,
+    "Total Population": 3090416,
+    "Birth Rate": 12.65,
+    "Female Population": 582884,
+    "Fertility Rate": 67.07
+  },
+  {
+    "State": "Iowa",
+    "Year": 2014,
+    "Births": 39687,
+    "Total Population": 3107126,
+    "Birth Rate": 12.77,
+    "Female Population": 585645,
+    "Fertility Rate": 67.77
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Births": 39482,
+    "Total Population": 3123899,
+    "Birth Rate": 12.64,
+    "Female Population": 588384,
+    "Fertility Rate": 67.1
+  },
+  {
+    "State": "Kansas",
+    "Year": 2007,
+    "Births": 42004,
+    "Total Population": 2783785,
+    "Birth Rate": 15.09,
+    "Female Population": 555015,
+    "Fertility Rate": 75.68
+  },
+  {
+    "State": "Kansas",
+    "Year": 2008,
+    "Births": 41833,
+    "Total Population": 2808076,
+    "Birth Rate": 14.9,
+    "Female Population": 553668,
+    "Fertility Rate": 75.56
+  },
+  {
+    "State": "Kansas",
+    "Year": 2009,
+    "Births": 41396,
+    "Total Population": 2832704,
+    "Birth Rate": 14.61,
+    "Female Population": 553570,
+    "Fertility Rate": 74.78
+  },
+  {
+    "State": "Kansas",
+    "Year": 2010,
+    "Births": 40649,
+    "Total Population": 2853118,
+    "Birth Rate": 14.25,
+    "Female Population": 554584,
+    "Fertility Rate": 73.3
+  },
+  {
+    "State": "Kansas",
+    "Year": 2011,
+    "Births": 39642,
+    "Total Population": 2871238,
+    "Birth Rate": 13.81,
+    "Female Population": 556582,
+    "Fertility Rate": 71.22
+  },
+  {
+    "State": "Kansas",
+    "Year": 2012,
+    "Births": 40341,
+    "Total Population": 2885905,
+    "Birth Rate": 13.98,
+    "Female Population": 557854,
+    "Fertility Rate": 72.31
+  },
+  {
+    "State": "Kansas",
+    "Year": 2013,
+    "Births": 38839,
+    "Total Population": 2893957,
+    "Birth Rate": 13.42,
+    "Female Population": 558538,
+    "Fertility Rate": 69.54
+  },
+  {
+    "State": "Kansas",
+    "Year": 2014,
+    "Births": 39223,
+    "Total Population": 2904021,
+    "Birth Rate": 13.51,
+    "Female Population": 560331,
+    "Fertility Rate": 70
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Births": 39154,
+    "Total Population": 2911641,
+    "Birth Rate": 13.45,
+    "Female Population": 560142,
+    "Fertility Rate": 69.9
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2007,
+    "Births": 59368,
+    "Total Population": 4256672,
+    "Birth Rate": 13.95,
+    "Female Population": 863480,
+    "Fertility Rate": 68.75
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2008,
+    "Births": 58375,
+    "Total Population": 4289878,
+    "Birth Rate": 13.61,
+    "Female Population": 861979,
+    "Fertility Rate": 67.72
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2009,
+    "Births": 57551,
+    "Total Population": 4317074,
+    "Birth Rate": 13.33,
+    "Female Population": 856504,
+    "Fertility Rate": 67.19
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2010,
+    "Births": 55784,
+    "Total Population": 4339367,
+    "Birth Rate": 12.86,
+    "Female Population": 854846,
+    "Fertility Rate": 65.26
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2011,
+    "Births": 55370,
+    "Total Population": 4369356,
+    "Birth Rate": 12.67,
+    "Female Population": 855511,
+    "Fertility Rate": 64.72
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2012,
+    "Births": 55758,
+    "Total Population": 4380415,
+    "Birth Rate": 12.73,
+    "Female Population": 851982,
+    "Fertility Rate": 65.45
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2013,
+    "Births": 55686,
+    "Total Population": 4395295,
+    "Birth Rate": 12.67,
+    "Female Population": 852992,
+    "Fertility Rate": 65.28
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2014,
+    "Births": 56170,
+    "Total Population": 4413457,
+    "Birth Rate": 12.73,
+    "Female Population": 853601,
+    "Fertility Rate": 65.8
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Births": 55971,
+    "Total Population": 4425092,
+    "Birth Rate": 12.65,
+    "Female Population": 851631,
+    "Fertility Rate": 65.72
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2007,
+    "Births": 66301,
+    "Total Population": 4375581,
+    "Birth Rate": 15.15,
+    "Female Population": 915760,
+    "Fertility Rate": 72.4
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2008,
+    "Births": 65268,
+    "Total Population": 4435586,
+    "Birth Rate": 14.71,
+    "Female Population": 920542,
+    "Fertility Rate": 70.9
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2009,
+    "Births": 64973,
+    "Total Population": 4491648,
+    "Birth Rate": 14.47,
+    "Female Population": 924981,
+    "Fertility Rate": 70.24
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2010,
+    "Births": 62379,
+    "Total Population": 4533372,
+    "Birth Rate": 13.76,
+    "Female Population": 928335,
+    "Fertility Rate": 67.19
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2011,
+    "Births": 61888,
+    "Total Population": 4574836,
+    "Birth Rate": 13.53,
+    "Female Population": 932079,
+    "Fertility Rate": 66.4
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2012,
+    "Births": 62642,
+    "Total Population": 4601893,
+    "Birth Rate": 13.61,
+    "Female Population": 934760,
+    "Fertility Rate": 67.01
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2013,
+    "Births": 63201,
+    "Total Population": 4625470,
+    "Birth Rate": 13.66,
+    "Female Population": 938719,
+    "Fertility Rate": 67.33
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2014,
+    "Births": 64497,
+    "Total Population": 4649676,
+    "Birth Rate": 13.87,
+    "Female Population": 942656,
+    "Fertility Rate": 68.42
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Births": 64692,
+    "Total Population": 4670724,
+    "Birth Rate": 13.85,
+    "Female Population": 943958,
+    "Fertility Rate": 68.53
+  },
+  {
+    "State": "Maine",
+    "Year": 2007,
+    "Births": 14120,
+    "Total Population": 1327040,
+    "Birth Rate": 10.64,
+    "Female Population": 252918,
+    "Fertility Rate": 55.83
+  },
+  {
+    "State": "Maine",
+    "Year": 2008,
+    "Births": 13609,
+    "Total Population": 1330509,
+    "Birth Rate": 10.23,
+    "Female Population": 249522,
+    "Fertility Rate": 54.54
+  },
+  {
+    "State": "Maine",
+    "Year": 2009,
+    "Births": 13470,
+    "Total Population": 1329590,
+    "Birth Rate": 10.13,
+    "Female Population": 245110,
+    "Fertility Rate": 54.95
+  },
+  {
+    "State": "Maine",
+    "Year": 2010,
+    "Births": 12970,
+    "Total Population": 1328361,
+    "Birth Rate": 9.76,
+    "Female Population": 241923,
+    "Fertility Rate": 53.61
+  },
+  {
+    "State": "Maine",
+    "Year": 2011,
+    "Births": 12704,
+    "Total Population": 1328188,
+    "Birth Rate": 9.56,
+    "Female Population": 239185,
+    "Fertility Rate": 53.11
+  },
+  {
+    "State": "Maine",
+    "Year": 2012,
+    "Births": 12798,
+    "Total Population": 1329192,
+    "Birth Rate": 9.63,
+    "Female Population": 237226,
+    "Fertility Rate": 53.95
+  },
+  {
+    "State": "Maine",
+    "Year": 2013,
+    "Births": 12776,
+    "Total Population": 1328302,
+    "Birth Rate": 9.62,
+    "Female Population": 234970,
+    "Fertility Rate": 54.37
+  },
+  {
+    "State": "Maine",
+    "Year": 2014,
+    "Births": 12698,
+    "Total Population": 1330089,
+    "Birth Rate": 9.55,
+    "Female Population": 233832,
+    "Fertility Rate": 54.3
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Births": 12607,
+    "Total Population": 1329328,
+    "Birth Rate": 9.48,
+    "Female Population": 232112,
+    "Fertility Rate": 54.31
+  },
+  {
+    "State": "Maryland",
+    "Year": 2007,
+    "Births": 78095,
+    "Total Population": 5653408,
+    "Birth Rate": 13.81,
+    "Female Population": 1202376,
+    "Fertility Rate": 64.95
+  },
+  {
+    "State": "Maryland",
+    "Year": 2008,
+    "Births": 77289,
+    "Total Population": 5684965,
+    "Birth Rate": 13.6,
+    "Female Population": 1196743,
+    "Fertility Rate": 64.58
+  },
+  {
+    "State": "Maryland",
+    "Year": 2009,
+    "Births": 75059,
+    "Total Population": 5730388,
+    "Birth Rate": 13.1,
+    "Female Population": 1192380,
+    "Fertility Rate": 62.95
+  },
+  {
+    "State": "Maryland",
+    "Year": 2010,
+    "Births": 73801,
+    "Total Population": 5773552,
+    "Birth Rate": 12.78,
+    "Female Population": 1193402,
+    "Fertility Rate": 61.84
+  },
+  {
+    "State": "Maryland",
+    "Year": 2011,
+    "Births": 73093,
+    "Total Population": 5828289,
+    "Birth Rate": 12.54,
+    "Female Population": 1192668,
+    "Fertility Rate": 61.29
+  },
+  {
+    "State": "Maryland",
+    "Year": 2012,
+    "Births": 72883,
+    "Total Population": 5884563,
+    "Birth Rate": 12.39,
+    "Female Population": 1198632,
+    "Fertility Rate": 60.81
+  },
+  {
+    "State": "Maryland",
+    "Year": 2013,
+    "Births": 71953,
+    "Total Population": 5928814,
+    "Birth Rate": 12.14,
+    "Female Population": 1197064,
+    "Fertility Rate": 60.11
+  },
+  {
+    "State": "Maryland",
+    "Year": 2014,
+    "Births": 73921,
+    "Total Population": 5976407,
+    "Birth Rate": 12.37,
+    "Female Population": 1201916,
+    "Fertility Rate": 61.5
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Births": 73616,
+    "Total Population": 6006401,
+    "Birth Rate": 12.26,
+    "Female Population": 1200564,
+    "Fertility Rate": 61.32
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2007,
+    "Births": 77967,
+    "Total Population": 6431559,
+    "Birth Rate": 12.12,
+    "Female Population": 1358274,
+    "Fertility Rate": 57.4
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2008,
+    "Births": 77022,
+    "Total Population": 6468967,
+    "Birth Rate": 11.91,
+    "Female Population": 1355631,
+    "Fertility Rate": 56.82
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2009,
+    "Births": 75016,
+    "Total Population": 6517613,
+    "Birth Rate": 11.51,
+    "Female Population": 1353825,
+    "Fertility Rate": 55.41
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2010,
+    "Births": 72865,
+    "Total Population": 6547629,
+    "Birth Rate": 11.13,
+    "Female Population": 1350576,
+    "Fertility Rate": 53.95
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2011,
+    "Births": 73166,
+    "Total Population": 6587536,
+    "Birth Rate": 11.11,
+    "Female Population": 1347056,
+    "Fertility Rate": 54.32
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2012,
+    "Births": 72439,
+    "Total Population": 6646144,
+    "Birth Rate": 10.9,
+    "Female Population": 1353528,
+    "Fertility Rate": 53.52
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2013,
+    "Births": 71788,
+    "Total Population": 6692824,
+    "Birth Rate": 10.73,
+    "Female Population": 1358679,
+    "Fertility Rate": 52.84
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2014,
+    "Births": 71908,
+    "Total Population": 6745408,
+    "Birth Rate": 10.66,
+    "Female Population": 1369202,
+    "Fertility Rate": 52.52
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Births": 71492,
+    "Total Population": 6794422,
+    "Birth Rate": 10.52,
+    "Female Population": 1373958,
+    "Fertility Rate": 52.03
+  },
+  {
+    "State": "Michigan",
+    "Year": 2007,
+    "Births": 125261,
+    "Total Population": 10001284,
+    "Birth Rate": 12.52,
+    "Female Population": 2009754,
+    "Fertility Rate": 62.33
+  },
+  {
+    "State": "Michigan",
+    "Year": 2008,
+    "Births": 121127,
+    "Total Population": 9946889,
+    "Birth Rate": 12.18,
+    "Female Population": 1973631,
+    "Fertility Rate": 61.37
+  },
+  {
+    "State": "Michigan",
+    "Year": 2009,
+    "Births": 117294,
+    "Total Population": 9901591,
+    "Birth Rate": 11.85,
+    "Female Population": 1938741,
+    "Fertility Rate": 60.5
+  },
+  {
+    "State": "Michigan",
+    "Year": 2010,
+    "Births": 114531,
+    "Total Population": 9883640,
+    "Birth Rate": 11.59,
+    "Female Population": 1918594,
+    "Fertility Rate": 59.7
+  },
+  {
+    "State": "Michigan",
+    "Year": 2011,
+    "Births": 114008,
+    "Total Population": 9876187,
+    "Birth Rate": 11.54,
+    "Female Population": 1904783,
+    "Fertility Rate": 59.85
+  },
+  {
+    "State": "Michigan",
+    "Year": 2012,
+    "Births": 113091,
+    "Total Population": 9883360,
+    "Birth Rate": 11.44,
+    "Female Population": 1896731,
+    "Fertility Rate": 59.62
+  },
+  {
+    "State": "Michigan",
+    "Year": 2013,
+    "Births": 113489,
+    "Total Population": 9895622,
+    "Birth Rate": 11.47,
+    "Female Population": 1890426,
+    "Fertility Rate": 60.03
+  },
+  {
+    "State": "Michigan",
+    "Year": 2014,
+    "Births": 114375,
+    "Total Population": 9909877,
+    "Birth Rate": 11.54,
+    "Female Population": 1887778,
+    "Fertility Rate": 60.59
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Births": 113312,
+    "Total Population": 9922576,
+    "Birth Rate": 11.42,
+    "Female Population": 1880657,
+    "Fertility Rate": 60.25
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2007,
+    "Births": 73735,
+    "Total Population": 5207203,
+    "Birth Rate": 14.16,
+    "Female Population": 1062063,
+    "Fertility Rate": 69.43
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2008,
+    "Births": 72421,
+    "Total Population": 5247018,
+    "Birth Rate": 13.8,
+    "Female Population": 1056396,
+    "Fertility Rate": 68.55
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2009,
+    "Births": 70646,
+    "Total Population": 5281203,
+    "Birth Rate": 13.38,
+    "Female Population": 1050519,
+    "Fertility Rate": 67.25
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2010,
+    "Births": 68610,
+    "Total Population": 5303925,
+    "Birth Rate": 12.94,
+    "Female Population": 1045681,
+    "Fertility Rate": 65.61
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2011,
+    "Births": 68409,
+    "Total Population": 5344861,
+    "Birth Rate": 12.8,
+    "Female Population": 1044201,
+    "Fertility Rate": 65.51
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2012,
+    "Births": 68772,
+    "Total Population": 5379139,
+    "Birth Rate": 12.78,
+    "Female Population": 1046298,
+    "Fertility Rate": 65.73
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2013,
+    "Births": 69159,
+    "Total Population": 5420380,
+    "Birth Rate": 12.76,
+    "Female Population": 1049636,
+    "Fertility Rate": 65.89
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2014,
+    "Births": 69904,
+    "Total Population": 5457173,
+    "Birth Rate": 12.81,
+    "Female Population": 1053340,
+    "Fertility Rate": 66.36
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Births": 69834,
+    "Total Population": 5489594,
+    "Birth Rate": 12.72,
+    "Female Population": 1054063,
+    "Fertility Rate": 66.25
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2007,
+    "Births": 46491,
+    "Total Population": 2928350,
+    "Birth Rate": 15.88,
+    "Female Population": 609676,
+    "Fertility Rate": 76.26
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2008,
+    "Births": 44947,
+    "Total Population": 2947806,
+    "Birth Rate": 15.25,
+    "Female Population": 608503,
+    "Fertility Rate": 73.86
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2009,
+    "Births": 42901,
+    "Total Population": 2958774,
+    "Birth Rate": 14.5,
+    "Female Population": 605971,
+    "Fertility Rate": 70.8
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2010,
+    "Births": 40036,
+    "Total Population": 2967297,
+    "Birth Rate": 13.49,
+    "Female Population": 604036,
+    "Fertility Rate": 66.28
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2011,
+    "Births": 39860,
+    "Total Population": 2978512,
+    "Birth Rate": 13.38,
+    "Female Population": 603540,
+    "Fertility Rate": 66.04
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2012,
+    "Births": 38669,
+    "Total Population": 2984926,
+    "Birth Rate": 12.95,
+    "Female Population": 602305,
+    "Fertility Rate": 64.2
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2013,
+    "Births": 38634,
+    "Total Population": 2991207,
+    "Birth Rate": 12.92,
+    "Female Population": 601690,
+    "Fertility Rate": 64.21
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2014,
+    "Births": 38736,
+    "Total Population": 2994079,
+    "Birth Rate": 12.94,
+    "Female Population": 601260,
+    "Fertility Rate": 64.42
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Births": 38394,
+    "Total Population": 2992333,
+    "Birth Rate": 12.83,
+    "Female Population": 599445,
+    "Fertility Rate": 64.05
+  },
+  {
+    "State": "Missouri",
+    "Year": 2007,
+    "Births": 81930,
+    "Total Population": 5887612,
+    "Birth Rate": 13.92,
+    "Female Population": 1189397,
+    "Fertility Rate": 68.88
+  },
+  {
+    "State": "Missouri",
+    "Year": 2008,
+    "Births": 80963,
+    "Total Population": 5923916,
+    "Birth Rate": 13.67,
+    "Female Population": 1184136,
+    "Fertility Rate": 68.37
+  },
+  {
+    "State": "Missouri",
+    "Year": 2009,
+    "Births": 78905,
+    "Total Population": 5961088,
+    "Birth Rate": 13.24,
+    "Female Population": 1179940,
+    "Fertility Rate": 66.87
+  },
+  {
+    "State": "Missouri",
+    "Year": 2010,
+    "Births": 76759,
+    "Total Population": 5988927,
+    "Birth Rate": 12.82,
+    "Female Population": 1176684,
+    "Fertility Rate": 65.23
+  },
+  {
+    "State": "Missouri",
+    "Year": 2011,
+    "Births": 76117,
+    "Total Population": 6010688,
+    "Birth Rate": 12.66,
+    "Female Population": 1174879,
+    "Fertility Rate": 64.79
+  },
+  {
+    "State": "Missouri",
+    "Year": 2012,
+    "Births": 75446,
+    "Total Population": 6021988,
+    "Birth Rate": 12.53,
+    "Female Population": 1172699,
+    "Fertility Rate": 64.34
+  },
+  {
+    "State": "Missouri",
+    "Year": 2013,
+    "Births": 75296,
+    "Total Population": 6044171,
+    "Birth Rate": 12.46,
+    "Female Population": 1174457,
+    "Fertility Rate": 64.11
+  },
+  {
+    "State": "Missouri",
+    "Year": 2014,
+    "Births": 75360,
+    "Total Population": 6063589,
+    "Birth Rate": 12.43,
+    "Female Population": 1176158,
+    "Fertility Rate": 64.07
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Births": 75061,
+    "Total Population": 6083672,
+    "Birth Rate": 12.34,
+    "Female Population": 1176557,
+    "Fertility Rate": 63.8
+  },
+  {
+    "State": "Montana",
+    "Year": 2007,
+    "Births": 12439,
+    "Total Population": 964706,
+    "Birth Rate": 12.89,
+    "Female Population": 180948,
+    "Fertility Rate": 68.74
+  },
+  {
+    "State": "Montana",
+    "Year": 2008,
+    "Births": 12594,
+    "Total Population": 976415,
+    "Birth Rate": 12.9,
+    "Female Population": 181076,
+    "Fertility Rate": 69.55
+  },
+  {
+    "State": "Montana",
+    "Year": 2009,
+    "Births": 12257,
+    "Total Population": 983982,
+    "Birth Rate": 12.46,
+    "Female Population": 179917,
+    "Fertility Rate": 68.13
+  },
+  {
+    "State": "Montana",
+    "Year": 2010,
+    "Births": 12060,
+    "Total Population": 989415,
+    "Birth Rate": 12.19,
+    "Female Population": 179670,
+    "Fertility Rate": 67.12
+  },
+  {
+    "State": "Montana",
+    "Year": 2011,
+    "Births": 12069,
+    "Total Population": 998199,
+    "Birth Rate": 12.09,
+    "Female Population": 180934,
+    "Fertility Rate": 66.7
+  },
+  {
+    "State": "Montana",
+    "Year": 2012,
+    "Births": 12118,
+    "Total Population": 1005141,
+    "Birth Rate": 12.06,
+    "Female Population": 181884,
+    "Fertility Rate": 66.62
+  },
+  {
+    "State": "Montana",
+    "Year": 2013,
+    "Births": 12377,
+    "Total Population": 1015165,
+    "Birth Rate": 12.19,
+    "Female Population": 184153,
+    "Fertility Rate": 67.21
+  },
+  {
+    "State": "Montana",
+    "Year": 2014,
+    "Births": 12432,
+    "Total Population": 1023579,
+    "Birth Rate": 12.15,
+    "Female Population": 185661,
+    "Fertility Rate": 66.96
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Births": 12583,
+    "Total Population": 1032949,
+    "Birth Rate": 12.18,
+    "Female Population": 186922,
+    "Fertility Rate": 67.32
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2007,
+    "Births": 26934,
+    "Total Population": 1783440,
+    "Birth Rate": 15.1,
+    "Female Population": 354570,
+    "Fertility Rate": 75.96
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2008,
+    "Births": 26989,
+    "Total Population": 1796378,
+    "Birth Rate": 15.02,
+    "Female Population": 353716,
+    "Fertility Rate": 76.3
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2009,
+    "Births": 26936,
+    "Total Population": 1812683,
+    "Birth Rate": 14.86,
+    "Female Population": 354073,
+    "Fertility Rate": 76.07
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2010,
+    "Births": 25918,
+    "Total Population": 1826341,
+    "Birth Rate": 14.19,
+    "Female Population": 355031,
+    "Fertility Rate": 73
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2011,
+    "Births": 25720,
+    "Total Population": 1842641,
+    "Birth Rate": 13.96,
+    "Female Population": 357237,
+    "Fertility Rate": 72
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2012,
+    "Births": 25942,
+    "Total Population": 1855525,
+    "Birth Rate": 13.98,
+    "Female Population": 358575,
+    "Fertility Rate": 72.35
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2013,
+    "Births": 26095,
+    "Total Population": 1868516,
+    "Birth Rate": 13.97,
+    "Female Population": 361532,
+    "Fertility Rate": 72.18
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2014,
+    "Births": 26794,
+    "Total Population": 1881503,
+    "Birth Rate": 14.24,
+    "Female Population": 364075,
+    "Fertility Rate": 73.59
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Births": 26679,
+    "Total Population": 1896190,
+    "Birth Rate": 14.07,
+    "Female Population": 366370,
+    "Fertility Rate": 72.82
+  },
+  {
+    "State": "Nevada",
+    "Year": 2007,
+    "Births": 41181,
+    "Total Population": 2601072,
+    "Birth Rate": 15.83,
+    "Female Population": 538777,
+    "Fertility Rate": 76.43
+  },
+  {
+    "State": "Nevada",
+    "Year": 2008,
+    "Births": 39506,
+    "Total Population": 2653630,
+    "Birth Rate": 14.89,
+    "Female Population": 548040,
+    "Fertility Rate": 72.09
+  },
+  {
+    "State": "Nevada",
+    "Year": 2009,
+    "Births": 37612,
+    "Total Population": 2684665,
+    "Birth Rate": 14.01,
+    "Female Population": 549912,
+    "Fertility Rate": 68.4
+  },
+  {
+    "State": "Nevada",
+    "Year": 2010,
+    "Births": 35934,
+    "Total Population": 2700551,
+    "Birth Rate": 13.31,
+    "Female Population": 549924,
+    "Fertility Rate": 65.34
+  },
+  {
+    "State": "Nevada",
+    "Year": 2011,
+    "Births": 35296,
+    "Total Population": 2723322,
+    "Birth Rate": 12.96,
+    "Female Population": 549361,
+    "Fertility Rate": 64.25
+  },
+  {
+    "State": "Nevada",
+    "Year": 2012,
+    "Births": 34911,
+    "Total Population": 2758931,
+    "Birth Rate": 12.65,
+    "Female Population": 554337,
+    "Fertility Rate": 62.98
+  },
+  {
+    "State": "Nevada",
+    "Year": 2013,
+    "Births": 35030,
+    "Total Population": 2790136,
+    "Birth Rate": 12.55,
+    "Female Population": 557449,
+    "Fertility Rate": 62.84
+  },
+  {
+    "State": "Nevada",
+    "Year": 2014,
+    "Births": 35861,
+    "Total Population": 2839099,
+    "Birth Rate": 12.63,
+    "Female Population": 566250,
+    "Fertility Rate": 63.33
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Births": 36298,
+    "Total Population": 2890845,
+    "Birth Rate": 12.56,
+    "Female Population": 573825,
+    "Fertility Rate": 63.26
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2007,
+    "Births": 14168,
+    "Total Population": 1312540,
+    "Birth Rate": 10.79,
+    "Female Population": 261089,
+    "Fertility Rate": 54.27
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2008,
+    "Births": 13683,
+    "Total Population": 1315906,
+    "Birth Rate": 10.4,
+    "Female Population": 257338,
+    "Fertility Rate": 53.17
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2009,
+    "Births": 13377,
+    "Total Population": 1316102,
+    "Birth Rate": 10.16,
+    "Female Population": 253121,
+    "Fertility Rate": 52.85
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2010,
+    "Births": 12874,
+    "Total Population": 1316470,
+    "Birth Rate": 9.78,
+    "Female Population": 250133,
+    "Fertility Rate": 51.47
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2011,
+    "Births": 12851,
+    "Total Population": 1318194,
+    "Birth Rate": 9.75,
+    "Female Population": 247411,
+    "Fertility Rate": 51.94
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2012,
+    "Births": 12352,
+    "Total Population": 1320718,
+    "Birth Rate": 9.35,
+    "Female Population": 245727,
+    "Fertility Rate": 50.27
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2013,
+    "Births": 12396,
+    "Total Population": 1323459,
+    "Birth Rate": 9.37,
+    "Female Population": 244043,
+    "Fertility Rate": 50.79
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2014,
+    "Births": 12302,
+    "Total Population": 1326813,
+    "Birth Rate": 9.27,
+    "Female Population": 243625,
+    "Fertility Rate": 50.5
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Births": 12433,
+    "Total Population": 1330608,
+    "Birth Rate": 9.34,
+    "Female Population": 242336,
+    "Fertility Rate": 51.3
+  },
+  {
+    "State": "New Jersey",
+    "Year": 2007,
+    "Births": 116063,
+    "Total Population": 8677885,
+    "Birth Rate": 13.37,
+    "Female Population": 1762512,
+    "Fertility Rate": 65.85
+  },
+  {
+    "State": "New Jersey",
+    "Year": 2008,
+    "Births": 112710,
+    "Total Population": 8711090,
+    "Birth Rate": 12.94,
+    "Female Population": 1752652,
+    "Fertility Rate": 64.31
+  },
+  {
+    "State": "New Jersey",
+    "Year": 2009,
+    "Births": 110331,
+    "Total Population": 8755602,
+    "Birth Rate": 12.6,
+    "Female Population": 1743799,
+    "Fertility Rate": 63.27
+  },
+  {
+    "State": "New Jersey",
+    "Year": 2010,
+    "Births": 106922,
+    "Total Population": 8791894,
+    "Birth Rate": 12.16,
+    "Female Population": 1738419,
+    "Fertility Rate": 61.51
+  },
+  {
+    "State": "New Jersey",
+    "Year": 2011,
+    "Births": 105883,
+    "Total Population": 8821155,
+    "Birth Rate": 12,
+    "Female Population": 1726489,
+    "Fertility Rate": 61.33
+  },
+  {
+    "State": "New Jersey",
+    "Year": 2012,
+    "Births": 104230,
+    "Total Population": 8864590,
+    "Birth Rate": 11.76,
+    "Female Population": 1726967,
+    "Fertility Rate": 60.35
+  },
+  {
+    "State": "New Jersey",
+    "Year": 2013,
+    "Births": 102575,
+    "Total Population": 8899339,
+    "Birth Rate": 11.53,
+    "Female Population": 1721051,
+    "Fertility Rate": 59.6
+  },
+  {
+    "State": "New Jersey",
+    "Year": 2014,
+    "Births": 103305,
+    "Total Population": 8938175,
+    "Birth Rate": 11.56,
+    "Female Population": 1723218,
+    "Fertility Rate": 59.95
+  },
+  {
+    "State": "New Jersey",
+    "Year": 2015,
+    "Births": 103127,
+    "Total Population": 8958013,
+    "Birth Rate": 11.51,
+    "Female Population": 1718587,
+    "Fertility Rate": 60.01
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2007,
+    "Births": 30616,
+    "Total Population": 1990070,
+    "Birth Rate": 15.38,
+    "Female Population": 397586,
+    "Fertility Rate": 77
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2008,
+    "Births": 30173,
+    "Total Population": 2010662,
+    "Birth Rate": 15.01,
+    "Female Population": 396611,
+    "Fertility Rate": 76.08
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2009,
+    "Births": 29000,
+    "Total Population": 2036802,
+    "Birth Rate": 14.24,
+    "Female Population": 397211,
+    "Fertility Rate": 73.01
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2010,
+    "Births": 27850,
+    "Total Population": 2059179,
+    "Birth Rate": 13.52,
+    "Female Population": 398587,
+    "Fertility Rate": 69.87
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2011,
+    "Births": 27289,
+    "Total Population": 2082224,
+    "Birth Rate": 13.11,
+    "Female Population": 399996,
+    "Fertility Rate": 68.22
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2012,
+    "Births": 27068,
+    "Total Population": 2085538,
+    "Birth Rate": 12.98,
+    "Female Population": 399200,
+    "Fertility Rate": 67.81
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2013,
+    "Births": 26354,
+    "Total Population": 2085287,
+    "Birth Rate": 12.64,
+    "Female Population": 398793,
+    "Fertility Rate": 66.08
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2014,
+    "Births": 26052,
+    "Total Population": 2085572,
+    "Birth Rate": 12.49,
+    "Female Population": 397580,
+    "Fertility Rate": 65.53
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Births": 25816,
+    "Total Population": 2085109,
+    "Birth Rate": 12.38,
+    "Female Population": 395491,
+    "Fertility Rate": 65.28
+  },
+  {
+    "State": "New York",
+    "Year": 2007,
+    "Births": 253451,
+    "Total Population": 19132335,
+    "Birth Rate": 13.25,
+    "Female Population": 4069080,
+    "Fertility Rate": 62.29
+  },
+  {
+    "State": "New York",
+    "Year": 2008,
+    "Births": 250383,
+    "Total Population": 19212436,
+    "Birth Rate": 13.03,
+    "Female Population": 4062354,
+    "Fertility Rate": 61.63
+  },
+  {
+    "State": "New York",
+    "Year": 2009,
+    "Births": 248110,
+    "Total Population": 19307066,
+    "Birth Rate": 12.85,
+    "Female Population": 4053936,
+    "Fertility Rate": 61.2
+  },
+  {
+    "State": "New York",
+    "Year": 2010,
+    "Births": 244375,
+    "Total Population": 19378102,
+    "Birth Rate": 12.61,
+    "Female Population": 4047947,
+    "Fertility Rate": 60.37
+  },
+  {
+    "State": "New York",
+    "Year": 2011,
+    "Births": 241312,
+    "Total Population": 19465197,
+    "Birth Rate": 12.4,
+    "Female Population": 4032314,
+    "Fertility Rate": 59.84
+  },
+  {
+    "State": "New York",
+    "Year": 2012,
+    "Births": 240916,
+    "Total Population": 19570261,
+    "Birth Rate": 12.31,
+    "Female Population": 4037720,
+    "Fertility Rate": 59.67
+  },
+  {
+    "State": "New York",
+    "Year": 2013,
+    "Births": 236980,
+    "Total Population": 19651127,
+    "Birth Rate": 12.06,
+    "Female Population": 4033125,
+    "Fertility Rate": 58.76
+  },
+  {
+    "State": "New York",
+    "Year": 2014,
+    "Births": 238773,
+    "Total Population": 19746227,
+    "Birth Rate": 12.09,
+    "Female Population": 4045782,
+    "Fertility Rate": 59.02
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Births": 237274,
+    "Total Population": 19795791,
+    "Birth Rate": 11.99,
+    "Female Population": 4036145,
+    "Fertility Rate": 58.79
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2007,
+    "Births": 131037,
+    "Total Population": 9118037,
+    "Birth Rate": 14.37,
+    "Female Population": 1910018,
+    "Fertility Rate": 68.61
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2008,
+    "Births": 130839,
+    "Total Population": 9309449,
+    "Birth Rate": 14.05,
+    "Female Population": 1933646,
+    "Fertility Rate": 67.66
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2009,
+    "Births": 126845,
+    "Total Population": 9449566,
+    "Birth Rate": 13.42,
+    "Female Population": 1947046,
+    "Fertility Rate": 65.15
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2010,
+    "Births": 122350,
+    "Total Population": 9535483,
+    "Birth Rate": 12.83,
+    "Female Population": 1949350,
+    "Fertility Rate": 62.76
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2011,
+    "Births": 120389,
+    "Total Population": 9656401,
+    "Birth Rate": 12.47,
+    "Female Population": 1958279,
+    "Fertility Rate": 61.48
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2012,
+    "Births": 119831,
+    "Total Population": 9752073,
+    "Birth Rate": 12.29,
+    "Female Population": 1963293,
+    "Fertility Rate": 61.04
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2013,
+    "Births": 119002,
+    "Total Population": 9848060,
+    "Birth Rate": 12.08,
+    "Female Population": 1971639,
+    "Fertility Rate": 60.36
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2014,
+    "Births": 120975,
+    "Total Population": 9943964,
+    "Birth Rate": 12.17,
+    "Female Population": 1982894,
+    "Fertility Rate": 61.01
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Births": 120843,
+    "Total Population": 10042802,
+    "Birth Rate": 12.03,
+    "Female Population": 1991882,
+    "Fertility Rate": 60.67
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2007,
+    "Births": 8840,
+    "Total Population": 652822,
+    "Birth Rate": 13.54,
+    "Female Population": 128169,
+    "Fertility Rate": 68.97
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2008,
+    "Births": 8938,
+    "Total Population": 657569,
+    "Birth Rate": 13.59,
+    "Female Population": 127636,
+    "Fertility Rate": 70.03
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2009,
+    "Births": 9001,
+    "Total Population": 664968,
+    "Birth Rate": 13.54,
+    "Female Population": 128429,
+    "Fertility Rate": 70.09
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2010,
+    "Births": 9104,
+    "Total Population": 672591,
+    "Birth Rate": 13.54,
+    "Female Population": 129143,
+    "Fertility Rate": 70.5
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2011,
+    "Births": 9527,
+    "Total Population": 683932,
+    "Birth Rate": 13.93,
+    "Female Population": 131653,
+    "Fertility Rate": 72.36
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2012,
+    "Births": 10106,
+    "Total Population": 699628,
+    "Birth Rate": 14.44,
+    "Female Population": 135420,
+    "Fertility Rate": 74.63
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2013,
+    "Births": 10599,
+    "Total Population": 723393,
+    "Birth Rate": 14.65,
+    "Female Population": 140687,
+    "Fertility Rate": 75.34
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2014,
+    "Births": 11359,
+    "Total Population": 739482,
+    "Birth Rate": 15.36,
+    "Female Population": 144130,
+    "Fertility Rate": 78.81
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Births": 11314,
+    "Total Population": 756927,
+    "Birth Rate": 14.95,
+    "Female Population": 148084,
+    "Fertility Rate": 76.4
+  },
+  {
+    "State": "Ohio",
+    "Year": 2007,
+    "Births": 150879,
+    "Total Population": 11500468,
+    "Birth Rate": 13.12,
+    "Female Population": 2293803,
+    "Fertility Rate": 65.78
+  },
+  {
+    "State": "Ohio",
+    "Year": 2008,
+    "Births": 148821,
+    "Total Population": 11515391,
+    "Birth Rate": 12.92,
+    "Female Population": 2273237,
+    "Fertility Rate": 65.47
+  },
+  {
+    "State": "Ohio",
+    "Year": 2009,
+    "Births": 144841,
+    "Total Population": 11528896,
+    "Birth Rate": 12.56,
+    "Female Population": 2251790,
+    "Fertility Rate": 64.32
+  },
+  {
+    "State": "Ohio",
+    "Year": 2010,
+    "Births": 139128,
+    "Total Population": 11536504,
+    "Birth Rate": 12.06,
+    "Female Population": 2235171,
+    "Fertility Rate": 62.24
+  },
+  {
+    "State": "Ohio",
+    "Year": 2011,
+    "Births": 137918,
+    "Total Population": 11544951,
+    "Birth Rate": 11.95,
+    "Female Population": 2220842,
+    "Fertility Rate": 62.1
+  },
+  {
+    "State": "Ohio",
+    "Year": 2012,
+    "Births": 138483,
+    "Total Population": 11544225,
+    "Birth Rate": 12,
+    "Female Population": 2212336,
+    "Fertility Rate": 62.6
+  },
+  {
+    "State": "Ohio",
+    "Year": 2013,
+    "Births": 138936,
+    "Total Population": 11570808,
+    "Birth Rate": 12.01,
+    "Female Population": 2214152,
+    "Fertility Rate": 62.75
+  },
+  {
+    "State": "Ohio",
+    "Year": 2014,
+    "Births": 139467,
+    "Total Population": 11594163,
+    "Birth Rate": 12.03,
+    "Female Population": 2211573,
+    "Fertility Rate": 63.06
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Births": 139264,
+    "Total Population": 11613423,
+    "Birth Rate": 11.99,
+    "Female Population": 2207849,
+    "Fertility Rate": 63.08
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2007,
+    "Births": 55065,
+    "Total Population": 3634349,
+    "Birth Rate": 15.15,
+    "Female Population": 727495,
+    "Fertility Rate": 75.69
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2008,
+    "Births": 54781,
+    "Total Population": 3668976,
+    "Birth Rate": 14.93,
+    "Female Population": 728647,
+    "Fertility Rate": 75.18
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2009,
+    "Births": 54553,
+    "Total Population": 3717572,
+    "Birth Rate": 14.67,
+    "Female Population": 732789,
+    "Fertility Rate": 74.45
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2010,
+    "Births": 53238,
+    "Total Population": 3751351,
+    "Birth Rate": 14.19,
+    "Female Population": 736629,
+    "Fertility Rate": 72.27
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2011,
+    "Births": 52272,
+    "Total Population": 3791508,
+    "Birth Rate": 13.79,
+    "Female Population": 742805,
+    "Fertility Rate": 70.37
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2012,
+    "Births": 52751,
+    "Total Population": 3814820,
+    "Birth Rate": 13.83,
+    "Female Population": 747994,
+    "Fertility Rate": 70.52
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2013,
+    "Births": 53369,
+    "Total Population": 3850568,
+    "Birth Rate": 13.86,
+    "Female Population": 756016,
+    "Fertility Rate": 70.59
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2014,
+    "Births": 53339,
+    "Total Population": 3878051,
+    "Birth Rate": 13.75,
+    "Female Population": 762653,
+    "Fertility Rate": 69.94
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Births": 53122,
+    "Total Population": 3911338,
+    "Birth Rate": 13.58,
+    "Female Population": 768327,
+    "Fertility Rate": 69.14
+  },
+  {
+    "State": "Oregon",
+    "Year": 2007,
+    "Births": 49378,
+    "Total Population": 3722417,
+    "Birth Rate": 13.27,
+    "Female Population": 743945,
+    "Fertility Rate": 66.37
+  },
+  {
+    "State": "Oregon",
+    "Year": 2008,
+    "Births": 49096,
+    "Total Population": 3768748,
+    "Birth Rate": 13.03,
+    "Female Population": 749228,
+    "Fertility Rate": 65.53
+  },
+  {
+    "State": "Oregon",
+    "Year": 2009,
+    "Births": 47132,
+    "Total Population": 3808600,
+    "Birth Rate": 12.38,
+    "Female Population": 752900,
+    "Fertility Rate": 62.6
+  },
+  {
+    "State": "Oregon",
+    "Year": 2010,
+    "Births": 45540,
+    "Total Population": 3831074,
+    "Birth Rate": 11.89,
+    "Female Population": 754077,
+    "Fertility Rate": 60.39
+  },
+  {
+    "State": "Oregon",
+    "Year": 2011,
+    "Births": 45155,
+    "Total Population": 3871859,
+    "Birth Rate": 11.66,
+    "Female Population": 759672,
+    "Fertility Rate": 59.44
+  },
+  {
+    "State": "Oregon",
+    "Year": 2012,
+    "Births": 45067,
+    "Total Population": 3899353,
+    "Birth Rate": 11.56,
+    "Female Population": 763832,
+    "Fertility Rate": 59
+  },
+  {
+    "State": "Oregon",
+    "Year": 2013,
+    "Births": 45155,
+    "Total Population": 3930065,
+    "Birth Rate": 11.49,
+    "Female Population": 770514,
+    "Fertility Rate": 58.6
+  },
+  {
+    "State": "Oregon",
+    "Year": 2014,
+    "Births": 45556,
+    "Total Population": 3970239,
+    "Birth Rate": 11.47,
+    "Female Population": 776108,
+    "Fertility Rate": 58.7
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Births": 45655,
+    "Total Population": 4028977,
+    "Birth Rate": 11.33,
+    "Female Population": 786355,
+    "Fertility Rate": 58.06
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2007,
+    "Births": 150713,
+    "Total Population": 12563937,
+    "Birth Rate": 12,
+    "Female Population": 2469273,
+    "Fertility Rate": 61.04
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2008,
+    "Births": 149273,
+    "Total Population": 12612285,
+    "Birth Rate": 11.84,
+    "Female Population": 2460254,
+    "Fertility Rate": 60.67
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2009,
+    "Births": 146434,
+    "Total Population": 12666858,
+    "Birth Rate": 11.56,
+    "Female Population": 2451611,
+    "Fertility Rate": 59.73
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2010,
+    "Births": 143321,
+    "Total Population": 12702379,
+    "Birth Rate": 11.28,
+    "Female Population": 2442538,
+    "Fertility Rate": 58.68
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2011,
+    "Births": 143178,
+    "Total Population": 12742886,
+    "Birth Rate": 11.24,
+    "Female Population": 2433256,
+    "Fertility Rate": 58.84
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2012,
+    "Births": 142514,
+    "Total Population": 12763536,
+    "Birth Rate": 11.17,
+    "Female Population": 2425630,
+    "Fertility Rate": 58.75
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2013,
+    "Births": 140921,
+    "Total Population": 12773801,
+    "Birth Rate": 11.03,
+    "Female Population": 2414538,
+    "Fertility Rate": 58.36
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2014,
+    "Births": 142268,
+    "Total Population": 12787209,
+    "Birth Rate": 11.13,
+    "Female Population": 2407045,
+    "Fertility Rate": 59.1
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Births": 141047,
+    "Total Population": 12802503,
+    "Birth Rate": 11.02,
+    "Female Population": 2400883,
+    "Fertility Rate": 58.75
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2007,
+    "Births": 12376,
+    "Total Population": 1057315,
+    "Birth Rate": 11.71,
+    "Female Population": 221482,
+    "Fertility Rate": 55.88
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2008,
+    "Births": 12048,
+    "Total Population": 1055003,
+    "Birth Rate": 11.42,
+    "Female Population": 218637,
+    "Fertility Rate": 55.11
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2009,
+    "Births": 11442,
+    "Total Population": 1053646,
+    "Birth Rate": 10.86,
+    "Female Population": 216670,
+    "Fertility Rate": 52.81
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2010,
+    "Births": 11177,
+    "Total Population": 1052567,
+    "Birth Rate": 10.62,
+    "Female Population": 214647,
+    "Fertility Rate": 52.07
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2011,
+    "Births": 10960,
+    "Total Population": 1051302,
+    "Birth Rate": 10.43,
+    "Female Population": 212646,
+    "Fertility Rate": 51.54
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2012,
+    "Births": 10926,
+    "Total Population": 1050292,
+    "Birth Rate": 10.4,
+    "Female Population": 211180,
+    "Fertility Rate": 51.74
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2013,
+    "Births": 10809,
+    "Total Population": 1051511,
+    "Birth Rate": 10.28,
+    "Female Population": 209672,
+    "Fertility Rate": 51.55
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2014,
+    "Births": 10823,
+    "Total Population": 1055173,
+    "Birth Rate": 10.26,
+    "Female Population": 210111,
+    "Fertility Rate": 51.51
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Births": 10993,
+    "Total Population": 1056298,
+    "Birth Rate": 10.41,
+    "Female Population": 209560,
+    "Fertility Rate": 52.46
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2007,
+    "Births": 62875,
+    "Total Population": 4444110,
+    "Birth Rate": 14.15,
+    "Female Population": 915628,
+    "Fertility Rate": 68.67
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2008,
+    "Births": 63071,
+    "Total Population": 4528996,
+    "Birth Rate": 13.93,
+    "Female Population": 925213,
+    "Fertility Rate": 68.17
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2009,
+    "Births": 60620,
+    "Total Population": 4589872,
+    "Birth Rate": 13.21,
+    "Female Population": 928485,
+    "Fertility Rate": 65.29
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2010,
+    "Births": 58342,
+    "Total Population": 4625364,
+    "Birth Rate": 12.61,
+    "Female Population": 928310,
+    "Fertility Rate": 62.85
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2011,
+    "Births": 57393,
+    "Total Population": 4679230,
+    "Birth Rate": 12.27,
+    "Female Population": 928427,
+    "Fertility Rate": 61.82
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2012,
+    "Births": 57155,
+    "Total Population": 4723723,
+    "Birth Rate": 12.1,
+    "Female Population": 931369,
+    "Fertility Rate": 61.37
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2013,
+    "Births": 56795,
+    "Total Population": 4774839,
+    "Birth Rate": 11.89,
+    "Female Population": 936748,
+    "Fertility Rate": 60.63
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2014,
+    "Births": 57627,
+    "Total Population": 4832482,
+    "Birth Rate": 11.92,
+    "Female Population": 943512,
+    "Fertility Rate": 61.08
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Births": 58139,
+    "Total Population": 4896146,
+    "Birth Rate": 11.87,
+    "Female Population": 951940,
+    "Fertility Rate": 61.07
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2007,
+    "Births": 12261,
+    "Total Population": 791623,
+    "Birth Rate": 15.49,
+    "Female Population": 152360,
+    "Fertility Rate": 80.47
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2008,
+    "Births": 12071,
+    "Total Population": 799124,
+    "Birth Rate": 15.11,
+    "Female Population": 151876,
+    "Fertility Rate": 79.48
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2009,
+    "Births": 11934,
+    "Total Population": 807067,
+    "Birth Rate": 14.79,
+    "Female Population": 151855,
+    "Fertility Rate": 78.59
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2010,
+    "Births": 11811,
+    "Total Population": 814180,
+    "Birth Rate": 14.51,
+    "Female Population": 152353,
+    "Fertility Rate": 77.52
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2011,
+    "Births": 11846,
+    "Total Population": 824082,
+    "Birth Rate": 14.37,
+    "Female Population": 153643,
+    "Fertility Rate": 77.1
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2012,
+    "Births": 12104,
+    "Total Population": 833354,
+    "Birth Rate": 14.52,
+    "Female Population": 155019,
+    "Fertility Rate": 78.08
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2013,
+    "Births": 12248,
+    "Total Population": 844877,
+    "Birth Rate": 14.5,
+    "Female Population": 156851,
+    "Fertility Rate": 78.09
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2014,
+    "Births": 12283,
+    "Total Population": 853175,
+    "Birth Rate": 14.4,
+    "Female Population": 157896,
+    "Fertility Rate": 77.79
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Births": 12336,
+    "Total Population": 858469,
+    "Birth Rate": 14.37,
+    "Female Population": 157806,
+    "Fertility Rate": 78.17
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2007,
+    "Births": 86711,
+    "Total Population": 6175727,
+    "Birth Rate": 14.04,
+    "Female Population": 1271670,
+    "Fertility Rate": 68.19
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2008,
+    "Births": 85560,
+    "Total Population": 6247411,
+    "Birth Rate": 13.7,
+    "Female Population": 1275355,
+    "Fertility Rate": 67.09
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2009,
+    "Births": 82211,
+    "Total Population": 6306019,
+    "Birth Rate": 13.04,
+    "Female Population": 1274950,
+    "Fertility Rate": 64.48
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2010,
+    "Births": 79495,
+    "Total Population": 6346105,
+    "Birth Rate": 12.53,
+    "Female Population": 1274350,
+    "Fertility Rate": 62.38
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2011,
+    "Births": 79588,
+    "Total Population": 6403353,
+    "Birth Rate": 12.43,
+    "Female Population": 1277212,
+    "Fertility Rate": 62.31
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2012,
+    "Births": 80371,
+    "Total Population": 6456243,
+    "Birth Rate": 12.45,
+    "Female Population": 1283356,
+    "Fertility Rate": 62.63
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2013,
+    "Births": 79992,
+    "Total Population": 6495978,
+    "Birth Rate": 12.31,
+    "Female Population": 1287200,
+    "Fertility Rate": 62.14
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2014,
+    "Births": 81602,
+    "Total Population": 6549352,
+    "Birth Rate": 12.46,
+    "Female Population": 1295676,
+    "Fertility Rate": 62.98
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Births": 81685,
+    "Total Population": 6600299,
+    "Birth Rate": 12.38,
+    "Female Population": 1299690,
+    "Fertility Rate": 62.85
+  },
+  {
+    "State": "Texas",
+    "Year": 2007,
+    "Births": 407625,
+    "Total Population": 23831983,
+    "Birth Rate": 17.1,
+    "Female Population": 5145376,
+    "Fertility Rate": 79.22
+  },
+  {
+    "State": "Texas",
+    "Year": 2008,
+    "Births": 405554,
+    "Total Population": 24309039,
+    "Birth Rate": 16.68,
+    "Female Population": 5210018,
+    "Fertility Rate": 77.84
+  },
+  {
+    "State": "Texas",
+    "Year": 2009,
+    "Births": 401977,
+    "Total Population": 24801761,
+    "Birth Rate": 16.21,
+    "Female Population": 5280109,
+    "Fertility Rate": 76.13
+  },
+  {
+    "State": "Texas",
+    "Year": 2010,
+    "Births": 386118,
+    "Total Population": 25145561,
+    "Birth Rate": 15.36,
+    "Female Population": 5326162,
+    "Fertility Rate": 72.49
+  },
+  {
+    "State": "Texas",
+    "Year": 2011,
+    "Births": 377445,
+    "Total Population": 25674681,
+    "Birth Rate": 14.7,
+    "Female Population": 5406935,
+    "Fertility Rate": 69.81
+  },
+  {
+    "State": "Texas",
+    "Year": 2012,
+    "Births": 382727,
+    "Total Population": 26059203,
+    "Birth Rate": 14.69,
+    "Female Population": 5476662,
+    "Fertility Rate": 69.88
+  },
+  {
+    "State": "Texas",
+    "Year": 2013,
+    "Births": 387340,
+    "Total Population": 26448193,
+    "Birth Rate": 14.65,
+    "Female Population": 5543584,
+    "Fertility Rate": 69.87
+  },
+  {
+    "State": "Texas",
+    "Year": 2014,
+    "Births": 399766,
+    "Total Population": 26956958,
+    "Birth Rate": 14.83,
+    "Female Population": 5654684,
+    "Fertility Rate": 70.7
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Births": 403618,
+    "Total Population": 27469114,
+    "Birth Rate": 14.69,
+    "Female Population": 5748631,
+    "Fertility Rate": 70.21
+  },
+  {
+    "State": "Utah",
+    "Year": 2007,
+    "Births": 55130,
+    "Total Population": 2597746,
+    "Birth Rate": 21.22,
+    "Female Population": 576269,
+    "Fertility Rate": 95.67
+  },
+  {
+    "State": "Utah",
+    "Year": 2008,
+    "Births": 55634,
+    "Total Population": 2663029,
+    "Birth Rate": 20.89,
+    "Female Population": 586879,
+    "Fertility Rate": 94.8
+  },
+  {
+    "State": "Utah",
+    "Year": 2009,
+    "Births": 53887,
+    "Total Population": 2723421,
+    "Birth Rate": 19.79,
+    "Female Population": 596032,
+    "Fertility Rate": 90.41
+  },
+  {
+    "State": "Utah",
+    "Year": 2010,
+    "Births": 52258,
+    "Total Population": 2763885,
+    "Birth Rate": 18.91,
+    "Female Population": 602120,
+    "Fertility Rate": 86.79
+  },
+  {
+    "State": "Utah",
+    "Year": 2011,
+    "Births": 51223,
+    "Total Population": 2817222,
+    "Birth Rate": 18.18,
+    "Female Population": 612671,
+    "Fertility Rate": 83.61
+  },
+  {
+    "State": "Utah",
+    "Year": 2012,
+    "Births": 51465,
+    "Total Population": 2855287,
+    "Birth Rate": 18.02,
+    "Female Population": 619413,
+    "Fertility Rate": 83.09
+  },
+  {
+    "State": "Utah",
+    "Year": 2013,
+    "Births": 50957,
+    "Total Population": 2900872,
+    "Birth Rate": 17.57,
+    "Female Population": 629778,
+    "Fertility Rate": 80.91
+  },
+  {
+    "State": "Utah",
+    "Year": 2014,
+    "Births": 51154,
+    "Total Population": 2942902,
+    "Birth Rate": 17.38,
+    "Female Population": 639388,
+    "Fertility Rate": 80
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Births": 50778,
+    "Total Population": 2995919,
+    "Birth Rate": 16.95,
+    "Female Population": 651344,
+    "Fertility Rate": 77.96
+  },
+  {
+    "State": "Vermont",
+    "Year": 2007,
+    "Births": 6513,
+    "Total Population": 623481,
+    "Birth Rate": 10.45,
+    "Female Population": 122445,
+    "Fertility Rate": 53.19
+  },
+  {
+    "State": "Vermont",
+    "Year": 2008,
+    "Births": 6339,
+    "Total Population": 624151,
+    "Birth Rate": 10.16,
+    "Female Population": 120761,
+    "Fertility Rate": 52.49
+  },
+  {
+    "State": "Vermont",
+    "Year": 2009,
+    "Births": 6110,
+    "Total Population": 624817,
+    "Birth Rate": 9.78,
+    "Female Population": 119265,
+    "Fertility Rate": 51.23
+  },
+  {
+    "State": "Vermont",
+    "Year": 2010,
+    "Births": 6223,
+    "Total Population": 625741,
+    "Birth Rate": 9.95,
+    "Female Population": 118297,
+    "Fertility Rate": 52.6
+  },
+  {
+    "State": "Vermont",
+    "Year": 2011,
+    "Births": 6078,
+    "Total Population": 626431,
+    "Birth Rate": 9.7,
+    "Female Population": 117349,
+    "Fertility Rate": 51.79
+  },
+  {
+    "State": "Vermont",
+    "Year": 2012,
+    "Births": 6009,
+    "Total Population": 626011,
+    "Birth Rate": 9.6,
+    "Female Population": 116464,
+    "Fertility Rate": 51.6
+  },
+  {
+    "State": "Vermont",
+    "Year": 2013,
+    "Births": 5975,
+    "Total Population": 626630,
+    "Birth Rate": 9.54,
+    "Female Population": 116335,
+    "Fertility Rate": 51.36
+  },
+  {
+    "State": "Vermont",
+    "Year": 2014,
+    "Births": 6130,
+    "Total Population": 626562,
+    "Birth Rate": 9.78,
+    "Female Population": 115981,
+    "Fertility Rate": 52.85
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Births": 5903,
+    "Total Population": 626042,
+    "Birth Rate": 9.43,
+    "Female Population": 115598,
+    "Fertility Rate": 51.06
+  },
+  {
+    "State": "Virginia",
+    "Year": 2007,
+    "Births": 108884,
+    "Total Population": 7751000,
+    "Birth Rate": 14.05,
+    "Female Population": 1642959,
+    "Fertility Rate": 66.27
+  },
+  {
+    "State": "Virginia",
+    "Year": 2008,
+    "Births": 106686,
+    "Total Population": 7833496,
+    "Birth Rate": 13.62,
+    "Female Population": 1644350,
+    "Fertility Rate": 64.88
+  },
+  {
+    "State": "Virginia",
+    "Year": 2009,
+    "Births": 105059,
+    "Total Population": 7925937,
+    "Birth Rate": 13.26,
+    "Female Population": 1648890,
+    "Fertility Rate": 63.71
+  },
+  {
+    "State": "Virginia",
+    "Year": 2010,
+    "Births": 103002,
+    "Total Population": 8001024,
+    "Birth Rate": 12.87,
+    "Female Population": 1652698,
+    "Fertility Rate": 62.32
+  },
+  {
+    "State": "Virginia",
+    "Year": 2011,
+    "Births": 102652,
+    "Total Population": 8096604,
+    "Birth Rate": 12.68,
+    "Female Population": 1659020,
+    "Fertility Rate": 61.88
+  },
+  {
+    "State": "Virginia",
+    "Year": 2012,
+    "Births": 103013,
+    "Total Population": 8185867,
+    "Birth Rate": 12.58,
+    "Female Population": 1670773,
+    "Fertility Rate": 61.66
+  },
+  {
+    "State": "Virginia",
+    "Year": 2013,
+    "Births": 102147,
+    "Total Population": 8260405,
+    "Birth Rate": 12.37,
+    "Female Population": 1676517,
+    "Fertility Rate": 60.93
+  },
+  {
+    "State": "Virginia",
+    "Year": 2014,
+    "Births": 103300,
+    "Total Population": 8326289,
+    "Birth Rate": 12.41,
+    "Female Population": 1684103,
+    "Fertility Rate": 61.34
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Births": 103303,
+    "Total Population": 8382993,
+    "Birth Rate": 12.32,
+    "Female Population": 1684883,
+    "Fertility Rate": 61.31
+  },
+  {
+    "State": "Washington",
+    "Year": 2007,
+    "Births": 88978,
+    "Total Population": 6461587,
+    "Birth Rate": 13.77,
+    "Female Population": 1334091,
+    "Fertility Rate": 66.7
+  },
+  {
+    "State": "Washington",
+    "Year": 2008,
+    "Births": 90321,
+    "Total Population": 6562231,
+    "Birth Rate": 13.76,
+    "Female Population": 1342888,
+    "Fertility Rate": 67.26
+  },
+  {
+    "State": "Washington",
+    "Year": 2009,
+    "Births": 89313,
+    "Total Population": 6667426,
+    "Birth Rate": 13.4,
+    "Female Population": 1352302,
+    "Fertility Rate": 66.05
+  },
+  {
+    "State": "Washington",
+    "Year": 2010,
+    "Births": 86539,
+    "Total Population": 6724540,
+    "Birth Rate": 12.87,
+    "Female Population": 1355704,
+    "Fertility Rate": 63.83
+  },
+  {
+    "State": "Washington",
+    "Year": 2011,
+    "Births": 86976,
+    "Total Population": 6830038,
+    "Birth Rate": 12.73,
+    "Female Population": 1366450,
+    "Fertility Rate": 63.65
+  },
+  {
+    "State": "Washington",
+    "Year": 2012,
+    "Births": 87463,
+    "Total Population": 6897012,
+    "Birth Rate": 12.68,
+    "Female Population": 1376835,
+    "Fertility Rate": 63.52
+  },
+  {
+    "State": "Washington",
+    "Year": 2013,
+    "Births": 86577,
+    "Total Population": 6971406,
+    "Birth Rate": 12.42,
+    "Female Population": 1383781,
+    "Fertility Rate": 62.57
+  },
+  {
+    "State": "Washington",
+    "Year": 2014,
+    "Births": 88585,
+    "Total Population": 7061530,
+    "Birth Rate": 12.54,
+    "Female Population": 1398464,
+    "Fertility Rate": 63.34
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Births": 88990,
+    "Total Population": 7170351,
+    "Birth Rate": 12.41,
+    "Female Population": 1417209,
+    "Fertility Rate": 62.79
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2007,
+    "Births": 21994,
+    "Total Population": 1834052,
+    "Birth Rate": 11.99,
+    "Female Population": 347854,
+    "Fertility Rate": 63.23
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2008,
+    "Births": 21501,
+    "Total Population": 1840310,
+    "Birth Rate": 11.68,
+    "Female Population": 345247,
+    "Fertility Rate": 62.28
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2009,
+    "Births": 21268,
+    "Total Population": 1847775,
+    "Birth Rate": 11.51,
+    "Female Population": 343471,
+    "Fertility Rate": 61.92
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2010,
+    "Births": 20470,
+    "Total Population": 1852994,
+    "Birth Rate": 11.05,
+    "Female Population": 341981,
+    "Fertility Rate": 59.86
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2011,
+    "Births": 20717,
+    "Total Population": 1855364,
+    "Birth Rate": 11.17,
+    "Female Population": 341245,
+    "Fertility Rate": 60.71
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2012,
+    "Births": 20827,
+    "Total Population": 1855413,
+    "Birth Rate": 11.22,
+    "Female Population": 339610,
+    "Fertility Rate": 61.33
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2013,
+    "Births": 20825,
+    "Total Population": 1854304,
+    "Birth Rate": 11.23,
+    "Female Population": 338651,
+    "Fertility Rate": 61.49
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2014,
+    "Births": 20301,
+    "Total Population": 1850326,
+    "Birth Rate": 10.97,
+    "Female Population": 336741,
+    "Fertility Rate": 60.29
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Births": 19805,
+    "Total Population": 1844128,
+    "Birth Rate": 10.74,
+    "Female Population": 333468,
+    "Fertility Rate": 59.39
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2007,
+    "Births": 72784,
+    "Total Population": 5610775,
+    "Birth Rate": 12.97,
+    "Female Population": 1119562,
+    "Fertility Rate": 65.01
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2008,
+    "Births": 72261,
+    "Total Population": 5640996,
+    "Birth Rate": 12.81,
+    "Female Population": 1111400,
+    "Fertility Rate": 65.02
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2009,
+    "Births": 70843,
+    "Total Population": 5669264,
+    "Birth Rate": 12.5,
+    "Female Population": 1103934,
+    "Fertility Rate": 64.17
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2010,
+    "Births": 68487,
+    "Total Population": 5686986,
+    "Birth Rate": 12.04,
+    "Female Population": 1097595,
+    "Fertility Rate": 62.4
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2011,
+    "Births": 67810,
+    "Total Population": 5711767,
+    "Birth Rate": 11.87,
+    "Female Population": 1093583,
+    "Fertility Rate": 62.01
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2012,
+    "Births": 67295,
+    "Total Population": 5726398,
+    "Birth Rate": 11.75,
+    "Female Population": 1088434,
+    "Fertility Rate": 61.83
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2013,
+    "Births": 66649,
+    "Total Population": 5742713,
+    "Birth Rate": 11.61,
+    "Female Population": 1086889,
+    "Fertility Rate": 61.32
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2014,
+    "Births": 67161,
+    "Total Population": 5757564,
+    "Birth Rate": 11.66,
+    "Female Population": 1087273,
+    "Fertility Rate": 61.77
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Births": 67041,
+    "Total Population": 5771337,
+    "Birth Rate": 11.62,
+    "Female Population": 1085396,
+    "Fertility Rate": 61.77
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2007,
+    "Births": 7893,
+    "Total Population": 534876,
+    "Birth Rate": 14.76,
+    "Female Population": 103196,
+    "Fertility Rate": 76.49
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2008,
+    "Births": 8038,
+    "Total Population": 546043,
+    "Birth Rate": 14.72,
+    "Female Population": 104431,
+    "Fertility Rate": 76.97
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2009,
+    "Births": 7881,
+    "Total Population": 559851,
+    "Birth Rate": 14.08,
+    "Female Population": 106406,
+    "Fertility Rate": 74.07
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2010,
+    "Births": 7556,
+    "Total Population": 563626,
+    "Birth Rate": 13.41,
+    "Female Population": 106612,
+    "Fertility Rate": 70.87
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2011,
+    "Births": 7399,
+    "Total Population": 568158,
+    "Birth Rate": 13.02,
+    "Female Population": 107091,
+    "Fertility Rate": 69.09
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2012,
+    "Births": 7572,
+    "Total Population": 576412,
+    "Birth Rate": 13.14,
+    "Female Population": 108992,
+    "Fertility Rate": 69.47
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2013,
+    "Births": 7644,
+    "Total Population": 582658,
+    "Birth Rate": 13.12,
+    "Female Population": 110241,
+    "Fertility Rate": 69.34
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2014,
+    "Births": 7696,
+    "Total Population": 584153,
+    "Birth Rate": 13.17,
+    "Female Population": 110821,
+    "Fertility Rate": 69.45
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Births": 7765,
+    "Total Population": 586107,
+    "Birth Rate": 13.25,
+    "Female Population": 110670,
+    "Fertility Rate": 70.16
+  }
+]
