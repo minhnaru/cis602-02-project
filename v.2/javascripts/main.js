@@ -60,23 +60,23 @@ function generateMap(dataNatality, elementID) {
     //     "fillOpacity": 0
     // };
 
-    // // combine data
-    // _.each(ussData.features, function(d) {
-    //     d.properties.natalities = [];
-    //     var state = d.properties.name;
-    //     _.each(dataNatality, function(n) {
-    //         if (n.State == state) {
-    //             var tmp = {
-    //                 "Year": n["Year"],
-    //                 "Diabetes": n["Diabetes"],
-    //                 "Tobacco Use": n["Tobacco Use"],
-    //                 "Age of Mother": n["Age of Mother"],
-    //                 "Births": n["Births"]
-    //             };
-    //             d.properties.natalities.push(tmp);
-    //         }
-    //     });
-    // });
+    // combine data
+    _.each(ussData.features, function(d) {
+        d.properties.natalities = [];
+        var state = d.properties.name;
+        _.each(dataNatality, function(n) {
+            if (n.State == state) {
+                var tmp = {
+                    "Year": n["Year"],
+                    "Diabetes": n["Diabetes"],
+                    "Tobacco Use": n["Tobacco Use"],
+                    "Age of Mother": n["Age of Mother"],
+                    "Births": n["Births"]
+                };
+                d.properties.natalities.push(tmp);
+            }
+        });
+    });
 
     // _.each(ussData.features, function(d) {
     //     d.properties.total = [];
@@ -86,29 +86,6 @@ function generateMap(dataNatality, elementID) {
     // var ussd = ussData.features;
     // var ussf = _.map(ussd, function(d) { return d.properties.natalities; });
     // console.log(ussf);
-
-    // // combine data
-    // _.each(ussData.features, function(d) {
-    //     d.properties.natalities = [];
-    //     d.properties.total = [];
-    //     var state = d.properties.name;
-    //     _.each(dataNatality, function(n) {
-    //         if (n.State == state) {
-    //             var tmp = {
-    //                 "Year": n["Year"],
-    //                 "Diabetes": n["Diabetes"],
-    //                 "Tobacco Use": n["Tobacco Use"],
-    //                 "Age of Mother": n["Age of Mother"],
-    //                 "Births": n["Births"]
-    //             };
-    //             d.properties.natalities.push(tmp);
-    //             var sum = {
-    //                 "Total": _.sumBy(ussData.features, function(s) { return s.properties.natalities.Births})
-    //             };
-    //             console.log(n.Births);
-    //         }
-    //     });
-    // });
 
     // _.each(ussData.features, function(d) {
     //     d.properties.total = [];

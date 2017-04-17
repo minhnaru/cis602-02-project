@@ -1,6 +1,6 @@
 [
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Connecticut",
     "Year": 2007,
     "Births": 41660,
@@ -10,7 +10,7 @@
     "Fertility Rate": 59.38
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Connecticut",
     "Year": 2008,
     "Births": 40399,
@@ -20,7 +20,7 @@
     "Fertility Rate": 57.78
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Connecticut",
     "Year": 2009,
     "Births": 38896,
@@ -30,7 +30,7 @@
     "Fertility Rate": 55.97
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Connecticut",
     "Year": 2010,
     "Births": 37708,
@@ -40,7 +40,7 @@
     "Fertility Rate": 54.55
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Connecticut",
     "Year": 2011,
     "Births": 37281,
@@ -50,7 +50,7 @@
     "Fertility Rate": 54.29
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Connecticut",
     "Year": 2012,
     "Births": 36539,
@@ -60,7 +60,7 @@
     "Fertility Rate": 53.21
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Connecticut",
     "Year": 2013,
     "Births": 36085,
@@ -70,7 +70,7 @@
     "Fertility Rate": 52.68
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Connecticut",
     "Year": 2014,
     "Births": 36285,
@@ -80,7 +80,7 @@
     "Fertility Rate": 53.04
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Connecticut",
     "Year": 2015,
     "Births": 35746,
@@ -90,7 +90,7 @@
     "Fertility Rate": 52.52
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Maine",
     "Year": 2007,
     "Births": 14120,
@@ -100,7 +100,7 @@
     "Fertility Rate": 55.83
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Maine",
     "Year": 2008,
     "Births": 13609,
@@ -110,7 +110,7 @@
     "Fertility Rate": 54.54
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Maine",
     "Year": 2009,
     "Births": 13470,
@@ -120,7 +120,7 @@
     "Fertility Rate": 54.95
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Maine",
     "Year": 2010,
     "Births": 12970,
@@ -130,7 +130,7 @@
     "Fertility Rate": 53.61
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Maine",
     "Year": 2011,
     "Births": 12704,
@@ -140,7 +140,7 @@
     "Fertility Rate": 53.11
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Maine",
     "Year": 2012,
     "Births": 12798,
@@ -150,7 +150,7 @@
     "Fertility Rate": 53.95
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Maine",
     "Year": 2013,
     "Births": 12776,
@@ -160,7 +160,7 @@
     "Fertility Rate": 54.37
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Maine",
     "Year": 2014,
     "Births": 12698,
@@ -170,7 +170,7 @@
     "Fertility Rate": 54.3
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Maine",
     "Year": 2015,
     "Births": 12607,
@@ -180,7 +180,7 @@
     "Fertility Rate": 54.31
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Massachusetts",
     "Year": 2007,
     "Births": 77967,
@@ -190,7 +190,7 @@
     "Fertility Rate": 57.4
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Massachusetts",
     "Year": 2008,
     "Births": 77022,
@@ -200,7 +200,7 @@
     "Fertility Rate": 56.82
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Massachusetts",
     "Year": 2009,
     "Births": 75016,
@@ -210,7 +210,7 @@
     "Fertility Rate": 55.41
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Massachusetts",
     "Year": 2010,
     "Births": 72865,
@@ -220,7 +220,7 @@
     "Fertility Rate": 53.95
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Massachusetts",
     "Year": 2011,
     "Births": 73166,
@@ -230,7 +230,7 @@
     "Fertility Rate": 54.32
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Massachusetts",
     "Year": 2012,
     "Births": 72439,
@@ -240,7 +240,7 @@
     "Fertility Rate": 53.52
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Massachusetts",
     "Year": 2013,
     "Births": 71788,
@@ -250,7 +250,7 @@
     "Fertility Rate": 52.84
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Massachusetts",
     "Year": 2014,
     "Births": 71908,
@@ -260,7 +260,7 @@
     "Fertility Rate": 52.52
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Massachusetts",
     "Year": 2015,
     "Births": 71492,
@@ -270,7 +270,7 @@
     "Fertility Rate": 52.03
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New Hampshire",
     "Year": 2007,
     "Births": 14168,
@@ -280,7 +280,7 @@
     "Fertility Rate": 54.27
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New Hampshire",
     "Year": 2008,
     "Births": 13683,
@@ -290,7 +290,7 @@
     "Fertility Rate": 53.17
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New Hampshire",
     "Year": 2009,
     "Births": 13377,
@@ -300,7 +300,7 @@
     "Fertility Rate": 52.85
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New Hampshire",
     "Year": 2010,
     "Births": 12874,
@@ -310,7 +310,7 @@
     "Fertility Rate": 51.47
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New Hampshire",
     "Year": 2011,
     "Births": 12851,
@@ -320,7 +320,7 @@
     "Fertility Rate": 51.94
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New Hampshire",
     "Year": 2012,
     "Births": 12352,
@@ -330,7 +330,7 @@
     "Fertility Rate": 50.27
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New Hampshire",
     "Year": 2013,
     "Births": 12396,
@@ -340,7 +340,7 @@
     "Fertility Rate": 50.79
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New Hampshire",
     "Year": 2014,
     "Births": 12302,
@@ -350,7 +350,7 @@
     "Fertility Rate": 50.5
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New Hampshire",
     "Year": 2015,
     "Births": 12433,
@@ -360,7 +360,7 @@
     "Fertility Rate": 51.3
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Rhode Island",
     "Year": 2007,
     "Births": 12376,
@@ -370,7 +370,7 @@
     "Fertility Rate": 55.88
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Rhode Island",
     "Year": 2008,
     "Births": 12048,
@@ -380,7 +380,7 @@
     "Fertility Rate": 55.11
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Rhode Island",
     "Year": 2009,
     "Births": 11442,
@@ -390,7 +390,7 @@
     "Fertility Rate": 52.81
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Rhode Island",
     "Year": 2010,
     "Births": 11177,
@@ -400,7 +400,7 @@
     "Fertility Rate": 52.07
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Rhode Island",
     "Year": 2011,
     "Births": 10960,
@@ -410,7 +410,7 @@
     "Fertility Rate": 51.54
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Rhode Island",
     "Year": 2012,
     "Births": 10926,
@@ -420,7 +420,7 @@
     "Fertility Rate": 51.74
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Rhode Island",
     "Year": 2013,
     "Births": 10809,
@@ -430,7 +430,7 @@
     "Fertility Rate": 51.55
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Rhode Island",
     "Year": 2014,
     "Births": 10823,
@@ -440,7 +440,7 @@
     "Fertility Rate": 51.51
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Rhode Island",
     "Year": 2015,
     "Births": 10993,
@@ -450,7 +450,7 @@
     "Fertility Rate": 52.46
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Vermont",
     "Year": 2007,
     "Births": 6513,
@@ -460,7 +460,7 @@
     "Fertility Rate": 53.19
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Vermont",
     "Year": 2008,
     "Births": 6339,
@@ -470,7 +470,7 @@
     "Fertility Rate": 52.49
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Vermont",
     "Year": 2009,
     "Births": 6110,
@@ -480,7 +480,7 @@
     "Fertility Rate": 51.23
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Vermont",
     "Year": 2010,
     "Births": 6223,
@@ -490,7 +490,7 @@
     "Fertility Rate": 52.6
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Vermont",
     "Year": 2011,
     "Births": 6078,
@@ -500,7 +500,7 @@
     "Fertility Rate": 51.79
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Vermont",
     "Year": 2012,
     "Births": 6009,
@@ -510,7 +510,7 @@
     "Fertility Rate": 51.6
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Vermont",
     "Year": 2013,
     "Births": 5975,
@@ -520,7 +520,7 @@
     "Fertility Rate": 51.36
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Vermont",
     "Year": 2014,
     "Births": 6130,
@@ -530,7 +530,7 @@
     "Fertility Rate": 52.85
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Vermont",
     "Year": 2015,
     "Births": 5903,
@@ -540,7 +540,7 @@
     "Fertility Rate": 51.06
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New Jersey",
     "Year": 2007,
     "Births": 116063,
@@ -550,7 +550,7 @@
     "Fertility Rate": 65.85
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New Jersey",
     "Year": 2008,
     "Births": 112710,
@@ -560,7 +560,7 @@
     "Fertility Rate": 64.31
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New Jersey",
     "Year": 2009,
     "Births": 110331,
@@ -570,7 +570,7 @@
     "Fertility Rate": 63.27
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New Jersey",
     "Year": 2010,
     "Births": 106922,
@@ -580,7 +580,7 @@
     "Fertility Rate": 61.51
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New Jersey",
     "Year": 2011,
     "Births": 105883,
@@ -590,7 +590,7 @@
     "Fertility Rate": 61.33
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New Jersey",
     "Year": 2012,
     "Births": 104230,
@@ -600,7 +600,7 @@
     "Fertility Rate": 60.35
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New Jersey",
     "Year": 2013,
     "Births": 102575,
@@ -610,7 +610,7 @@
     "Fertility Rate": 59.6
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New Jersey",
     "Year": 2014,
     "Births": 103305,
@@ -620,7 +620,7 @@
     "Fertility Rate": 59.95
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New Jersey",
     "Year": 2015,
     "Births": 103127,
@@ -630,7 +630,7 @@
     "Fertility Rate": 60.01
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New York",
     "Year": 2007,
     "Births": 253451,
@@ -640,7 +640,7 @@
     "Fertility Rate": 62.29
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New York",
     "Year": 2008,
     "Births": 250383,
@@ -650,7 +650,7 @@
     "Fertility Rate": 61.63
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New York",
     "Year": 2009,
     "Births": 248110,
@@ -660,7 +660,7 @@
     "Fertility Rate": 61.2
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New York",
     "Year": 2010,
     "Births": 244375,
@@ -670,7 +670,7 @@
     "Fertility Rate": 60.37
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New York",
     "Year": 2011,
     "Births": 241312,
@@ -680,7 +680,7 @@
     "Fertility Rate": 59.84
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New York",
     "Year": 2012,
     "Births": 240916,
@@ -690,7 +690,7 @@
     "Fertility Rate": 59.67
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New York",
     "Year": 2013,
     "Births": 236980,
@@ -700,7 +700,7 @@
     "Fertility Rate": 58.76
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New York",
     "Year": 2014,
     "Births": 238773,
@@ -710,7 +710,7 @@
     "Fertility Rate": 59.02
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "New York",
     "Year": 2015,
     "Births": 237274,
@@ -720,7 +720,7 @@
     "Fertility Rate": 58.79
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Pennsylvania",
     "Year": 2007,
     "Births": 150713,
@@ -730,7 +730,7 @@
     "Fertility Rate": 61.04
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Pennsylvania",
     "Year": 2008,
     "Births": 149273,
@@ -740,7 +740,7 @@
     "Fertility Rate": 60.67
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Pennsylvania",
     "Year": 2009,
     "Births": 146434,
@@ -750,7 +750,7 @@
     "Fertility Rate": 59.73
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Pennsylvania",
     "Year": 2010,
     "Births": 143321,
@@ -760,7 +760,7 @@
     "Fertility Rate": 58.68
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Pennsylvania",
     "Year": 2011,
     "Births": 143178,
@@ -770,7 +770,7 @@
     "Fertility Rate": 58.84
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Pennsylvania",
     "Year": 2012,
     "Births": 142514,
@@ -780,7 +780,7 @@
     "Fertility Rate": 58.75
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Pennsylvania",
     "Year": 2013,
     "Births": 140921,
@@ -790,7 +790,7 @@
     "Fertility Rate": 58.36
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Pennsylvania",
     "Year": 2014,
     "Births": 142268,
@@ -800,7 +800,7 @@
     "Fertility Rate": 59.1
   },
   {
-    "Census Region Code": "CENS-R1",
+    "Census Region": "CENS-R1",
     "State": "Pennsylvania",
     "Year": 2015,
     "Births": 141047,
@@ -810,7 +810,7 @@
     "Fertility Rate": 58.75
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Illinois",
     "Year": 2007,
     "Births": 180836,
@@ -820,7 +820,7 @@
     "Fertility Rate": 68.1
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Illinois",
     "Year": 2008,
     "Births": 176795,
@@ -830,7 +830,7 @@
     "Fertility Rate": 66.75
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Illinois",
     "Year": 2009,
     "Births": 171163,
@@ -840,7 +840,7 @@
     "Fertility Rate": 64.81
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Illinois",
     "Year": 2010,
     "Births": 165200,
@@ -850,7 +850,7 @@
     "Fertility Rate": 62.77
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Illinois",
     "Year": 2011,
     "Births": 161312,
@@ -860,7 +860,7 @@
     "Fertility Rate": 61.51
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Illinois",
     "Year": 2012,
     "Births": 159160,
@@ -870,7 +870,7 @@
     "Fertility Rate": 60.91
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Illinois",
     "Year": 2013,
     "Births": 156931,
@@ -880,7 +880,7 @@
     "Fertility Rate": 60.28
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Illinois",
     "Year": 2014,
     "Births": 158556,
@@ -890,7 +890,7 @@
     "Fertility Rate": 61.07
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Illinois",
     "Year": 2015,
     "Births": 158116,
@@ -900,7 +900,7 @@
     "Fertility Rate": 61.34
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Indiana",
     "Year": 2007,
     "Births": 89864,
@@ -910,7 +910,7 @@
     "Fertility Rate": 69.24
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Indiana",
     "Year": 2008,
     "Births": 88742,
@@ -920,7 +920,7 @@
     "Fertility Rate": 68.49
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Indiana",
     "Year": 2009,
     "Births": 86673,
@@ -930,7 +930,7 @@
     "Fertility Rate": 67.15
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Indiana",
     "Year": 2010,
     "Births": 83940,
@@ -940,7 +940,7 @@
     "Fertility Rate": 65.2
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Indiana",
     "Year": 2011,
     "Births": 83701,
@@ -950,7 +950,7 @@
     "Fertility Rate": 65.02
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Indiana",
     "Year": 2012,
     "Births": 83227,
@@ -960,7 +960,7 @@
     "Fertility Rate": 64.69
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Indiana",
     "Year": 2013,
     "Births": 83102,
@@ -970,7 +970,7 @@
     "Fertility Rate": 64.31
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Indiana",
     "Year": 2014,
     "Births": 84080,
@@ -980,7 +980,7 @@
     "Fertility Rate": 64.91
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Indiana",
     "Year": 2015,
     "Births": 84040,
@@ -990,7 +990,7 @@
     "Fertility Rate": 64.82
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Michigan",
     "Year": 2007,
     "Births": 125261,
@@ -1000,7 +1000,7 @@
     "Fertility Rate": 62.33
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Michigan",
     "Year": 2008,
     "Births": 121127,
@@ -1010,7 +1010,7 @@
     "Fertility Rate": 61.37
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Michigan",
     "Year": 2009,
     "Births": 117294,
@@ -1020,7 +1020,7 @@
     "Fertility Rate": 60.5
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Michigan",
     "Year": 2010,
     "Births": 114531,
@@ -1030,7 +1030,7 @@
     "Fertility Rate": 59.7
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Michigan",
     "Year": 2011,
     "Births": 114008,
@@ -1040,7 +1040,7 @@
     "Fertility Rate": 59.85
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Michigan",
     "Year": 2012,
     "Births": 113091,
@@ -1050,7 +1050,7 @@
     "Fertility Rate": 59.62
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Michigan",
     "Year": 2013,
     "Births": 113489,
@@ -1060,7 +1060,7 @@
     "Fertility Rate": 60.03
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Michigan",
     "Year": 2014,
     "Births": 114375,
@@ -1070,7 +1070,7 @@
     "Fertility Rate": 60.59
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Michigan",
     "Year": 2015,
     "Births": 113312,
@@ -1080,7 +1080,7 @@
     "Fertility Rate": 60.25
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Ohio",
     "Year": 2007,
     "Births": 150879,
@@ -1090,7 +1090,7 @@
     "Fertility Rate": 65.78
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Ohio",
     "Year": 2008,
     "Births": 148821,
@@ -1100,7 +1100,7 @@
     "Fertility Rate": 65.47
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Ohio",
     "Year": 2009,
     "Births": 144841,
@@ -1110,7 +1110,7 @@
     "Fertility Rate": 64.32
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Ohio",
     "Year": 2010,
     "Births": 139128,
@@ -1120,7 +1120,7 @@
     "Fertility Rate": 62.24
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Ohio",
     "Year": 2011,
     "Births": 137918,
@@ -1130,7 +1130,7 @@
     "Fertility Rate": 62.1
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Ohio",
     "Year": 2012,
     "Births": 138483,
@@ -1140,7 +1140,7 @@
     "Fertility Rate": 62.6
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Ohio",
     "Year": 2013,
     "Births": 138936,
@@ -1150,7 +1150,7 @@
     "Fertility Rate": 62.75
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Ohio",
     "Year": 2014,
     "Births": 139467,
@@ -1160,7 +1160,7 @@
     "Fertility Rate": 63.06
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Ohio",
     "Year": 2015,
     "Births": 139264,
@@ -1170,7 +1170,7 @@
     "Fertility Rate": 63.08
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Wisconsin",
     "Year": 2007,
     "Births": 72784,
@@ -1180,7 +1180,7 @@
     "Fertility Rate": 65.01
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Wisconsin",
     "Year": 2008,
     "Births": 72261,
@@ -1190,7 +1190,7 @@
     "Fertility Rate": 65.02
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Wisconsin",
     "Year": 2009,
     "Births": 70843,
@@ -1200,7 +1200,7 @@
     "Fertility Rate": 64.17
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Wisconsin",
     "Year": 2010,
     "Births": 68487,
@@ -1210,7 +1210,7 @@
     "Fertility Rate": 62.4
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Wisconsin",
     "Year": 2011,
     "Births": 67810,
@@ -1220,7 +1220,7 @@
     "Fertility Rate": 62.01
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Wisconsin",
     "Year": 2012,
     "Births": 67295,
@@ -1230,7 +1230,7 @@
     "Fertility Rate": 61.83
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Wisconsin",
     "Year": 2013,
     "Births": 66649,
@@ -1240,7 +1240,7 @@
     "Fertility Rate": 61.32
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Wisconsin",
     "Year": 2014,
     "Births": 67161,
@@ -1250,7 +1250,7 @@
     "Fertility Rate": 61.77
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Wisconsin",
     "Year": 2015,
     "Births": 67041,
@@ -1260,7 +1260,7 @@
     "Fertility Rate": 61.77
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Iowa",
     "Year": 2007,
     "Births": 40886,
@@ -1270,7 +1270,7 @@
     "Fertility Rate": 70.3
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Iowa",
     "Year": 2008,
     "Births": 40224,
@@ -1280,7 +1280,7 @@
     "Fertility Rate": 69.44
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Iowa",
     "Year": 2009,
     "Births": 39701,
@@ -1290,7 +1290,7 @@
     "Fertility Rate": 68.77
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Iowa",
     "Year": 2010,
     "Births": 38719,
@@ -1300,7 +1300,7 @@
     "Fertility Rate": 67.14
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Iowa",
     "Year": 2011,
     "Births": 38214,
@@ -1310,7 +1310,7 @@
     "Fertility Rate": 66.08
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Iowa",
     "Year": 2012,
     "Births": 38702,
@@ -1320,7 +1320,7 @@
     "Fertility Rate": 66.76
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Iowa",
     "Year": 2013,
     "Births": 39094,
@@ -1330,7 +1330,7 @@
     "Fertility Rate": 67.07
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Iowa",
     "Year": 2014,
     "Births": 39687,
@@ -1340,7 +1340,7 @@
     "Fertility Rate": 67.77
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Iowa",
     "Year": 2015,
     "Births": 39482,
@@ -1350,7 +1350,7 @@
     "Fertility Rate": 67.1
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Kansas",
     "Year": 2007,
     "Births": 42004,
@@ -1360,7 +1360,7 @@
     "Fertility Rate": 75.68
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Kansas",
     "Year": 2008,
     "Births": 41833,
@@ -1370,7 +1370,7 @@
     "Fertility Rate": 75.56
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Kansas",
     "Year": 2009,
     "Births": 41396,
@@ -1380,7 +1380,7 @@
     "Fertility Rate": 74.78
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Kansas",
     "Year": 2010,
     "Births": 40649,
@@ -1390,7 +1390,7 @@
     "Fertility Rate": 73.3
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Kansas",
     "Year": 2011,
     "Births": 39642,
@@ -1400,7 +1400,7 @@
     "Fertility Rate": 71.22
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Kansas",
     "Year": 2012,
     "Births": 40341,
@@ -1410,7 +1410,7 @@
     "Fertility Rate": 72.31
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Kansas",
     "Year": 2013,
     "Births": 38839,
@@ -1420,7 +1420,7 @@
     "Fertility Rate": 69.54
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Kansas",
     "Year": 2014,
     "Births": 39223,
@@ -1430,7 +1430,7 @@
     "Fertility Rate": 70
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Kansas",
     "Year": 2015,
     "Births": 39154,
@@ -1440,7 +1440,7 @@
     "Fertility Rate": 69.9
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Minnesota",
     "Year": 2007,
     "Births": 73735,
@@ -1450,7 +1450,7 @@
     "Fertility Rate": 69.43
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Minnesota",
     "Year": 2008,
     "Births": 72421,
@@ -1460,7 +1460,7 @@
     "Fertility Rate": 68.55
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Minnesota",
     "Year": 2009,
     "Births": 70646,
@@ -1470,7 +1470,7 @@
     "Fertility Rate": 67.25
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Minnesota",
     "Year": 2010,
     "Births": 68610,
@@ -1480,7 +1480,7 @@
     "Fertility Rate": 65.61
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Minnesota",
     "Year": 2011,
     "Births": 68409,
@@ -1490,7 +1490,7 @@
     "Fertility Rate": 65.51
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Minnesota",
     "Year": 2012,
     "Births": 68772,
@@ -1500,7 +1500,7 @@
     "Fertility Rate": 65.73
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Minnesota",
     "Year": 2013,
     "Births": 69159,
@@ -1510,7 +1510,7 @@
     "Fertility Rate": 65.89
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Minnesota",
     "Year": 2014,
     "Births": 69904,
@@ -1520,7 +1520,7 @@
     "Fertility Rate": 66.36
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Minnesota",
     "Year": 2015,
     "Births": 69834,
@@ -1530,7 +1530,7 @@
     "Fertility Rate": 66.25
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Missouri",
     "Year": 2007,
     "Births": 81930,
@@ -1540,7 +1540,7 @@
     "Fertility Rate": 68.88
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Missouri",
     "Year": 2008,
     "Births": 80963,
@@ -1550,7 +1550,7 @@
     "Fertility Rate": 68.37
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Missouri",
     "Year": 2009,
     "Births": 78905,
@@ -1560,7 +1560,7 @@
     "Fertility Rate": 66.87
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Missouri",
     "Year": 2010,
     "Births": 76759,
@@ -1570,7 +1570,7 @@
     "Fertility Rate": 65.23
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Missouri",
     "Year": 2011,
     "Births": 76117,
@@ -1580,7 +1580,7 @@
     "Fertility Rate": 64.79
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Missouri",
     "Year": 2012,
     "Births": 75446,
@@ -1590,7 +1590,7 @@
     "Fertility Rate": 64.34
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Missouri",
     "Year": 2013,
     "Births": 75296,
@@ -1600,7 +1600,7 @@
     "Fertility Rate": 64.11
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Missouri",
     "Year": 2014,
     "Births": 75360,
@@ -1610,7 +1610,7 @@
     "Fertility Rate": 64.07
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Missouri",
     "Year": 2015,
     "Births": 75061,
@@ -1620,7 +1620,7 @@
     "Fertility Rate": 63.8
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Nebraska",
     "Year": 2007,
     "Births": 26934,
@@ -1630,7 +1630,7 @@
     "Fertility Rate": 75.96
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Nebraska",
     "Year": 2008,
     "Births": 26989,
@@ -1640,7 +1640,7 @@
     "Fertility Rate": 76.3
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Nebraska",
     "Year": 2009,
     "Births": 26936,
@@ -1650,7 +1650,7 @@
     "Fertility Rate": 76.07
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Nebraska",
     "Year": 2010,
     "Births": 25918,
@@ -1660,7 +1660,7 @@
     "Fertility Rate": 73
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Nebraska",
     "Year": 2011,
     "Births": 25720,
@@ -1670,7 +1670,7 @@
     "Fertility Rate": 72
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Nebraska",
     "Year": 2012,
     "Births": 25942,
@@ -1680,7 +1680,7 @@
     "Fertility Rate": 72.35
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Nebraska",
     "Year": 2013,
     "Births": 26095,
@@ -1690,7 +1690,7 @@
     "Fertility Rate": 72.18
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Nebraska",
     "Year": 2014,
     "Births": 26794,
@@ -1700,7 +1700,7 @@
     "Fertility Rate": 73.59
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "Nebraska",
     "Year": 2015,
     "Births": 26679,
@@ -1710,7 +1710,7 @@
     "Fertility Rate": 72.82
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "North Dakota",
     "Year": 2007,
     "Births": 8840,
@@ -1720,7 +1720,7 @@
     "Fertility Rate": 68.97
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "North Dakota",
     "Year": 2008,
     "Births": 8938,
@@ -1730,7 +1730,7 @@
     "Fertility Rate": 70.03
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "North Dakota",
     "Year": 2009,
     "Births": 9001,
@@ -1740,7 +1740,7 @@
     "Fertility Rate": 70.09
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "North Dakota",
     "Year": 2010,
     "Births": 9104,
@@ -1750,7 +1750,7 @@
     "Fertility Rate": 70.5
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "North Dakota",
     "Year": 2011,
     "Births": 9527,
@@ -1760,7 +1760,7 @@
     "Fertility Rate": 72.36
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "North Dakota",
     "Year": 2012,
     "Births": 10106,
@@ -1770,7 +1770,7 @@
     "Fertility Rate": 74.63
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "North Dakota",
     "Year": 2013,
     "Births": 10599,
@@ -1780,7 +1780,7 @@
     "Fertility Rate": 75.34
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "North Dakota",
     "Year": 2014,
     "Births": 11359,
@@ -1790,7 +1790,7 @@
     "Fertility Rate": 78.81
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "North Dakota",
     "Year": 2015,
     "Births": 11314,
@@ -1800,7 +1800,7 @@
     "Fertility Rate": 76.4
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "South Dakota",
     "Year": 2007,
     "Births": 12261,
@@ -1810,7 +1810,7 @@
     "Fertility Rate": 80.47
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "South Dakota",
     "Year": 2008,
     "Births": 12071,
@@ -1820,7 +1820,7 @@
     "Fertility Rate": 79.48
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "South Dakota",
     "Year": 2009,
     "Births": 11934,
@@ -1830,7 +1830,7 @@
     "Fertility Rate": 78.59
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "South Dakota",
     "Year": 2010,
     "Births": 11811,
@@ -1840,7 +1840,7 @@
     "Fertility Rate": 77.52
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "South Dakota",
     "Year": 2011,
     "Births": 11846,
@@ -1850,7 +1850,7 @@
     "Fertility Rate": 77.1
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "South Dakota",
     "Year": 2012,
     "Births": 12104,
@@ -1860,7 +1860,7 @@
     "Fertility Rate": 78.08
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "South Dakota",
     "Year": 2013,
     "Births": 12248,
@@ -1870,7 +1870,7 @@
     "Fertility Rate": 78.09
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "South Dakota",
     "Year": 2014,
     "Births": 12283,
@@ -1880,7 +1880,7 @@
     "Fertility Rate": 77.79
   },
   {
-    "Census Region Code": "CENS-R2",
+    "Census Region": "CENS-R2",
     "State": "South Dakota",
     "Year": 2015,
     "Births": 12336,
@@ -1890,7 +1890,7 @@
     "Fertility Rate": 78.17
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Delaware",
     "Year": 2007,
     "Births": 12170,
@@ -1900,7 +1900,7 @@
     "Fertility Rate": 67.69
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Delaware",
     "Year": 2008,
     "Births": 12090,
@@ -1910,7 +1910,7 @@
     "Fertility Rate": 67.17
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Delaware",
     "Year": 2009,
     "Births": 11559,
@@ -1920,7 +1920,7 @@
     "Fertility Rate": 64.36
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Delaware",
     "Year": 2010,
     "Births": 11364,
@@ -1930,7 +1930,7 @@
     "Fertility Rate": 63.4
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Delaware",
     "Year": 2011,
     "Births": 11257,
@@ -1940,7 +1940,7 @@
     "Fertility Rate": 62.92
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Delaware",
     "Year": 2012,
     "Births": 11023,
@@ -1950,7 +1950,7 @@
     "Fertility Rate": 61.4
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Delaware",
     "Year": 2013,
     "Births": 10831,
@@ -1960,7 +1960,7 @@
     "Fertility Rate": 60.33
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Delaware",
     "Year": 2014,
     "Births": 10972,
@@ -1970,7 +1970,7 @@
     "Fertility Rate": 60.82
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Delaware",
     "Year": 2015,
     "Births": 11166,
@@ -1980,7 +1980,7 @@
     "Fertility Rate": 61.75
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "District of Columbia",
     "Year": 2007,
     "Births": 8864,
@@ -1990,7 +1990,7 @@
     "Fertility Rate": 59.37
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "District of Columbia",
     "Year": 2008,
     "Births": 9130,
@@ -2000,7 +2000,7 @@
     "Fertility Rate": 59.73
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "District of Columbia",
     "Year": 2009,
     "Births": 9040,
@@ -2010,7 +2010,7 @@
     "Fertility Rate": 57.44
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "District of Columbia",
     "Year": 2010,
     "Births": 9165,
@@ -2020,7 +2020,7 @@
     "Fertility Rate": 56.46
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "District of Columbia",
     "Year": 2011,
     "Births": 9295,
@@ -2030,7 +2030,7 @@
     "Fertility Rate": 55.97
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "District of Columbia",
     "Year": 2012,
     "Births": 9399,
@@ -2040,7 +2040,7 @@
     "Fertility Rate": 55.27
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "District of Columbia",
     "Year": 2013,
     "Births": 9288,
@@ -2050,7 +2050,7 @@
     "Fertility Rate": 53.29
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "District of Columbia",
     "Year": 2014,
     "Births": 9509,
@@ -2060,7 +2060,7 @@
     "Fertility Rate": 53.55
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "District of Columbia",
     "Year": 2015,
     "Births": 9578,
@@ -2070,7 +2070,7 @@
     "Fertility Rate": 52.81
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Florida",
     "Year": 2007,
     "Births": 239165,
@@ -2080,7 +2080,7 @@
     "Fertility Rate": 66.83
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Florida",
     "Year": 2008,
     "Births": 231445,
@@ -2090,7 +2090,7 @@
     "Fertility Rate": 64.74
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Florida",
     "Year": 2009,
     "Births": 221394,
@@ -2100,7 +2100,7 @@
     "Fertility Rate": 62.17
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Florida",
     "Year": 2010,
     "Births": 214590,
@@ -2110,7 +2110,7 @@
     "Fertility Rate": 60.26
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Florida",
     "Year": 2011,
     "Births": 213414,
@@ -2120,7 +2120,7 @@
     "Fertility Rate": 59.64
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Florida",
     "Year": 2012,
     "Births": 213148,
@@ -2130,7 +2130,7 @@
     "Fertility Rate": 59
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Florida",
     "Year": 2013,
     "Births": 215407,
@@ -2140,7 +2140,7 @@
     "Fertility Rate": 59.27
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Florida",
     "Year": 2014,
     "Births": 219991,
@@ -2150,7 +2150,7 @@
     "Fertility Rate": 59.66
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Florida",
     "Year": 2015,
     "Births": 224269,
@@ -2160,7 +2160,7 @@
     "Fertility Rate": 59.96
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Georgia",
     "Year": 2007,
     "Births": 151137,
@@ -2170,7 +2170,7 @@
     "Fertility Rate": 73.57
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Georgia",
     "Year": 2008,
     "Births": 146603,
@@ -2180,7 +2180,7 @@
     "Fertility Rate": 70.8
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Georgia",
     "Year": 2009,
     "Births": 141377,
@@ -2190,7 +2190,7 @@
     "Fertility Rate": 68.15
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Georgia",
     "Year": 2010,
     "Births": 133947,
@@ -2200,7 +2200,7 @@
     "Fertility Rate": 64.61
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Georgia",
     "Year": 2011,
     "Births": 132409,
@@ -2210,7 +2210,7 @@
     "Fertility Rate": 63.78
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Georgia",
     "Year": 2012,
     "Births": 130280,
@@ -2220,7 +2220,7 @@
     "Fertility Rate": 62.38
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Georgia",
     "Year": 2013,
     "Births": 128748,
@@ -2230,7 +2230,7 @@
     "Fertility Rate": 61.62
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Georgia",
     "Year": 2014,
     "Births": 130946,
@@ -2240,7 +2240,7 @@
     "Fertility Rate": 62.22
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Georgia",
     "Year": 2015,
     "Births": 131404,
@@ -2250,7 +2250,7 @@
     "Fertility Rate": 61.99
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Maryland",
     "Year": 2007,
     "Births": 78095,
@@ -2260,7 +2260,7 @@
     "Fertility Rate": 64.95
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Maryland",
     "Year": 2008,
     "Births": 77289,
@@ -2270,7 +2270,7 @@
     "Fertility Rate": 64.58
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Maryland",
     "Year": 2009,
     "Births": 75059,
@@ -2280,7 +2280,7 @@
     "Fertility Rate": 62.95
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Maryland",
     "Year": 2010,
     "Births": 73801,
@@ -2290,7 +2290,7 @@
     "Fertility Rate": 61.84
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Maryland",
     "Year": 2011,
     "Births": 73093,
@@ -2300,7 +2300,7 @@
     "Fertility Rate": 61.29
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Maryland",
     "Year": 2012,
     "Births": 72883,
@@ -2310,7 +2310,7 @@
     "Fertility Rate": 60.81
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Maryland",
     "Year": 2013,
     "Births": 71953,
@@ -2320,7 +2320,7 @@
     "Fertility Rate": 60.11
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Maryland",
     "Year": 2014,
     "Births": 73921,
@@ -2330,7 +2330,7 @@
     "Fertility Rate": 61.5
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Maryland",
     "Year": 2015,
     "Births": 73616,
@@ -2340,7 +2340,7 @@
     "Fertility Rate": 61.32
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "North Carolina",
     "Year": 2007,
     "Births": 131037,
@@ -2350,7 +2350,7 @@
     "Fertility Rate": 68.61
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "North Carolina",
     "Year": 2008,
     "Births": 130839,
@@ -2360,7 +2360,7 @@
     "Fertility Rate": 67.66
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "North Carolina",
     "Year": 2009,
     "Births": 126845,
@@ -2370,7 +2370,7 @@
     "Fertility Rate": 65.15
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "North Carolina",
     "Year": 2010,
     "Births": 122350,
@@ -2380,7 +2380,7 @@
     "Fertility Rate": 62.76
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "North Carolina",
     "Year": 2011,
     "Births": 120389,
@@ -2390,7 +2390,7 @@
     "Fertility Rate": 61.48
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "North Carolina",
     "Year": 2012,
     "Births": 119831,
@@ -2400,7 +2400,7 @@
     "Fertility Rate": 61.04
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "North Carolina",
     "Year": 2013,
     "Births": 119002,
@@ -2410,7 +2410,7 @@
     "Fertility Rate": 60.36
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "North Carolina",
     "Year": 2014,
     "Births": 120975,
@@ -2420,7 +2420,7 @@
     "Fertility Rate": 61.01
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "North Carolina",
     "Year": 2015,
     "Births": 120843,
@@ -2430,7 +2430,7 @@
     "Fertility Rate": 60.67
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "South Carolina",
     "Year": 2007,
     "Births": 62875,
@@ -2440,7 +2440,7 @@
     "Fertility Rate": 68.67
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "South Carolina",
     "Year": 2008,
     "Births": 63071,
@@ -2450,7 +2450,7 @@
     "Fertility Rate": 68.17
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "South Carolina",
     "Year": 2009,
     "Births": 60620,
@@ -2460,7 +2460,7 @@
     "Fertility Rate": 65.29
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "South Carolina",
     "Year": 2010,
     "Births": 58342,
@@ -2470,7 +2470,7 @@
     "Fertility Rate": 62.85
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "South Carolina",
     "Year": 2011,
     "Births": 57393,
@@ -2480,7 +2480,7 @@
     "Fertility Rate": 61.82
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "South Carolina",
     "Year": 2012,
     "Births": 57155,
@@ -2490,7 +2490,7 @@
     "Fertility Rate": 61.37
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "South Carolina",
     "Year": 2013,
     "Births": 56795,
@@ -2500,7 +2500,7 @@
     "Fertility Rate": 60.63
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "South Carolina",
     "Year": 2014,
     "Births": 57627,
@@ -2510,7 +2510,7 @@
     "Fertility Rate": 61.08
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "South Carolina",
     "Year": 2015,
     "Births": 58139,
@@ -2520,7 +2520,7 @@
     "Fertility Rate": 61.07
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Virginia",
     "Year": 2007,
     "Births": 108884,
@@ -2530,7 +2530,7 @@
     "Fertility Rate": 66.27
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Virginia",
     "Year": 2008,
     "Births": 106686,
@@ -2540,7 +2540,7 @@
     "Fertility Rate": 64.88
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Virginia",
     "Year": 2009,
     "Births": 105059,
@@ -2550,7 +2550,7 @@
     "Fertility Rate": 63.71
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Virginia",
     "Year": 2010,
     "Births": 103002,
@@ -2560,7 +2560,7 @@
     "Fertility Rate": 62.32
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Virginia",
     "Year": 2011,
     "Births": 102652,
@@ -2570,7 +2570,7 @@
     "Fertility Rate": 61.88
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Virginia",
     "Year": 2012,
     "Births": 103013,
@@ -2580,7 +2580,7 @@
     "Fertility Rate": 61.66
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Virginia",
     "Year": 2013,
     "Births": 102147,
@@ -2590,7 +2590,7 @@
     "Fertility Rate": 60.93
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Virginia",
     "Year": 2014,
     "Births": 103300,
@@ -2600,7 +2600,7 @@
     "Fertility Rate": 61.34
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Virginia",
     "Year": 2015,
     "Births": 103303,
@@ -2610,7 +2610,7 @@
     "Fertility Rate": 61.31
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "West Virginia",
     "Year": 2007,
     "Births": 21994,
@@ -2620,7 +2620,7 @@
     "Fertility Rate": 63.23
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "West Virginia",
     "Year": 2008,
     "Births": 21501,
@@ -2630,7 +2630,7 @@
     "Fertility Rate": 62.28
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "West Virginia",
     "Year": 2009,
     "Births": 21268,
@@ -2640,7 +2640,7 @@
     "Fertility Rate": 61.92
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "West Virginia",
     "Year": 2010,
     "Births": 20470,
@@ -2650,7 +2650,7 @@
     "Fertility Rate": 59.86
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "West Virginia",
     "Year": 2011,
     "Births": 20717,
@@ -2660,7 +2660,7 @@
     "Fertility Rate": 60.71
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "West Virginia",
     "Year": 2012,
     "Births": 20827,
@@ -2670,7 +2670,7 @@
     "Fertility Rate": 61.33
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "West Virginia",
     "Year": 2013,
     "Births": 20825,
@@ -2680,7 +2680,7 @@
     "Fertility Rate": 61.49
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "West Virginia",
     "Year": 2014,
     "Births": 20301,
@@ -2690,7 +2690,7 @@
     "Fertility Rate": 60.29
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "West Virginia",
     "Year": 2015,
     "Births": 19805,
@@ -2700,7 +2700,7 @@
     "Fertility Rate": 59.39
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Alabama",
     "Year": 2007,
     "Births": 64804,
@@ -2710,7 +2710,7 @@
     "Fertility Rate": 67.61
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Alabama",
     "Year": 2008,
     "Births": 64546,
@@ -2720,7 +2720,7 @@
     "Fertility Rate": 67.19
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Alabama",
     "Year": 2009,
     "Births": 62475,
@@ -2730,7 +2730,7 @@
     "Fertility Rate": 64.94
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Alabama",
     "Year": 2010,
     "Births": 60050,
@@ -2740,7 +2740,7 @@
     "Fertility Rate": 62.51
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Alabama",
     "Year": 2011,
     "Births": 59354,
@@ -2750,7 +2750,7 @@
     "Fertility Rate": 61.82
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Alabama",
     "Year": 2012,
     "Births": 58448,
@@ -2760,7 +2760,7 @@
     "Fertility Rate": 60.95
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Alabama",
     "Year": 2013,
     "Births": 58167,
@@ -2770,7 +2770,7 @@
     "Fertility Rate": 60.61
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Alabama",
     "Year": 2014,
     "Births": 59422,
@@ -2780,7 +2780,7 @@
     "Fertility Rate": 61.83
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Alabama",
     "Year": 2015,
     "Births": 59657,
@@ -2790,7 +2790,7 @@
     "Fertility Rate": 62.21
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Kentucky",
     "Year": 2007,
     "Births": 59368,
@@ -2800,7 +2800,7 @@
     "Fertility Rate": 68.75
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Kentucky",
     "Year": 2008,
     "Births": 58375,
@@ -2810,7 +2810,7 @@
     "Fertility Rate": 67.72
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Kentucky",
     "Year": 2009,
     "Births": 57551,
@@ -2820,7 +2820,7 @@
     "Fertility Rate": 67.19
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Kentucky",
     "Year": 2010,
     "Births": 55784,
@@ -2830,7 +2830,7 @@
     "Fertility Rate": 65.26
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Kentucky",
     "Year": 2011,
     "Births": 55370,
@@ -2840,7 +2840,7 @@
     "Fertility Rate": 64.72
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Kentucky",
     "Year": 2012,
     "Births": 55758,
@@ -2850,7 +2850,7 @@
     "Fertility Rate": 65.45
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Kentucky",
     "Year": 2013,
     "Births": 55686,
@@ -2860,7 +2860,7 @@
     "Fertility Rate": 65.28
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Kentucky",
     "Year": 2014,
     "Births": 56170,
@@ -2870,7 +2870,7 @@
     "Fertility Rate": 65.8
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Kentucky",
     "Year": 2015,
     "Births": 55971,
@@ -2880,7 +2880,7 @@
     "Fertility Rate": 65.72
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Mississippi",
     "Year": 2007,
     "Births": 46491,
@@ -2890,7 +2890,7 @@
     "Fertility Rate": 76.26
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Mississippi",
     "Year": 2008,
     "Births": 44947,
@@ -2900,7 +2900,7 @@
     "Fertility Rate": 73.86
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Mississippi",
     "Year": 2009,
     "Births": 42901,
@@ -2910,7 +2910,7 @@
     "Fertility Rate": 70.8
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Mississippi",
     "Year": 2010,
     "Births": 40036,
@@ -2920,7 +2920,7 @@
     "Fertility Rate": 66.28
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Mississippi",
     "Year": 2011,
     "Births": 39860,
@@ -2930,7 +2930,7 @@
     "Fertility Rate": 66.04
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Mississippi",
     "Year": 2012,
     "Births": 38669,
@@ -2940,7 +2940,7 @@
     "Fertility Rate": 64.2
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Mississippi",
     "Year": 2013,
     "Births": 38634,
@@ -2950,7 +2950,7 @@
     "Fertility Rate": 64.21
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Mississippi",
     "Year": 2014,
     "Births": 38736,
@@ -2960,7 +2960,7 @@
     "Fertility Rate": 64.42
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Mississippi",
     "Year": 2015,
     "Births": 38394,
@@ -2970,7 +2970,7 @@
     "Fertility Rate": 64.05
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Tennessee",
     "Year": 2007,
     "Births": 86711,
@@ -2980,7 +2980,7 @@
     "Fertility Rate": 68.19
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Tennessee",
     "Year": 2008,
     "Births": 85560,
@@ -2990,7 +2990,7 @@
     "Fertility Rate": 67.09
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Tennessee",
     "Year": 2009,
     "Births": 82211,
@@ -3000,7 +3000,7 @@
     "Fertility Rate": 64.48
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Tennessee",
     "Year": 2010,
     "Births": 79495,
@@ -3010,7 +3010,7 @@
     "Fertility Rate": 62.38
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Tennessee",
     "Year": 2011,
     "Births": 79588,
@@ -3020,7 +3020,7 @@
     "Fertility Rate": 62.31
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Tennessee",
     "Year": 2012,
     "Births": 80371,
@@ -3030,7 +3030,7 @@
     "Fertility Rate": 62.63
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Tennessee",
     "Year": 2013,
     "Births": 79992,
@@ -3040,7 +3040,7 @@
     "Fertility Rate": 62.14
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Tennessee",
     "Year": 2014,
     "Births": 81602,
@@ -3050,7 +3050,7 @@
     "Fertility Rate": 62.98
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Tennessee",
     "Year": 2015,
     "Births": 81685,
@@ -3060,7 +3060,7 @@
     "Fertility Rate": 62.85
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Arkansas",
     "Year": 2007,
     "Births": 41378,
@@ -3070,7 +3070,7 @@
     "Fertility Rate": 72.72
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Arkansas",
     "Year": 2008,
     "Births": 40669,
@@ -3080,7 +3080,7 @@
     "Fertility Rate": 71.46
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Arkansas",
     "Year": 2009,
     "Births": 39808,
@@ -3090,7 +3090,7 @@
     "Fertility Rate": 69.97
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Arkansas",
     "Year": 2010,
     "Births": 38540,
@@ -3100,7 +3100,7 @@
     "Fertility Rate": 67.68
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Arkansas",
     "Year": 2011,
     "Births": 38715,
@@ -3110,7 +3110,7 @@
     "Fertility Rate": 67.83
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Arkansas",
     "Year": 2012,
     "Births": 38347,
@@ -3120,7 +3120,7 @@
     "Fertility Rate": 66.96
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Arkansas",
     "Year": 2013,
     "Births": 37832,
@@ -3130,7 +3130,7 @@
     "Fertility Rate": 65.89
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Arkansas",
     "Year": 2014,
     "Births": 38511,
@@ -3140,7 +3140,7 @@
     "Fertility Rate": 67
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Arkansas",
     "Year": 2015,
     "Births": 38886,
@@ -3150,7 +3150,7 @@
     "Fertility Rate": 67.46
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Louisiana",
     "Year": 2007,
     "Births": 66301,
@@ -3160,7 +3160,7 @@
     "Fertility Rate": 72.4
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Louisiana",
     "Year": 2008,
     "Births": 65268,
@@ -3170,7 +3170,7 @@
     "Fertility Rate": 70.9
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Louisiana",
     "Year": 2009,
     "Births": 64973,
@@ -3180,7 +3180,7 @@
     "Fertility Rate": 70.24
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Louisiana",
     "Year": 2010,
     "Births": 62379,
@@ -3190,7 +3190,7 @@
     "Fertility Rate": 67.19
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Louisiana",
     "Year": 2011,
     "Births": 61888,
@@ -3200,7 +3200,7 @@
     "Fertility Rate": 66.4
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Louisiana",
     "Year": 2012,
     "Births": 62642,
@@ -3210,7 +3210,7 @@
     "Fertility Rate": 67.01
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Louisiana",
     "Year": 2013,
     "Births": 63201,
@@ -3220,7 +3220,7 @@
     "Fertility Rate": 67.33
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Louisiana",
     "Year": 2014,
     "Births": 64497,
@@ -3230,7 +3230,7 @@
     "Fertility Rate": 68.42
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Louisiana",
     "Year": 2015,
     "Births": 64692,
@@ -3240,7 +3240,7 @@
     "Fertility Rate": 68.53
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Oklahoma",
     "Year": 2007,
     "Births": 55065,
@@ -3250,7 +3250,7 @@
     "Fertility Rate": 75.69
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Oklahoma",
     "Year": 2008,
     "Births": 54781,
@@ -3260,7 +3260,7 @@
     "Fertility Rate": 75.18
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Oklahoma",
     "Year": 2009,
     "Births": 54553,
@@ -3270,7 +3270,7 @@
     "Fertility Rate": 74.45
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Oklahoma",
     "Year": 2010,
     "Births": 53238,
@@ -3280,7 +3280,7 @@
     "Fertility Rate": 72.27
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Oklahoma",
     "Year": 2011,
     "Births": 52272,
@@ -3290,7 +3290,7 @@
     "Fertility Rate": 70.37
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Oklahoma",
     "Year": 2012,
     "Births": 52751,
@@ -3300,7 +3300,7 @@
     "Fertility Rate": 70.52
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Oklahoma",
     "Year": 2013,
     "Births": 53369,
@@ -3310,7 +3310,7 @@
     "Fertility Rate": 70.59
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Oklahoma",
     "Year": 2014,
     "Births": 53339,
@@ -3320,7 +3320,7 @@
     "Fertility Rate": 69.94
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Oklahoma",
     "Year": 2015,
     "Births": 53122,
@@ -3330,7 +3330,7 @@
     "Fertility Rate": 69.14
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Texas",
     "Year": 2007,
     "Births": 407625,
@@ -3340,7 +3340,7 @@
     "Fertility Rate": 79.22
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Texas",
     "Year": 2008,
     "Births": 405554,
@@ -3350,7 +3350,7 @@
     "Fertility Rate": 77.84
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Texas",
     "Year": 2009,
     "Births": 401977,
@@ -3360,7 +3360,7 @@
     "Fertility Rate": 76.13
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Texas",
     "Year": 2010,
     "Births": 386118,
@@ -3370,7 +3370,7 @@
     "Fertility Rate": 72.49
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Texas",
     "Year": 2011,
     "Births": 377445,
@@ -3380,7 +3380,7 @@
     "Fertility Rate": 69.81
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Texas",
     "Year": 2012,
     "Births": 382727,
@@ -3390,7 +3390,7 @@
     "Fertility Rate": 69.88
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Texas",
     "Year": 2013,
     "Births": 387340,
@@ -3400,7 +3400,7 @@
     "Fertility Rate": 69.87
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Texas",
     "Year": 2014,
     "Births": 399766,
@@ -3410,7 +3410,7 @@
     "Fertility Rate": 70.7
   },
   {
-    "Census Region Code": "CENS-R3",
+    "Census Region": "CENS-R3",
     "State": "Texas",
     "Year": 2015,
     "Births": 403618,
@@ -3420,7 +3420,7 @@
     "Fertility Rate": 70.21
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Arizona",
     "Year": 2007,
     "Births": 102981,
@@ -3430,7 +3430,7 @@
     "Fertility Rate": 82.65
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Arizona",
     "Year": 2008,
     "Births": 99442,
@@ -3440,7 +3440,7 @@
     "Fertility Rate": 78.97
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Arizona",
     "Year": 2009,
     "Births": 92798,
@@ -3450,7 +3450,7 @@
     "Fertility Rate": 73.5
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Arizona",
     "Year": 2010,
     "Births": 87477,
@@ -3460,7 +3460,7 @@
     "Fertility Rate": 69.29
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Arizona",
     "Year": 2011,
     "Births": 85543,
@@ -3470,7 +3470,7 @@
     "Fertility Rate": 67.29
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Arizona",
     "Year": 2012,
     "Births": 86441,
@@ -3480,7 +3480,7 @@
     "Fertility Rate": 67.48
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Arizona",
     "Year": 2013,
     "Births": 85600,
@@ -3490,7 +3490,7 @@
     "Fertility Rate": 66.33
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Arizona",
     "Year": 2014,
     "Births": 86887,
@@ -3500,7 +3500,7 @@
     "Fertility Rate": 66.43
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Arizona",
     "Year": 2015,
     "Births": 85351,
@@ -3510,7 +3510,7 @@
     "Fertility Rate": 64.67
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Colorado",
     "Year": 2007,
     "Births": 70809,
@@ -3520,7 +3520,7 @@
     "Fertility Rate": 70.48
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Colorado",
     "Year": 2008,
     "Births": 70031,
@@ -3530,7 +3530,7 @@
     "Fertility Rate": 69.13
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Colorado",
     "Year": 2009,
     "Births": 68628,
@@ -3540,7 +3540,7 @@
     "Fertility Rate": 67.24
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Colorado",
     "Year": 2010,
     "Births": 66355,
@@ -3550,7 +3550,7 @@
     "Fertility Rate": 64.73
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Colorado",
     "Year": 2011,
     "Births": 65055,
@@ -3560,7 +3560,7 @@
     "Fertility Rate": 62.65
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Colorado",
     "Year": 2012,
     "Births": 65187,
@@ -3570,7 +3570,7 @@
     "Fertility Rate": 62.05
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Colorado",
     "Year": 2013,
     "Births": 65007,
@@ -3580,7 +3580,7 @@
     "Fertility Rate": 60.99
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Colorado",
     "Year": 2014,
     "Births": 65830,
@@ -3590,7 +3590,7 @@
     "Fertility Rate": 60.69
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Colorado",
     "Year": 2015,
     "Births": 66581,
@@ -3600,7 +3600,7 @@
     "Fertility Rate": 60.17
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Idaho",
     "Year": 2007,
     "Births": 25019,
@@ -3610,7 +3610,7 @@
     "Fertility Rate": 82.96
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Idaho",
     "Year": 2008,
     "Births": 25149,
@@ -3620,7 +3620,7 @@
     "Fertility Rate": 82.52
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Idaho",
     "Year": 2009,
     "Births": 23737,
@@ -3630,7 +3630,7 @@
     "Fertility Rate": 77.58
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Idaho",
     "Year": 2010,
     "Births": 23198,
@@ -3640,7 +3640,7 @@
     "Fertility Rate": 75.74
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Idaho",
     "Year": 2011,
     "Births": 22305,
@@ -3650,7 +3650,7 @@
     "Fertility Rate": 72.26
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Idaho",
     "Year": 2012,
     "Births": 22963,
@@ -3660,7 +3660,7 @@
     "Fertility Rate": 74.11
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Idaho",
     "Year": 2013,
     "Births": 22383,
@@ -3670,7 +3670,7 @@
     "Fertility Rate": 71.81
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Idaho",
     "Year": 2014,
     "Births": 22876,
@@ -3680,7 +3680,7 @@
     "Fertility Rate": 72.66
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Idaho",
     "Year": 2015,
     "Births": 22827,
@@ -3690,7 +3690,7 @@
     "Fertility Rate": 71.83
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Montana",
     "Year": 2007,
     "Births": 12439,
@@ -3700,7 +3700,7 @@
     "Fertility Rate": 68.74
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Montana",
     "Year": 2008,
     "Births": 12594,
@@ -3710,7 +3710,7 @@
     "Fertility Rate": 69.55
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Montana",
     "Year": 2009,
     "Births": 12257,
@@ -3720,7 +3720,7 @@
     "Fertility Rate": 68.13
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Montana",
     "Year": 2010,
     "Births": 12060,
@@ -3730,7 +3730,7 @@
     "Fertility Rate": 67.12
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Montana",
     "Year": 2011,
     "Births": 12069,
@@ -3740,7 +3740,7 @@
     "Fertility Rate": 66.7
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Montana",
     "Year": 2012,
     "Births": 12118,
@@ -3750,7 +3750,7 @@
     "Fertility Rate": 66.62
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Montana",
     "Year": 2013,
     "Births": 12377,
@@ -3760,7 +3760,7 @@
     "Fertility Rate": 67.21
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Montana",
     "Year": 2014,
     "Births": 12432,
@@ -3770,7 +3770,7 @@
     "Fertility Rate": 66.96
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Montana",
     "Year": 2015,
     "Births": 12583,
@@ -3780,7 +3780,7 @@
     "Fertility Rate": 67.32
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Nevada",
     "Year": 2007,
     "Births": 41181,
@@ -3790,7 +3790,7 @@
     "Fertility Rate": 76.43
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Nevada",
     "Year": 2008,
     "Births": 39506,
@@ -3800,7 +3800,7 @@
     "Fertility Rate": 72.09
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Nevada",
     "Year": 2009,
     "Births": 37612,
@@ -3810,7 +3810,7 @@
     "Fertility Rate": 68.4
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Nevada",
     "Year": 2010,
     "Births": 35934,
@@ -3820,7 +3820,7 @@
     "Fertility Rate": 65.34
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Nevada",
     "Year": 2011,
     "Births": 35296,
@@ -3830,7 +3830,7 @@
     "Fertility Rate": 64.25
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Nevada",
     "Year": 2012,
     "Births": 34911,
@@ -3840,7 +3840,7 @@
     "Fertility Rate": 62.98
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Nevada",
     "Year": 2013,
     "Births": 35030,
@@ -3850,7 +3850,7 @@
     "Fertility Rate": 62.84
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Nevada",
     "Year": 2014,
     "Births": 35861,
@@ -3860,7 +3860,7 @@
     "Fertility Rate": 63.33
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Nevada",
     "Year": 2015,
     "Births": 36298,
@@ -3870,7 +3870,7 @@
     "Fertility Rate": 63.26
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "New Mexico",
     "Year": 2007,
     "Births": 30616,
@@ -3880,7 +3880,7 @@
     "Fertility Rate": 77
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "New Mexico",
     "Year": 2008,
     "Births": 30173,
@@ -3890,7 +3890,7 @@
     "Fertility Rate": 76.08
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "New Mexico",
     "Year": 2009,
     "Births": 29000,
@@ -3900,7 +3900,7 @@
     "Fertility Rate": 73.01
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "New Mexico",
     "Year": 2010,
     "Births": 27850,
@@ -3910,7 +3910,7 @@
     "Fertility Rate": 69.87
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "New Mexico",
     "Year": 2011,
     "Births": 27289,
@@ -3920,7 +3920,7 @@
     "Fertility Rate": 68.22
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "New Mexico",
     "Year": 2012,
     "Births": 27068,
@@ -3930,7 +3930,7 @@
     "Fertility Rate": 67.81
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "New Mexico",
     "Year": 2013,
     "Births": 26354,
@@ -3940,7 +3940,7 @@
     "Fertility Rate": 66.08
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "New Mexico",
     "Year": 2014,
     "Births": 26052,
@@ -3950,7 +3950,7 @@
     "Fertility Rate": 65.53
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "New Mexico",
     "Year": 2015,
     "Births": 25816,
@@ -3960,7 +3960,7 @@
     "Fertility Rate": 65.28
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Utah",
     "Year": 2007,
     "Births": 55130,
@@ -3970,7 +3970,7 @@
     "Fertility Rate": 95.67
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Utah",
     "Year": 2008,
     "Births": 55634,
@@ -3980,7 +3980,7 @@
     "Fertility Rate": 94.8
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Utah",
     "Year": 2009,
     "Births": 53887,
@@ -3990,7 +3990,7 @@
     "Fertility Rate": 90.41
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Utah",
     "Year": 2010,
     "Births": 52258,
@@ -4000,7 +4000,7 @@
     "Fertility Rate": 86.79
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Utah",
     "Year": 2011,
     "Births": 51223,
@@ -4010,7 +4010,7 @@
     "Fertility Rate": 83.61
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Utah",
     "Year": 2012,
     "Births": 51465,
@@ -4020,7 +4020,7 @@
     "Fertility Rate": 83.09
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Utah",
     "Year": 2013,
     "Births": 50957,
@@ -4030,7 +4030,7 @@
     "Fertility Rate": 80.91
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Utah",
     "Year": 2014,
     "Births": 51154,
@@ -4040,7 +4040,7 @@
     "Fertility Rate": 80
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Utah",
     "Year": 2015,
     "Births": 50778,
@@ -4050,7 +4050,7 @@
     "Fertility Rate": 77.96
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Wyoming",
     "Year": 2007,
     "Births": 7893,
@@ -4060,7 +4060,7 @@
     "Fertility Rate": 76.49
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Wyoming",
     "Year": 2008,
     "Births": 8038,
@@ -4070,7 +4070,7 @@
     "Fertility Rate": 76.97
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Wyoming",
     "Year": 2009,
     "Births": 7881,
@@ -4080,7 +4080,7 @@
     "Fertility Rate": 74.07
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Wyoming",
     "Year": 2010,
     "Births": 7556,
@@ -4090,7 +4090,7 @@
     "Fertility Rate": 70.87
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Wyoming",
     "Year": 2011,
     "Births": 7399,
@@ -4100,7 +4100,7 @@
     "Fertility Rate": 69.09
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Wyoming",
     "Year": 2012,
     "Births": 7572,
@@ -4110,7 +4110,7 @@
     "Fertility Rate": 69.47
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Wyoming",
     "Year": 2013,
     "Births": 7644,
@@ -4120,7 +4120,7 @@
     "Fertility Rate": 69.34
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Wyoming",
     "Year": 2014,
     "Births": 7696,
@@ -4130,7 +4130,7 @@
     "Fertility Rate": 69.45
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Wyoming",
     "Year": 2015,
     "Births": 7765,
@@ -4140,7 +4140,7 @@
     "Fertility Rate": 70.16
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Alaska",
     "Year": 2007,
     "Births": 11052,
@@ -4150,7 +4150,7 @@
     "Fertility Rate": 78
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Alaska",
     "Year": 2008,
     "Births": 11442,
@@ -4160,7 +4160,7 @@
     "Fertility Rate": 81.29
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Alaska",
     "Year": 2009,
     "Births": 11324,
@@ -4170,7 +4170,7 @@
     "Fertility Rate": 79.46
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Alaska",
     "Year": 2010,
     "Births": 11471,
@@ -4180,7 +4180,7 @@
     "Fertility Rate": 80.09
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Alaska",
     "Year": 2011,
     "Births": 11456,
@@ -4190,7 +4190,7 @@
     "Fertility Rate": 78.53
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Alaska",
     "Year": 2012,
     "Births": 11187,
@@ -4200,7 +4200,7 @@
     "Fertility Rate": 75.94
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Alaska",
     "Year": 2013,
     "Births": 11446,
@@ -4210,7 +4210,7 @@
     "Fertility Rate": 77.81
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Alaska",
     "Year": 2014,
     "Births": 11392,
@@ -4220,7 +4220,7 @@
     "Fertility Rate": 77.34
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Alaska",
     "Year": 2015,
     "Births": 11282,
@@ -4230,7 +4230,7 @@
     "Fertility Rate": 77
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "California",
     "Year": 2007,
     "Births": 566414,
@@ -4240,7 +4240,7 @@
     "Fertility Rate": 72.58
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "California",
     "Year": 2008,
     "Births": 551779,
@@ -4250,7 +4250,7 @@
     "Fertility Rate": 70.48
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "California",
     "Year": 2009,
     "Births": 527020,
@@ -4260,7 +4260,7 @@
     "Fertility Rate": 67.12
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "California",
     "Year": 2010,
     "Births": 510198,
@@ -4270,7 +4270,7 @@
     "Fertility Rate": 64.77
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "California",
     "Year": 2011,
     "Births": 502120,
@@ -4280,7 +4280,7 @@
     "Fertility Rate": 63.42
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "California",
     "Year": 2012,
     "Births": 503755,
@@ -4290,7 +4290,7 @@
     "Fertility Rate": 63.29
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "California",
     "Year": 2013,
     "Births": 494705,
@@ -4300,7 +4300,7 @@
     "Fertility Rate": 61.97
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "California",
     "Year": 2014,
     "Births": 502879,
@@ -4310,7 +4310,7 @@
     "Fertility Rate": 62.38
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "California",
     "Year": 2015,
     "Births": 491748,
@@ -4320,7 +4320,7 @@
     "Fertility Rate": 60.83
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Hawaii",
     "Year": 2007,
     "Births": 19134,
@@ -4330,7 +4330,7 @@
     "Fertility Rate": 73.73
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Hawaii",
     "Year": 2008,
     "Births": 19484,
@@ -4340,7 +4340,7 @@
     "Fertility Rate": 74.78
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Hawaii",
     "Year": 2009,
     "Births": 18887,
@@ -4350,7 +4350,7 @@
     "Fertility Rate": 72.3
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Hawaii",
     "Year": 2010,
     "Births": 18988,
@@ -4360,7 +4360,7 @@
     "Fertility Rate": 72.44
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Hawaii",
     "Year": 2011,
     "Births": 18956,
@@ -4370,7 +4370,7 @@
     "Fertility Rate": 71.91
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Hawaii",
     "Year": 2012,
     "Births": 18980,
@@ -4380,7 +4380,7 @@
     "Fertility Rate": 71.61
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Hawaii",
     "Year": 2013,
     "Births": 18987,
@@ -4390,7 +4390,7 @@
     "Fertility Rate": 71.52
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Hawaii",
     "Year": 2014,
     "Births": 18550,
@@ -4400,7 +4400,7 @@
     "Fertility Rate": 69.29
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Hawaii",
     "Year": 2015,
     "Births": 18420,
@@ -4410,7 +4410,7 @@
     "Fertility Rate": 68.68
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Oregon",
     "Year": 2007,
     "Births": 49378,
@@ -4420,7 +4420,7 @@
     "Fertility Rate": 66.37
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Oregon",
     "Year": 2008,
     "Births": 49096,
@@ -4430,7 +4430,7 @@
     "Fertility Rate": 65.53
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Oregon",
     "Year": 2009,
     "Births": 47132,
@@ -4440,7 +4440,7 @@
     "Fertility Rate": 62.6
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Oregon",
     "Year": 2010,
     "Births": 45540,
@@ -4450,7 +4450,7 @@
     "Fertility Rate": 60.39
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Oregon",
     "Year": 2011,
     "Births": 45155,
@@ -4460,7 +4460,7 @@
     "Fertility Rate": 59.44
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Oregon",
     "Year": 2012,
     "Births": 45067,
@@ -4470,7 +4470,7 @@
     "Fertility Rate": 59
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Oregon",
     "Year": 2013,
     "Births": 45155,
@@ -4480,7 +4480,7 @@
     "Fertility Rate": 58.6
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Oregon",
     "Year": 2014,
     "Births": 45556,
@@ -4490,7 +4490,7 @@
     "Fertility Rate": 58.7
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Oregon",
     "Year": 2015,
     "Births": 45655,
@@ -4500,7 +4500,7 @@
     "Fertility Rate": 58.06
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Washington",
     "Year": 2007,
     "Births": 88978,
@@ -4510,7 +4510,7 @@
     "Fertility Rate": 66.7
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Washington",
     "Year": 2008,
     "Births": 90321,
@@ -4520,7 +4520,7 @@
     "Fertility Rate": 67.26
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Washington",
     "Year": 2009,
     "Births": 89313,
@@ -4530,7 +4530,7 @@
     "Fertility Rate": 66.05
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Washington",
     "Year": 2010,
     "Births": 86539,
@@ -4540,7 +4540,7 @@
     "Fertility Rate": 63.83
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Washington",
     "Year": 2011,
     "Births": 86976,
@@ -4550,7 +4550,7 @@
     "Fertility Rate": 63.65
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Washington",
     "Year": 2012,
     "Births": 87463,
@@ -4560,7 +4560,7 @@
     "Fertility Rate": 63.52
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Washington",
     "Year": 2013,
     "Births": 86577,
@@ -4570,7 +4570,7 @@
     "Fertility Rate": 62.57
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Washington",
     "Year": 2014,
     "Births": 88585,
@@ -4580,7 +4580,7 @@
     "Fertility Rate": 63.34
   },
   {
-    "Census Region Code": "CENS-R4",
+    "Census Region": "CENS-R4",
     "State": "Washington",
     "Year": 2015,
     "Births": 88990,
