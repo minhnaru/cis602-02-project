@@ -1,0 +1,9466 @@
+[
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 12
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 48
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 92
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 81
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 48
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 12
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 95
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 425
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 829
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 870
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 499
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 94
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 429
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 2164
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 1875
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 990
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 367
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 48
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 4162
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 14071
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 15661
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 11299
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 4336
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 771
+  },
+  {
+    "State": "Alabama",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 41
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 36
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 57
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 42
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 18
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 26
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 106
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 259
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 272
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 169
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 29
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 101
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 401
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 371
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 223
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 70
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 476
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 2012
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 2667
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 2254
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 929
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 178
+  },
+  {
+    "State": "Alaska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 12
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 49
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 100
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 104
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 75
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 168
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 870
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 1860
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 2064
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 1459
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 421
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 22
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 269
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 1354
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 1315
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 813
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 327
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 60
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 5464
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 18370
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 22043
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 17968
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 8228
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 1687
+  },
+  {
+    "State": "Arizona",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 100
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 68
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 89
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 75
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 42
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 88
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 320
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 488
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 481
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 316
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 75
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 488
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 1933
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 1695
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 828
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 303
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 49
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 3046
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 9093
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 9391
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 6563
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 2468
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 417
+  },
+  {
+    "State": "Arkansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 31
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 87
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 127
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 177
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 103
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 20
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 437
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 2673
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 6372
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 10341
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 7878
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 2497
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 241
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 425
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 2089
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 2456
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 1852
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 849
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 189
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "45-49",
+    "Births": 14
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 23073
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 82940
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 120147
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 132319
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 72718
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 17022
+  },
+  {
+    "State": "California",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 1379
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 30
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 64
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 50
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 28
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 10
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 55
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 303
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 722
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 1036
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 708
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 177
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 10
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 287
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 1250
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 1310
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 807
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 326
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 44
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 2909
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 10999
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 16537
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 17909
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 8888
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 1740
+  },
+  {
+    "State": "Colorado",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 115
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 20
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 15
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 12
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 11
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 81
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 220
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 299
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 194
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 40
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 65
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 288
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 347
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 248
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 87
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 14
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 464
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 1907
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 2734
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 2639
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 1201
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 219
+  },
+  {
+    "State": "Delaware",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 14
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 27
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 75
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 113
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 107
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 30
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 12
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 63
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 57
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 64
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 27
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 472
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 1561
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 1782
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 2712
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 1827
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 409
+  },
+  {
+    "State": "District of Columbia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 40
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 13
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 110
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 170
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 196
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 90
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 28
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 232
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 1363
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 2735
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 3360
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 2232
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 717
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 59
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 709
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 3500
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 4177
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 2613
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 1102
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 201
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 10932
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 42794
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 58925
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 53835
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 26215
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 5998
+  },
+  {
+    "State": "Florida",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 435
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 57
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 111
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 86
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 51
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 12
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 133
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 769
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 1524
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 1783
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 1231
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 369
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 30
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 551
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 2510
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 2203
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 1192
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 522
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 95
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 7998
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 28028
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 33720
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 29381
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 13989
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 3004
+  },
+  {
+    "State": "Georgia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 199
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 19
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 17
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 21
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 24
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 146
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 281
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 450
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 369
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 116
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 10
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 38
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 162
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 192
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 135
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 59
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 11
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 627
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 2532
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 3376
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 3422
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 2002
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 464
+  },
+  {
+    "State": "Hawaii",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 43
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 31
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 44
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 51
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 20
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 18
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 174
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 329
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 363
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 243
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 72
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 181
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 767
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 628
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 296
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 126
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 18
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 1081
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 4730
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 6303
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 4860
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 1974
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 365
+  },
+  {
+    "State": "Idaho",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 21
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 17
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 120
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 228
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 198
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 120
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 31
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 186
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 1052
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 2510
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 3826
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 2628
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 757
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 49
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 682
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 2980
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 3192
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 1922
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 718
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 125
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 7832
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 25936
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 37220
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 41331
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 19547
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 3756
+  },
+  {
+    "State": "Illinois",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 296
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 22
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 155
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 263
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 192
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 99
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 25
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 127
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 676
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 1298
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 1474
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 836
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 199
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 18
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 906
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 4183
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 3519
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 1864
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 651
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 126
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 4757
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 16371
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 21489
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 16878
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 6535
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 1188
+  },
+  {
+    "State": "Indiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 87
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 18
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 91
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 138
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 110
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 69
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 20
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 55
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 338
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 796
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 922
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 544
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 117
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 16
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 380
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 1857
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 1536
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 856
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 291
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 37
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 1488
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 6098
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 10819
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 8969
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 3358
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 481
+  },
+  {
+    "State": "Iowa",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 34
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 15
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 75
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 83
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 75
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 35
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 76
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 278
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 569
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 699
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 403
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 90
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 15
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 314
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 1469
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 1297
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 647
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 239
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 40
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 2068
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 7425
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 10388
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 8822
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 3328
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 585
+  },
+  {
+    "State": "Kansas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 24
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 28
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 139
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 207
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 157
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 100
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 22
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 121
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 466
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 822
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 780
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 519
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 136
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 867
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 3840
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 3268
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 1591
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 561
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 71
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 3458
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 11233
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 12876
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 9749
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 3893
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 688
+  },
+  {
+    "State": "Kentucky",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 35
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 12
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 43
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 73
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 59
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 49
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 12
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 95
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 577
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 1017
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 1147
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 649
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 171
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 269
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 1383
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 1383
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 797
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 291
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 42
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 4602
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 15847
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 17040
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 12415
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 4614
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 797
+  },
+  {
+    "State": "Louisiana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 46
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 18
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 51
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 32
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 21
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 10
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 80
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 208
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 245
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 120
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 43
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 163
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 580
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 584
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 354
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 117
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 26
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 426
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 1954
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 3100
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 2905
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 1288
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 205
+  },
+  {
+    "State": "Maine",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 19
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 10
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 56
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 82
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 103
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 56
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 66
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 410
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 1144
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 1790
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 1361
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 431
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 33
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 228
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 1297
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 1563
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 951
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 330
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 69
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 2883
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 10551
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 17354
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 19838
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 10095
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 2153
+  },
+  {
+    "State": "Maryland",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 184
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 41
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 75
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 83
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 63
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 12
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 34
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 288
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 871
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 1771
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 1222
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 384
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 29
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 163
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 1003
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 1269
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 877
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 377
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 79
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 1940
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 7750
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 15359
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 22658
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 12252
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 2457
+  },
+  {
+    "State": "Massachusetts",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 201
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 27
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 166
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 227
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 229
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 121
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 19
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 92
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 672
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 1530
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 1933
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 1246
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 317
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 29
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 948
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 4441
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 4176
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 2397
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 896
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 148
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 5210
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 20131
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 28793
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 25489
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 10479
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 1969
+  },
+  {
+    "State": "Michigan",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 144
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 10
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 71
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 149
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 159
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 73
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 15
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 65
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 376
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 1124
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 1747
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 972
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 247
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 27
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 375
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 1813
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 2026
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 1291
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 435
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 64
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 1884
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 8430
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 18034
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 20105
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 8169
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 1360
+  },
+  {
+    "State": "Minnesota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 122
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 38
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 58
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 40
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 35
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 64
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 290
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 428
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 445
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 229
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 57
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 274
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 1344
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 1192
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 628
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 248
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 42
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 3191
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 10401
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 9976
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 6387
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 2494
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 400
+  },
+  {
+    "State": "Mississippi",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 22
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 24
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 144
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 215
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 197
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 100
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 30
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 117
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 574
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 1060
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 1338
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 746
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 153
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 871
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 3977
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 3495
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 1971
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 686
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 97
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 3782
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 13617
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 18372
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 15683
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 6055
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 993
+  },
+  {
+    "State": "Missouri",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 63
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 19
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 31
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 26
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 19
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 11
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 76
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 157
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 195
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 124
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 26
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 194
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 631
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 578
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 329
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 130
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 26
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 554
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 2129
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 3128
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 2806
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 1093
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 202
+  },
+  {
+    "State": "Montana",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 13
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 25
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 64
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 60
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 43
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 35
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 215
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 403
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 524
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 285
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 85
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 162
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 870
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 783
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 473
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 175
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 21
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 1183
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 4214
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 7393
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 6518
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 2577
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 453
+  },
+  {
+    "State": "Nebraska",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 22
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 16
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 27
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 24
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 18
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 60
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 248
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 584
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 794
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 552
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 161
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 12
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 115
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 498
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 513
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 307
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 178
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 23
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 2173
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 7604
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 9231
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 7999
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 3893
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 840
+  },
+  {
+    "State": "Nevada",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 66
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 14
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 26
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 14
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 18
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 47
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 141
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 258
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 164
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 50
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 102
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 441
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 490
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 276
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 94
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 18
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 347
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 1423
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 2955
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 3345
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 1483
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 279
+  },
+  {
+    "State": "New Hampshire",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 13
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 12
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 21
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 34
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 14
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 39
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 236
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 428
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 479
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 326
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 71
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 120
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 537
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 492
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 296
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 146
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 14
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 2140
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 6279
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 6589
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 4776
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 2025
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 401
+  },
+  {
+    "State": "New Mexico",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 22
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 14
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 158
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 225
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 254
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 153
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 47
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 207
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 1439
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 3800
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 5691
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 4275
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 1416
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 116
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 702
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 3266
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 3519
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 2234
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 964
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 191
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 8002
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 34998
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 54934
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 62810
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 35537
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 8279
+  },
+  {
+    "State": "New York",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 708
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 25
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 167
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 214
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 187
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 128
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 21
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 165
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 975
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 1752
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 2107
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 1370
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 393
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 22
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 673
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 3465
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 3639
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 1925
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 718
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 127
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 6775
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 24096
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 29795
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 26974
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 12379
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 2383
+  },
+  {
+    "State": "North Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 167
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 14
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 27
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 26
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 20
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 13
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 75
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 194
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 214
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 105
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 25
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 120
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 524
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 477
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 291
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 93
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 15
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 384
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 1903
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 3307
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 2486
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 830
+  },
+  {
+    "State": "North Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 124
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 51
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 346
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 489
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 418
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 208
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 41
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 207
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 1277
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 2591
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 3225
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 1840
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 439
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 38
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 1551
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 7025
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 6378
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 3222
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 1198
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 204
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 6907
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 24179
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 33040
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 29758
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 11868
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 2027
+  },
+  {
+    "State": "Ohio",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 142
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 13
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 70
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 82
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 94
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 38
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 10
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 88
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 414
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 660
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 730
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 465
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 108
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 579
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 2291
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 1915
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 953
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 348
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 67
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 3706
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 12015
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 13849
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 10138
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 3680
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 659
+  },
+  {
+    "State": "Oklahoma",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 44
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 62
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 105
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 91
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 51
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 14
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 71
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 383
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 863
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 1235
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 860
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 248
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 20
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 333
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 1441
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 1334
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 767
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 260
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 49
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 1862
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 6965
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 10932
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 10970
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 5449
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 1022
+  },
+  {
+    "State": "Oregon",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 74
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 35
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 184
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 274
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 260
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 166
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 34
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 135
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 834
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 1901
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 2679
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 1522
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 410
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 30
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 1125
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 5191
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 5313
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 3249
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 1233
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 218
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 5755
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 21233
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 33363
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 34734
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 15442
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 2783
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 213
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 20
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 23
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 15
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 13
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 65
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 181
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 268
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 187
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 53
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 42
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 191
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 219
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 199
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 68
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 10
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 443
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 1615
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 2440
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 2886
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 1396
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 264
+  },
+  {
+    "State": "Rhode Island",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 16
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 17
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 74
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 112
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 85
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 65
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 12
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 111
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 588
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 1084
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 1218
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 768
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 179
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 18
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 443
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 1851
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 1659
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 960
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 332
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 77
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 3445
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 12272
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 14674
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 11891
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 5089
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 931
+  },
+  {
+    "State": "South Carolina",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 60
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 28
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 46
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 43
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 26
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 21
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 114
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 296
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 292
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 159
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 27
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 142
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 536
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 467
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 283
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 100
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 23
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 542
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 2049
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 3352
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 2693
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 837
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 147
+  },
+  {
+    "State": "South Dakota",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 11
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 39
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 188
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 223
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 208
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 115
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 24
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 156
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 760
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 1320
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 1430
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 854
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 246
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 13
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 866
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 4028
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 3421
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 1740
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 623
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 93
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 5123
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 16661
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 19580
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 15540
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 6356
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 1197
+  },
+  {
+    "State": "Tennessee",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 69
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 21
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 131
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 212
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 177
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 117
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 21
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 578
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 2915
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 5348
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 6756
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 4516
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 1286
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 95
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 1042
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 4799
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 4428
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 2513
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 900
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 155
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 31042
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 89921
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 105565
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 90879
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 40608
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 8466
+  },
+  {
+    "State": "Texas",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 509
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 27
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 28
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 23
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 24
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 43
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 375
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 867
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 1056
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 682
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 168
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 11
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 109
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 565
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 527
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 313
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 122
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 15
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 1849
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 9609
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 15941
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 12259
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 5113
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 809
+  },
+  {
+    "State": "Utah",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 47
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 11
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 19
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 18
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 10
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 31
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 40
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 80
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 52
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 56
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 295
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 321
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 159
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 66
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 176
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 722
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 1302
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 1517
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 792
+  },
+  {
+    "State": "Vermont",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 120
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 13
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 71
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 119
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 106
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 52
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 84
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 537
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 1319
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 1899
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 1302
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 354
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 43
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 342
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 1930
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 1910
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 1152
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 400
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 58
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 3551
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 14859
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 22478
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 23955
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 11905
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 2470
+  },
+  {
+    "State": "Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 167
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 14
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 108
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 162
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 172
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 98
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 17
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 90
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 708
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 1760
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 2569
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 1764
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 486
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 40
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 409
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 1805
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 1851
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 1191
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 447
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 88
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 3210
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 13435
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 21983
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 22678
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 10715
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 2120
+  },
+  {
+    "State": "Washington",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 155
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 15
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 69
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 95
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 95
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 53
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 12
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 40
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 246
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 353
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 345
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 207
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 40
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 434
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 1720
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 1375
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 706
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 260
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 38
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 1192
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 3791
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 4097
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 2825
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 1145
+  },
+  {
+    "State": "West Virginia",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 228
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 111
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 173
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 179
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 91
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 19
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 69
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 411
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 1158
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 1554
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 950
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 212
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 21
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 426
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 2224
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 2506
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 1553
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 578
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 93
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 2510
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 9992
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 17170
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 16797
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 6546
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 1101
+  },
+  {
+    "State": "Wisconsin",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "45-49",
+    "Births": 65
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 12
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 12
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 45
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 73
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 96
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 51
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Diabetes": "Yes",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 11
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "15-19",
+    "Births": 117
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "20-24",
+    "Births": 439
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "25-29",
+    "Births": 317
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "30-34",
+    "Births": 174
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "35-39",
+    "Births": 46
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "Yes",
+    "Age of Mother": "40-44",
+    "Births": 12
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "15-19",
+    "Births": 361
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "20-24",
+    "Births": 1486
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "25-29",
+    "Births": 1981
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "30-34",
+    "Births": 1553
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "35-39",
+    "Births": 613
+  },
+  {
+    "State": "Wyoming",
+    "Year": 2015,
+    "Diabetes": "No",
+    "Tobacco Use": "No",
+    "Age of Mother": "40-44",
+    "Births": 98
+  }
+]
