@@ -1,0 +1,54 @@
+LocationDesc,Data_Value,Low_Confidence_Limit,High_Confidence_Limit,Sample_Size
+Alabama,21.4,20,22.8,7653
+Alaska,19.1,17,21.2,3551
+Arizona,14,12.8,15.2,7598
+Arkansas,24.9,22.6,27.2,5042
+California,11.7,11,12.4,11368
+Colorado,15.6,14.5,16.7,12355
+Connecticut,13.5,12.5,14.5,11293
+Delaware,17.4,15.6,19.2,3931
+District of Columbia,16,13.6,18.4,3782
+Florida,15.8,14.7,16.9,9253
+Georgia,17.7,16.1,19.3,4362
+Guam,27.4,23.9,30.9,1605
+Hawaii,14.1,12.8,15.4,6892
+Idaho,13.8,12.5,15.1,5617
+Illinois,15.1,13.8,16.4,5137
+Indiana,20.6,18.9,22.3,5846
+Iowa,18.1,16.7,19.5,6021
+Kansas,17.7,17,18.4,22055
+Kentucky,25.9,24.2,27.6,8536
+Louisiana,21.9,20.2,23.6,4483
+Maine,19.5,18.1,20.9,8826
+Maryland,15.1,13.6,16.6,12019
+Massachusetts,14,13,15,8741
+Michigan,20.7,19.5,21.9,8652
+Minnesota,16.2,15.4,17,16327
+Mississippi,22.5,20.8,24.2,5855
+Missouri,22.3,20.8,23.8,7131
+Montana,18.9,17.3,20.5,5898
+Nebraska,17.1,16.2,18,17079
+Nevada,17.5,15.2,19.8,2851
+New Hampshire,15.9,14.6,17.2,6766
+New Jersey,13.5,12.5,14.5,10959
+New Mexico,17.5,16,19,6447
+New York,15.2,14.3,16.1,11683
+North Carolina,19,17.8,20.2,6499
+North Dakota,18.7,17.1,20.3,4823
+Ohio,21.6,20.2,23,11522
+Oklahoma,22.2,20.6,23.8,6753
+Oregon,17.1,15.7,18.5,5119
+Pennsylvania,18.1,16.7,19.5,5531
+Puerto Rico,10.7,9.6,11.8,5331
+Rhode Island,15.5,14,17,5919
+South Carolina,19.7,18.6,20.8,11226
+South Dakota,20.1,18.3,21.9,7078
+Tennessee,21.9,20.2,23.6,5709
+Texas,15.2,14.1,16.3,13916
+Utah,9.1,8.4,9.8,11030
+Vermont,16,14.8,17.2,6289
+Virginia,16.5,15.4,17.6,8371
+Washington,15,14.1,15.9,15561
+West Virginia,25.7,24.3,27.1,5833
+Wisconsin,17.3,15.9,18.7,5962
+Wyoming,19.1,17.3,20.9,5281
