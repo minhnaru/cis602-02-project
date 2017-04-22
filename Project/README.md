@@ -33,13 +33,13 @@ You will present your final visualization during the exam period on May 9 from 3
 # Report
 You have until 11:59pm on May 9 to submit your final report and code. Thus, you may submit everything at the same time as the presentation, but if you wish to fix anything after the presentation, you may do so. Your submission should contain:
 
-## Code:
+### Code:
 
 - All the code you developed for the project.
 - Include data if it is not linked directly in your visualization, or include a README with instructions on how to obtain it if it is too large (>5MB) to include.
 - Report (3-4 pages of text, more if screenshots are included):
 
-## Describe the dataset.
+### Describe the dataset.
 - Describe the questions your visualization is designed to answer.
 - Describe the visualization you created and how its design evolved. What marks and channels are used? What techniques do you build on?
 - Describe how the visualization can be used to answer the questions.
