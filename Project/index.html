@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    	<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    	<link rel="shortcut icon" href="logos/donut.ico" />
+    	<link rel="stylesheet" type="text/css" href="css/styles.css">
+    	<link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
+		<title>Project Designs</title>
+	</head>
+
+	<body>
+		<div id="map"></div>
+		<div id="dashboard">
+			<div id="dashboard-title-container">
+				<div id="dashboard-title">EXPLORE NATALITY DATA <br> IN THE UNITED STATES</div>
+			</div>
+			<div id="selector-container">
+				<div id="selector-menu">
+					<form>
+						<div style="display:inline-block;">
+							<label for="layer-selector">Select a Visualization</label>
+							<select id="layer-selector" class="selector">
+								<option value="Population">Population Density</option>
+								<option value="option 2">The option 2 and opt</option>
+								<option value="option 3">These are option 3</option>
+								<option value="option 4">We have option 4</option>
+							</select>
+						</div>
+						<div style="display:inline-block;">
+							<label for="zoom-selector">Select a Year</label>
+							<select id="zoom-selector" class="selector">
+								<option value="reset">Reset</option>
+								<option value="2007">2007</option>
+								<option value="2008">2008</option>
+								<option value="2009">2009</option>
+								<option value="2010">2010</option>
+								<option value="2011">2011</option>
+								<option value="2012">2012</option>
+								<option value="2013">2013</option>
+								<option value="2014">2014</option>
+								<option value="2015">2015</option>
+							</select>
+						</div>
+					</form>
+				</div>
+			</div>
+			<!-- Start dashboard charts -->
+			<div id="d3-elements">
+				<img src="logos/img001.jpg" height="250" width=100%>
+				<img src="logos/img002.jpg" height="250" width=100%>
+			</div>
+		</div>
+		<div id="titlebar">
+			<h2 class="title">CENTERS FOR DISEASE CONTROL AND PREVENTION</h2>
+		</div>
+		<div id="about">
+			<p id="about-title">ABOUT</p>
+		</div>
+		<div id="about-inset">
+			<p id="about-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquam tellus quam, at sollicitudin massa scelerisque fermentum. Sed ultrices velit et malesuada finibus. Quisque purus dui, ultricies in euismod eu, consectetur in purus. Donec imperdiet, arcu ut sollicitudin pharetra, nulla neque hendrerit magna, eget ultricies massa libero eget orci. Duis at venenatis sapien. Sed pulvinar aliquet feugiat. Nulla vel sem elit. Nulla sagittis libero quis eros mattis, eu volutpat tortor ullamcorper. Aliquam vel diam non eros egestas faucibus nec sagittis nisl. Vestibulum non fermentum velit. Integer et sollicitudin eros. Vivamus mi enim, congue eget rutrum at, suscipit sit amet leo. Etiam nec ipsum at enim semper rhoncus ac vel purus. Integer porttitor orci sed lectus ultricies porta. Aenean a pharetra urna.</p>
+		</div>
+		<div id="photo">
+			<a href = "https://www.cdc.gov" target="_blank">
+            	<img class="logo" src="logos/masthead.png"/>
+        	</a>
+		</div>
+
+		<script src="https://cartodb-libs.global.ssl.fastly.net/cartodb.js/v3/3.15/cartodb.js"></script>
+	  	<script src="https://d3js.org/d3.v4.min.js"></script>
+	  	<script src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js"></script>
+	  	<script src="javascripts/leaflet.js" type="text/javascript"></script>
+		<script src="javascripts/main.js" type="text/javascript"></script>
+		<script src="javascripts/uss.js" type="text/javascript"></script>
+	</body>
+</html>
