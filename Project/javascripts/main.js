@@ -166,7 +166,6 @@ function createVis(errors, dataNatality, elementID)
 }
 
 d3.queue()
-    // .defer(d3.json, "https://raw.githubusercontent.com/minhnaru/cis602-02-project/master/data/natality.json")
     .defer(d3.json, "https://raw.githubusercontent.com/minhnaru/cis602-02-project/master/data/natality.json")
     .await(createVis);
 
