@@ -14,6 +14,19 @@ html, body {
     left: 25%;
     padding: 0;
     margin: 0;
+    position:absolute;
+}
+
+.map-legend .swatch {
+    width:20px;
+    height:20px;
+    float:left;
+    margin-right:10px;
+}
+
+.map-legend ul {
+    list-style: none;
+    padding-left: 0;
 }
 
 #titlebar {

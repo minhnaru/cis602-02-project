@@ -16,26 +16,19 @@ function about() {
 
 function generateMap(dataNatality, elementID) {
 
-    var locationOptions = {
-        center: [38, -96],
-        zoom: 4.2,
-        minZoom: 3,
-    };
+    // // display a map
+    // mapboxgl.accessToken = 'pk.eyJ1IjoibmFydW1pbmgiLCJhIjoiY2oxY3dvanlrMDAwdTJ3bzE5bnl4Mmk1ZyJ9.694Vl0Mc9dqbPrkL0svBhQ';
+    // var worldmap = new mapboxgl.Map({
+    //     container: 'map', // container id
+    //     style: 'mapbox://styles/mapbox/dark-v9', //hosted style id
+    //     center: [-97, 38], // starting position
+    //     zoom: 3.2 // starting zoom
+    // });
 
-    // Initial background map on #map div element
-    var map = new L.map(elementID, locationOptions);
-
-    var worldmap = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/{id}/tiles/256/{z}/{x}/{y}?access_token={token}', {
-        id: 'dark-v9',
-        token: 'pk.eyJ1IjoibmFydW1pbmgiLCJhIjoiY2oxY3dvanlrMDAwdTJ3bzE5bnl4Mmk1ZyJ9.694Vl0Mc9dqbPrkL0svBhQ'
-    });
-    worldmap.addTo(map);
-    map.addLayer(worldmap);
-
-    // var myLayer_1 = L.geoJSON().addTo(map);
-    // myLayer_1.addData(dataNatality);
-
-    // // Original GEOJSON style
+    // display a map
+    L.mapbox.accessToken = 'pk.eyJ1IjoibmFydW1pbmgiLCJhIjoiY2oxY3dvanlrMDAwdTJ3bzE5bnl4Mmk1ZyJ9.694Vl0Mc9dqbPrkL0svBhQ';
+    var map = L.mapbox.map('map', 'mapbox.dark')
+        .setView([40, -96], 4);
 
     // calculate total birth
     var totalBirth = _(dataNatality)
@@ -44,8 +37,6 @@ function generateMap(dataNatality, elementID) {
             State: k,
             Births: _.sumBy(v, 'Births')
         })).value();
-
-    // var maxBirth = _.maxBy(totalBirth, 'Births');
 
     // combine total birth data
     _.each(ussData.features, function(d) {
@@ -78,7 +69,20 @@ function generateMap(dataNatality, elementID) {
         });
     });
 
-    console.log(ussData);
+    var statesLayer = L.geoJson(ussData, {
+        style: getStyle,
+        onEachFeature: onEachFeature
+    }).addTo(map);
+
+    function getStyle(d) {
+        return {
+            weight: 1,
+            opacity: 0.7,
+            color: 'white',
+            fillOpacity: 0.7,
+            fillColor: getColor(d.properties.total_birth)
+        };
+    }
 
     function getColor(d) {
         return d > 4000000 ? '#800026' :
@@ -91,68 +95,133 @@ function generateMap(dataNatality, elementID) {
                              '#FFEDA0';
     }
 
-    // original GEOJSON style
-    function myStyle(d) {
-        return {
-            fillColor: getColor(d.properties.total_birth),
-            weight: 1,
-            opacity: 0.65,
-            color: 'white',
-            fillOpacity: 0.7
-        };
-    }
-
-    // Function Highlight feature on mouseover
-    function highlightFeature(e) {
-        var layer = e.target;
-
-        layer.setStyle({
-            weight: 4,
-            color: '#666',
-            opacity: 1,
-            fillColor: '#4286f4',
-            fillOpacity: 0.7
-        });
-
-        if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-            layer.bringToFront();
-        }
-    }
-
-    var featureLayer;
-
-    // Function on mouseout - reset layer style to its default
-    function resetHighlight(e) {
-        featureLayer.resetStyle(e.target);
-    }
-
-    // Click and zoom to state
-    function zoomToFeature(e) {
-        map.fitBounds(e.target.getBounds());
-    }
-
-    // Add the listeners on state layers
     function onEachFeature(feature, layer) {
         layer.on({
-            mouseover: highlightFeature,
-            mouseout: resetHighlight,
+            mousemove: mousemove,
+            mouseout: mouseout,
             click: zoomToFeature
         });
     }
 
-    function onEachFeature(feature, layer) {
-        layer.on('mouseover', function(e) {
-            highlightFeature(layer);
+    var closeTooltip;
+
+    function mousemove(e) {
+        var layer = e.target;
+
+        // popup.setLatLng(e.latlng);
+        // popup.setContent('<div class="marker-title">' + layer.feature.properties.name + '</div>' +
+        // layer.feature.properties.total_birth + ' people per square mile');
+
+        // if (!popup._map) popup.openOn(map);
+        // window.clearTimeout(closeTooltip);
+
+        // highlight feature
+        layer.setStyle({
+            weight: 3,
+            opacity: 0.3,
+            fillOpacity: 0.9
         });
-        layer.on('mouseout', function(e) {
-            resetHighlight(layer);
-        });
+
+        if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+        layer.bringToFront();
+        }
     }
 
-    featureLayer = L.geoJson(ussData, {
-        style: myStyle,
-        onEachFeature: onEachFeature
-    }).addTo(map);
+    function mouseout(e) {
+        statesLayer.resetStyle(e.target);
+        // closeTooltip = window.setTimeout(function() {
+        //     map.closePopup();
+        // }, 100);
+    }
+
+    function zoomToFeature(e) {
+        map.fitBounds(e.target.getBounds());
+    }
+
+    map.legendControl.addLegend(getLegendHTML());
+
+    function getLegendHTML() {
+        var grades = [0, 100, 200, 300, 500, 1000, 2500, 4000],
+        labels = [],
+        from, to;
+
+        for (var i = 0; i < grades.length; i++) {
+            from = grades[i];
+            to = grades[i + 1];
+
+            labels.push(
+            '<li><span class="swatch" style="background:' + getColor((from*1000) + 1) + '"></span> ' +
+            from + "k" + (to ? '&ndash;' + to + "k" : '+')) + '</li>';
+        }
+
+        return '<span>Population Density</span><ul>' + labels.join('') + '</ul>';
+    }
+
+
+//-----------------------------------------------------------------
+    // map.attributionControl.addAttribution('Data from ' + '<a href="http://censusreporter.org/data/map/?table=B06011&geo_ids=040%7C01000US#">' + 'Census Reporter</a>');
+
+
+    // var locationOptions = {
+    //     center: [38, -96],
+    //     zoom: 4.2,
+    //     minZoom: 3,
+    // };
+
+    // // Initial background map on #map div element
+    // var mymap = new L.map(elementID, locationOptions);
+
+    // L.tileLayer('https://a.tiles.mapbox.com/v4/mapbox.dark/{z}/{x}/{y}.png?access_token={token}', {
+    //     attribution: 'Mapbox',
+    //     subdomains: ['a','b','c','d'],
+    //     token: 'pk.eyJ1IjoicHppZWdsZXIiLCJhIjoiY2ltMHo3OGRxMDh0MXR5a3JrdHNqaGQ0bSJ9.KAFBMeyysBLz4Ty-ltXVQQ'
+    // }).addTo(mymap);
+
+    // L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+    //     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+    //     maxZoom: 18,
+    //     id: 'your.mapbox.project.id',
+    //     accessToken: 'your.mapbox.public.access.token'
+    // }).addTo(mymap);
+
+    // // calculate total birth
+    // var totalBirth = _(dataNatality)
+    //     .groupBy('State')
+    //     .map((v, k) => ({
+    //         State: k,
+    //         Births: _.sumBy(v, 'Births')
+    //     })).value();
+
+    // // combine total birth data
+    // _.each(ussData.features, function(d) {
+    //     d.properties.total_birth = {};
+    //     var state = d.properties.name;
+    //     _.each(totalBirth, function(n) {
+    //         if (n.State == state) {
+    //             d.properties.total_birth = n["Births"];
+    //         }
+    //     });
+    // });
+
+    // // combine natality data
+    // _.each(ussData.features, function(d) {
+    //     d.properties.natalities = [];
+    //     var state = d.properties.name;
+    //     _.each(dataNatality, function(n) {
+    //         if (n.State == state) {
+    //             var tmp = {
+    //                 "Census Region": n["Census Region"],
+    //                 "Year": n["Year"],
+    //                 "Births": n["Births"],
+    //                 "Total Population": n["Total Population"],
+    //                 "Birth Rate": n["Birth Rate"],
+    //                 "Female Population": n["Female Population"],
+    //                 "Fertility Rate": n["Fertility Rate"]
+    //             };
+    //             d.properties.natalities.push(tmp);
+    //         }
+    //     });
+    // });
 
 }
 
