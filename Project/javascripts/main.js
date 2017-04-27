@@ -16,15 +16,6 @@ function about() {
 
 function generateMap(dataNatality, elementID) {
 
-    // // display a map
-    // mapboxgl.accessToken = 'pk.eyJ1IjoibmFydW1pbmgiLCJhIjoiY2oxY3dvanlrMDAwdTJ3bzE5bnl4Mmk1ZyJ9.694Vl0Mc9dqbPrkL0svBhQ';
-    // var worldmap = new mapboxgl.Map({
-    //     container: 'map', // container id
-    //     style: 'mapbox://styles/mapbox/dark-v9', //hosted style id
-    //     center: [-97, 38], // starting position
-    //     zoom: 3.2 // starting zoom
-    // });
-
     // display a map
     L.mapbox.accessToken = 'pk.eyJ1IjoibmFydW1pbmgiLCJhIjoiY2oxY3dvanlrMDAwdTJ3bzE5bnl4Mmk1ZyJ9.694Vl0Mc9dqbPrkL0svBhQ';
     var map = L.mapbox.map('map', 'mapbox.dark')
@@ -32,19 +23,33 @@ function generateMap(dataNatality, elementID) {
 
     // calculate total birth
     var totalBirth = _(dataNatality)
-        .groupBy('State')
+        .groupBy("State")
         .map((v, k) => ({
             State: k,
-            Births: _.sumBy(v, 'Births')
+            Births: _.sumBy(v, "Births")
         })).value();
 
-    // combine total birth data
+    // calculate total female population
+    var totalFemale = _(dataNatality)
+        .groupBy("State")
+        .map((v, k) => ({
+            State: k,
+            Female: _.sumBy(v, "Female Population")
+        })).value();
+
+    // combine total data
     _.each(ussData.features, function(d) {
         d.properties.total_birth = {};
+        d.properties.total_female = {};
         var state = d.properties.name;
         _.each(totalBirth, function(n) {
             if (n.State == state) {
                 d.properties.total_birth = n["Births"];
+            }
+        });
+        _.each(totalFemale, function(n) {
+            if (n.State == state) {
+                d.properties.total_female = n["Female"];
             }
         });
     });
@@ -69,51 +74,118 @@ function generateMap(dataNatality, elementID) {
         });
     });
 
-    var statesLayer = L.geoJson(ussData, {
-        style: getStyle,
-        onEachFeature: onEachFeature
-    }).addTo(map);
+    console.log(ussData);
 
-    function getStyle(d) {
+    var growthLayer = L.geoJson(ussData, {
+        style: getStyle_birth,
+        onEachFeature: onEachFeature_birth
+    });
+
+    var womenLayer = L.geoJson(ussData, {
+        style: getStyle_female,
+        onEachFeature: onEachFeature_female
+    });
+
+    // // init default map layer
+    map.addLayer(growthLayer);
+
+    // change map layer on change
+    $('#layer-selector').change(function(event) {
+        event.preventDefault();
+        if ($(this).val() == "pop_growth") {
+            map.setView([40, -96], 4);
+            map.addLayer(growthLayer);
+            map.removeLayer(womenLayer);
+            map.legendControl.addLegend(getLegendHTML_birth());
+            map.legendControl.removeLegend(getLegendHTML_female());
+        } else if ($(this).val() == "women_pop") {
+            map.setView([40, -96], 4);
+            map.addLayer(womenLayer);
+            map.removeLayer(growthLayer);
+            map.legendControl.removeLegend(getLegendHTML_birth());
+            map.legendControl.addLegend(getLegendHTML_female());
+        }
+    });
+
+    function getStyle_birth(d) {
         return {
             weight: 1,
             opacity: 0.7,
             color: 'white',
             fillOpacity: 0.7,
-            fillColor: getColor(d.properties.total_birth)
+            fillColor: getColor_birth(d.properties.total_birth)
         };
     }
 
-    function getColor(d) {
-        return d > 4000000 ? '#800026' :
-               d > 2500000 ? '#BD0026' :
-               d > 1000000 ? '#E31A1C' :
-               d > 500000  ? '#FC4E2A' :
-               d > 300000  ? '#FD8D3C' :
-               d > 200000  ? '#FEB24C' :
-               d > 100000  ? '#FED976' :
-                             '#FFEDA0';
+    function getStyle_female(d) {
+        return {
+            weight: 1,
+            opacity: 0.7,
+            color: 'white',
+            fillOpacity: 0.7,
+            fillColor: getColor_female(d.properties.total_female)
+        };
     }
 
-    function onEachFeature(feature, layer) {
+    function getColor_birth(d) {
+        return d >= 3600000 ? '#800026' :
+               d >= 1200000 ? '#BD0026' :
+               d >= 800000  ? '#E31A1C' :
+               d >= 500000  ? '#FC4E2A' :
+               d >= 400000  ? '#FD8D3C' :
+               d >= 200000  ? '#FEB24C' :
+               d >= 100000  ? '#FED976' :
+                              '#FFEDA0';
+    }
+
+    function getColor_female(d) {
+        return d >= 49000000 ? '#800026' :
+               d >= 19000000 ? '#BD0026' :
+               d >= 12000000 ? '#E31A1C' :
+               d >= 8000000  ? '#FC4E2A' :
+               d >= 5000000  ? '#FD8D3C' :
+               d >= 3000000  ? '#FEB24C' :
+               d >= 1000000  ? '#FED976' :
+                         '#FFEDA0';
+    }
+
+    var color = d3.scaleSequential(d3.interpolateYlOrRd);
+
+    function onEachFeature_birth(feature, layer) {
         layer.on({
-            mousemove: mousemove,
-            mouseout: mouseout,
+            mousemove: mousemove_birth,
+            mouseout: mouseout_birth,
+            click: zoomToFeature
+        });
+    }
+
+    function onEachFeature_female(feature, layer) {
+        layer.on({
+            mousemove: mousemove_female,
+            mouseout: mouseout_female,
             click: zoomToFeature
         });
     }
 
     var closeTooltip;
+    var popup_birth = new L.Popup({ autoPan: false });
+    var popup_female = new L.Popup({ autoPan: false });
 
-    function mousemove(e) {
+    function mousemove_birth(e) {
         var layer = e.target;
 
-        // popup.setLatLng(e.latlng);
-        // popup.setContent('<div class="marker-title">' + layer.feature.properties.name + '</div>' +
-        // layer.feature.properties.total_birth + ' people per square mile');
+        // decimal number format
+        var dec = layer.feature.properties.total_birth;
+        var value = dec.toLocaleString('en-US', {
+            minimumFractionDigits: 0
+        });
 
-        // if (!popup._map) popup.openOn(map);
-        // window.clearTimeout(closeTooltip);
+        popup_birth.setLatLng(e.latlng);
+        popup_birth.setContent('<div class="marker-title">' + layer.feature.properties.name + '</div>' +
+        'Births: ' + value);
+
+        if (!popup_birth._map) popup_birth.openOn(map);
+        window.clearTimeout(closeTooltip);
 
         // highlight feature
         layer.setStyle({
@@ -127,101 +199,118 @@ function generateMap(dataNatality, elementID) {
         }
     }
 
-    function mouseout(e) {
-        statesLayer.resetStyle(e.target);
-        // closeTooltip = window.setTimeout(function() {
-        //     map.closePopup();
-        // }, 100);
+    function mousemove_female(e) {
+        var layer = e.target;
+
+        // decimal number format
+        var dec = layer.feature.properties.total_female;
+        var value = dec.toLocaleString('en-US', {
+            minimumFractionDigits: 0
+        });
+
+        popup_female.setLatLng(e.latlng);
+        popup_female.setContent('<div class="marker-title">' + layer.feature.properties.name + '</div>' +
+        'Female: ' + value);
+
+        if (!popup_female._map) popup_female.openOn(map);
+        window.clearTimeout(closeTooltip);
+
+        // highlight feature
+        layer.setStyle({
+            weight: 3,
+            opacity: 0.3,
+            fillOpacity: 0.9
+        });
+
+        if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+        layer.bringToFront();
+        }
+    }
+
+    function mouseout_birth(e) {
+        growthLayer.resetStyle(e.target);
+        closeTooltip = window.setTimeout(function() {
+            map.closePopup();
+        }, 100);
+    }
+
+    function mouseout_female(e) {
+        womenLayer.resetStyle(e.target);
+        closeTooltip = window.setTimeout(function() {
+            map.closePopup();
+        }, 100);
     }
 
     function zoomToFeature(e) {
         map.fitBounds(e.target.getBounds());
     }
 
-    map.legendControl.addLegend(getLegendHTML());
+    // init population growth legend
+    map.legendControl.addLegend(getLegendHTML_birth());
 
-    function getLegendHTML() {
-        var grades = [0, 100, 200, 300, 500, 1000, 2500, 4000],
-        labels = [],
+    function getLegendHTML_birth() {
+        // calculate grade array for population growth legend
+        var grade = _.sortBy(ussData.features, function(d) { return d.properties.total_birth; });
+        var v = [];
+        grade.map(function(d,i) { 
+            if(i%6==1 && i !=7 && i != 31)
+                v.push(d.properties["total_birth"]);
+            if(i == 0)
+                v.push(0);
+        });
+        var grades = [];
+        v.map(function(d) { grades.push(Math.round( d / Math.pow(10,5))*100) }); // 5 is zeroCount
+
+        var labels1 = [],
+        labels2 = [],
         from, to;
 
         for (var i = 0; i < grades.length; i++) {
             from = grades[i];
             to = grades[i + 1];
 
-            labels.push(
-            '<li><span class="swatch" style="background:' + getColor((from*1000) + 1) + '"></span> ' +
-            from + "k" + (to ? '&ndash;' + to + "k" : '+')) + '</li>';
+            labels1.push(
+            '<span style="background:' + getColor_birth(from*1000) + '"></span>');
+            labels2.push(
+            '<label>' + from + "k" + (to ? '&ndash;' + to + "k" : '+') + '</label>');
         }
 
-        return '<span>Population Density</span><ul>' + labels.join('') + '</ul>';
+        return '<div id="legend"><strong>Population Growth</strong><nav class="legend clearfix">' + labels1.join('') + labels2.join('') + '</nav></div>';
     }
 
+    function getLegendHTML_female() {
+        // calculate grade array for female population legend
+        var grade = _.sortBy(ussData.features, function(d) { return d.properties.total_female; });
+        var v = [];
+        grade.map(function(d,i) { 
+            if(i%6==1 && i !=7 && i != 31)
+                v.push(d.properties["total_female"]);
+            if(i == 0)
+                v.push(0);
+        });
+        var grades = [];
+        v.map(function(d) { grades.push(Math.round( d / Math.pow(10,6))) }); // 6 is zeroCount
+        
+        var labels1 = [],
+        labels2 = [],
+        from, to;
 
-//-----------------------------------------------------------------
-    // map.attributionControl.addAttribution('Data from ' + '<a href="http://censusreporter.org/data/map/?table=B06011&geo_ids=040%7C01000US#">' + 'Census Reporter</a>');
+        for (var i = 0; i < grades.length; i++) {
+            from = grades[i];
+            to = grades[i + 1];
 
+            labels1.push(
+            '<span style="background:' + getColor_female(from*1000000) + '"></span>');
+            labels2.push(
+            '<label>' + from + "m" + (to ? ' &ndash; ' + to + "m" : '+') + '</label>');
+        }
 
-    // var locationOptions = {
-    //     center: [38, -96],
-    //     zoom: 4.2,
-    //     minZoom: 3,
-    // };
+        return '<div id="legend"><strong>Female Population</strong><nav class="legend clearfix">' + labels1.join('') + labels2.join('') + '</nav></div>';
+    }
 
-    // // Initial background map on #map div element
-    // var mymap = new L.map(elementID, locationOptions);
+}
 
-    // L.tileLayer('https://a.tiles.mapbox.com/v4/mapbox.dark/{z}/{x}/{y}.png?access_token={token}', {
-    //     attribution: 'Mapbox',
-    //     subdomains: ['a','b','c','d'],
-    //     token: 'pk.eyJ1IjoicHppZWdsZXIiLCJhIjoiY2ltMHo3OGRxMDh0MXR5a3JrdHNqaGQ0bSJ9.KAFBMeyysBLz4Ty-ltXVQQ'
-    // }).addTo(mymap);
-
-    // L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-    //     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-    //     maxZoom: 18,
-    //     id: 'your.mapbox.project.id',
-    //     accessToken: 'your.mapbox.public.access.token'
-    // }).addTo(mymap);
-
-    // // calculate total birth
-    // var totalBirth = _(dataNatality)
-    //     .groupBy('State')
-    //     .map((v, k) => ({
-    //         State: k,
-    //         Births: _.sumBy(v, 'Births')
-    //     })).value();
-
-    // // combine total birth data
-    // _.each(ussData.features, function(d) {
-    //     d.properties.total_birth = {};
-    //     var state = d.properties.name;
-    //     _.each(totalBirth, function(n) {
-    //         if (n.State == state) {
-    //             d.properties.total_birth = n["Births"];
-    //         }
-    //     });
-    // });
-
-    // // combine natality data
-    // _.each(ussData.features, function(d) {
-    //     d.properties.natalities = [];
-    //     var state = d.properties.name;
-    //     _.each(dataNatality, function(n) {
-    //         if (n.State == state) {
-    //             var tmp = {
-    //                 "Census Region": n["Census Region"],
-    //                 "Year": n["Year"],
-    //                 "Births": n["Births"],
-    //                 "Total Population": n["Total Population"],
-    //                 "Birth Rate": n["Birth Rate"],
-    //                 "Female Population": n["Female Population"],
-    //                 "Fertility Rate": n["Fertility Rate"]
-    //             };
-    //             d.properties.natalities.push(tmp);
-    //         }
-    //     });
-    // });
+function updateMap() {
 
 }
 
@@ -237,7 +326,3 @@ function createVis(errors, dataNatality, elementID)
 d3.queue()
     .defer(d3.json, "https://raw.githubusercontent.com/minhnaru/cis602-02-project/master/data/natality.json")
     .await(createVis);
-
-
-
-
