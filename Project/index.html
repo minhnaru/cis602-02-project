@@ -20,7 +20,7 @@
 			<div id="selector-container">
 				<div id="selector-menu">
 					<form>
-						<div style="display:inline-block;">
+						<div style="display:block;">
 							<label for="layer-selector">Select a Visualization</label>
 							<select id="layer-selector" class="selector">
 								<option value="pop_growth" selected="selected">Population Growth</option>
@@ -30,9 +30,9 @@
 							</select>
 						</div>
 						<div style="display:inline-block;">
-							<label for="zoom-selector">Select a Year</label>
-							<select id="zoom-selector" class="selector">
-								<option value="total">Total</option>
+							<label for="year-selector">Select a Year</label>
+							<select id="year-selector" class="selector">
+								<!-- <option value="total">All years</option> -->
 								<option value="2007">2007</option>
 								<option value="2008">2008</option>
 								<option value="2009">2009</option>
@@ -41,7 +41,7 @@
 								<option value="2012">2012</option>
 								<option value="2013">2013</option>
 								<option value="2014">2014</option>
-								<option value="2015">2015</option>
+								<option value="2015" selected="selected">2015</option>
 							</select>
 						</div>
 					</form>
@@ -49,8 +49,8 @@
 			</div>
 			<!-- Start dashboard charts -->
 			<div id="d3-elements">
-				<img src="logos/img001.jpg" height="250" width=100%>
-				<img src="logos/img002.jpg" height="250" width=100%>
+				<!-- <img src="logos/img001.jpg" height="250" width=100%> -->
+				<!-- <img src="logos/img002.jpg" height="250" width=100%> -->
 			</div>
 		</div>
 		<div id="titlebar">
