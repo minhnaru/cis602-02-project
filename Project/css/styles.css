@@ -248,11 +248,17 @@ div.leaflet-popup-tip {
 
 .xA text {
     font-size: 9px;
+    font-family: "HelveticaNeue-Light", Helvetica, sans-serif;
+    stroke: white;
+}
+
+.xA line {
     stroke: white;
 }
 
 .yA text {
     font-size: 9px;
+    font-family: "HelveticaNeue-Light", Helvetica, sans-serif;
     stroke: white;
 }
 
