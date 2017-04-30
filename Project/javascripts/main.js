@@ -36,7 +36,7 @@ function processData (dataNatality) {
         .groupBy("State")
         .map((v, k) => ({
             State: k,
-            BirthR: Math.round((_.sumBy(v, "Birth Rate") / 9) * 100) / 100
+            BirthR: Math.round((_.sumBy(v, "Birth Rate") / 3) * 100) / 100
         })).value();
 
     // combine total data
@@ -69,18 +69,33 @@ function processData (dataNatality) {
         _.each(dataNatality, function(n) {
             if (n.State == state) {
                 var tmp = {
-                    "Census Region": n["Census Region"],
                     "Year": n["Year"],
                     "Births": n["Births"],
                     "Total Population": n["Total Population"],
                     "Birth Rate": n["Birth Rate"],
                     "Female Population": n["Female Population"],
-                    "Fertility Rate": n["Fertility Rate"]
+                    "Fertility Rate": n["Fertility Rate"],
+                    "Median Income": n["Median Income"]
                 };
                 d.properties.natalities.push(tmp);
             }
         });
     });
+}
+
+function getGrades(totBirth, totalBirth, zeroCount, range) {
+    // calculate grade array for population growth legend
+    var grade = _.sortBy(ussData.features, function(d) { return d.properties[totBirth]; });
+    var v = [];
+    grade.map(function(d,i) { 
+        if(i%6==1 && i !=7 && i != 31)
+            v.push(d.properties[totalBirth]);
+        if(i == 0)
+            v.push(0);
+    });
+    var grades = [];
+    v.map(function(d) { grades.push(Math.round( d / Math.pow(10,zeroCount))*range) });
+    return grades;
 }
 
 // function to create Population Growth & Women Population choropleth map
@@ -144,24 +159,24 @@ function generateMap(dataNatality, elementID) {
     }
 
     function getColor_birth(d) {
-        return d >= 3600000 ? '#800026' :
-               d >= 1200000 ? '#BD0026' :
-               d >= 800000  ? '#E31A1C' :
-               d >= 500000  ? '#FC4E2A' :
-               d >= 400000  ? '#FD8D3C' :
-               d >= 200000  ? '#FEB24C' :
-               d >= 100000  ? '#FED976' :
+        return d >= 1190000 ? '#800026' :
+               d >= 390000  ? '#BD0026' :
+               d >= 260000  ? '#E31A1C' :
+               d >= 170000  ? '#FC4E2A' :
+               d >= 120000  ? '#FD8D3C' :
+               d >= 70000   ? '#FEB24C' :
+               d >= 20000   ? '#FED976' :
                               '#FFEDA0';
     }
 
     function getColor_female(d) {
-        return d >= 49000000 ? '#800026' :
-               d >= 19000000 ? '#BD0026' :
-               d >= 12000000 ? '#E31A1C' :
-               d >= 8000000  ? '#FC4E2A' :
-               d >= 5000000  ? '#FD8D3C' :
-               d >= 3000000  ? '#FEB24C' :
-               d >= 1000000  ? '#FED976' :
+        return d >= 16900000 ? '#800026' :
+               d >= 6300000  ? '#BD0026' :
+               d >= 4100000  ? '#E31A1C' :
+               d >= 2600000  ? '#FC4E2A' :
+               d >= 1800000  ? '#FD8D3C' :
+               d >= 1000000  ? '#FEB24C' :
+               d >= 300000   ? '#FED976' :
                                '#FFEDA0';
     }
 
@@ -265,17 +280,7 @@ function generateMap(dataNatality, elementID) {
     map.legendControl.addLegend(getLegendHTML_birth());
 
     function getLegendHTML_birth() {
-        // calculate grade array for population growth legend
-        var grade = _.sortBy(ussData.features, function(d) { return d.properties.total_birth; });
-        var v = [];
-        grade.map(function(d,i) { 
-            if(i%6==1 && i !=7 && i != 31)
-                v.push(d.properties["total_birth"]);
-            if(i == 0)
-                v.push(0);
-        });
-        var grades = [];
-        v.map(function(d) { grades.push(Math.round( d / Math.pow(10,5))*100) }); // 5 is zeroCount
+        var grades = getGrades("total_birth", "total_birth", 4, 10);
 
         var labels1 = [],
         labels2 = [],
@@ -286,26 +291,17 @@ function generateMap(dataNatality, elementID) {
             to = grades[i + 1];
 
             labels1.push(
+            // '<span style="background:' + getColor_birth(from*1000) + '"></span>');
             '<span style="background:' + getColor_birth(from*1000) + '"></span>');
             labels2.push(
             '<label>' + from + "k" + (to ? '&ndash;' + to + "k" : '+') + '</label>');
         }
 
-        return '<div id="legend"><strong>Population Growth</strong><nav class="legend clearfix">' + labels1.join('') + labels2.join('') + '</nav></div>';
+        return '<div id="legend"><strong>Population Growth (2013-2015)</strong><nav class="legend clearfix">' + labels1.join('') + labels2.join('') + '</nav></div>';
     }
 
     function getLegendHTML_female() {
-        // calculate grade array for female population legend
-        var grade = _.sortBy(ussData.features, function(d) { return d.properties.total_female; });
-        var v = [];
-        grade.map(function(d,i) { 
-            if(i%6==1 && i !=7 && i != 31)
-                v.push(d.properties["total_female"]);
-            if(i == 0)
-                v.push(0);
-        });
-        var grades = [];
-        v.map(function(d) { grades.push(Math.round( d / Math.pow(10,6))) }); // 6 is zeroCount
+        var grades = getGrades("total_female", "total_female", 5, 1);
         
         var labels1 = [],
         labels2 = [],
@@ -316,12 +312,12 @@ function generateMap(dataNatality, elementID) {
             to = grades[i + 1];
 
             labels1.push(
-            '<span style="background:' + getColor_female(from*1000000) + '"></span>');
+            '<span style="background:' + getColor_female(from*100000) + '"></span>');
             labels2.push(
-            '<label>' + from + "m" + (to ? ' &ndash; ' + to + "m" : '+') + '</label>');
+            '<label>' + (from/10) + "m" + ((to/10) ? '&ndash;' + (to/10) + "m" : '+') + '</label>');
         }
 
-        return '<div id="legend"><strong>Female Population</strong><nav class="legend clearfix">' + labels1.join('') + labels2.join('') + '</nav></div>';
+        return '<div id="legend"><strong>Female Population (2013-2015)</strong><nav class="legend clearfix">' + labels1.join('') + labels2.join('') + '</nav></div>';
     }
 
 }
@@ -329,7 +325,7 @@ function generateMap(dataNatality, elementID) {
 function generateScatter(divId) {
 
     console.log(ussData);
-    console.log(ussData.features[0].properties.natalities[0]["Birth Rate"]);
+    // console.log(ussData.eatures[0].properties.natalities[0]["Birth Rate"]);
 
 
 
@@ -345,13 +341,13 @@ function generateScatter(divId) {
 
     // var xScale = d3.scale.linear()
     //             .domain([0, d3.max(dataset, function(d){
-    //                 return d.properties.pop_density;
+    //                 return d.properties.total_female;
     //             })])
     //             .range([0, w]);
 
     // var yScale = d3.scale.linear()
     //             .domain([0, d3.max(dataset, function(d){
-    //                 return d.properties.crash_area;
+    //                 return d.properties.avg_birthrate;
     //             })])
     //             .range([h, 0]);
 
@@ -445,51 +441,77 @@ function generateScatter(divId) {
 
 // ------------------------
 
-    // var scaW = 250,
-    //     scaH = 200,
-    //     scaMargin = {top: 10, bottom: 10, left: 55, right: 10},
-    //     scaX = d3.scaleBand().rangeRound([0, scaW], .1).padding(5),
-    //     scaY = d3.scaleLinear().range([scaH, 0]),
-    //     data = ussData.features;
+    // init variable
+    var scaMargin = {top: 10, bottom: 10, left: 55, right: 30},
+        scaW = 300 - scaMargin.left - scaMargin.right,
+        scaH = 200 - scaMargin.top - scaMargin.bottom,
+        scaX = d3.scaleLinear().range([0, scaW]),
+        scaY = d3.scaleLinear().range([scaH, 0]),
+        data = ussData.features;
 
-    // var scaSvg = d3.select(divId).append("svg")
-    //     .attr("width", scaW+scaMargin.left+scaMargin.right)
-    //     .attr("height", scaH+scaMargin.top+scaMargin.bottom)
-    //     .append("g")
-    //     .attr("class", "scaC")
-    //     .attr("transform", "translate(" + scaMargin.left + "," + scaMargin.top + ")");
+    scaX.domain([0, d3.max(data, function(d) { return d.properties.total_female; }) ]);
+    scaY.domain([d3.min(data, function(d) { return d.properties.avg_birthrate; })/1.2,
+                 d3.max(data, function(d) { return d.properties.avg_birthrate; })*1.05]);
 
-    // scaX.domain(data.map(function(d) { return d.properties.total_female; }));
-    // scaY.domain([ d3.min(data, function(d) { return +d.properties.total_birth; }) , d3.max(data, function(d) { return +d.properties.total_birth; }) ]);
+    // create svg
+    var scaSvg = d3.select(divId)
+        // .append("div")
+        // .classed("svg-container", true)
+        .append("svg")
+        .attr("preserveAspectRatio", "xMinYMin meet")
+        .attr("viewBox", "0 0 300 240")
+        // .classed("svg-content-responsive", true)
+        .attr("class", "main")
+        .append("g")
+        .attr("transform", "translate(" + scaMargin.left + "," + scaMargin.top + ")")
 
-    // var scaXAxis = d3.axisBottom(scaX);
+    // make scatter plot
+    scaSvg.selectAll("circle")
+        .data(data)
+        .enter()
+        .append("circle")
+        .attr("cx", function(d){ return scaX(d.properties.total_female); })
+        .attr("cy", function(d){ return scaY(d.properties.avg_birthrate); })
+        // .attr("cy", function(d){ return 20; })
+        .attr("r", 4)
+        .attr("fill", "#1DFF84")
+        .attr("opacity", 0.5)
 
-    // var scaYAxis = d3.axisLeft(scaY).tickFormat(d3.formatPrefix(".1", 1e3));
+    console.log(ussData.features[0].properties.natalities[0]["Birth Rate"]);
 
-    // scaSvg.append("g")
-    //     .attr("stroke", "white")
-    //     .attr("transform", "translate(0," + scaH +")")
-    //     .attr("class", "xA")
-    //     .call(scaXAxis)
+    // create axis
+    // var scaXAxis = d3.axisBottom(scaX).tickValues([100000,500000,800000,10000000,50000000]);
+    var scaXAxis = d3.axisBottom(scaX).ticks(4);
+    var scaYAxis = d3.axisLeft(scaY).ticks(5);
 
-    // scaSvg.append("g")
-    //     .attr("stroke", "white")
-    //     .attr("class", "yA")
-    //     .call(scaYAxis)
+    scaSvg.append("g")
+        .attr("transform", "translate(0," + scaH +")")
+        .attr("class", "xA")
+        .call(scaXAxis)
 
-    // scaSvg.append("g")
-    //     .attr("transform", "translate(-30," + (scaH/2) + ") rotate(-90)")
-    //     .append("text")
-    //     .attr("y", 0)
-    //     .attr("font-size", 9)
-    //     .style("color", "white")
-    //     .style("text-anchor", "middle")
-    //     .text("Total Employees")
+    scaSvg.append("g")
+        .attr("class", "yA")
+        .call(scaYAxis)
 
-    // scaSvg.append("text")
-    //     .attr("x", scaW/2)
-    //     .attr("y", scaH + 45)
-    //     .text("Year")
+    scaSvg.append("g")
+        .attr("class", "textY")
+        .attr("transform", "translate(-30," + (scaH/2) + ") rotate(-90)")
+        .append("text")
+        .attr("y", 0)
+        .style("text-anchor", "middle")
+        .attr("font-size", "10px")
+        .attr("font-family", "HelveticaNeue-Light, Helvetica, sans-serif")
+        .attr("fill", "white")
+        .text("Birth Rate per 1000")
+
+    scaSvg.append("text")
+        .attr("class", "textX")
+        .attr("x", scaW/2 - 40)
+        .attr("y", scaH + 35)
+        .attr("font-size", "10px")
+        .attr("font-family", "HelveticaNeue-Light, Helvetica, sans-serif")
+        .attr("fill", "white")
+        .text("Women Population")
     
 }
 
@@ -505,5 +527,5 @@ function createVis(errors, dataNatality, elementID)
 }
 
 d3.queue()
-    .defer(d3.json, "https://raw.githubusercontent.com/minhnaru/cis602-02-project/master/data/natality.json")
+    .defer(d3.json, "https://raw.githubusercontent.com/minhnaru/cis602-02-project/master/data/natality_1.json")
     .await(createVis);

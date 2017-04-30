@@ -38,7 +38,7 @@ html, body {
 }
 
 .legend span { height:15px; }
-.legend label { height:25px; line-height: 100%; padding-top: 5px; }
+.legend label { height:25px; line-height: 100%; padding-top: 5px; padding-left: 5px; padding-right: 5px }
 
 .leaflet-popup-close-button {
     display: none;
@@ -233,4 +233,29 @@ div.leaflet-popup-tip {
     position: relative;
     padding: 5px, 5px, 5px, 5px;
     visibility: hidden;
+}
+
+/*.svg-container {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+}
+
+.svg-content-responsive {
+    display: inline-block;
+    position: absolute;
+}*/
+
+.xA text {
+    font-size: 9px;
+    stroke: white;
+}
+
+.yA text {
+    font-size: 9px;
+    stroke: white;
+}
+
+.domain {
+    stroke: white;
 }

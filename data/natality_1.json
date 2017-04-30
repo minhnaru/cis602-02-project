@@ -6,7 +6,8 @@
     "Total Population": 4833722,
     "Birth Rate": 12.03,
     "Female Population": 959756,
-    "Fertility Rate": 60.61
+    "Fertility Rate": 60.61,
+    "Median Income": 47320
   },
   {
     "State": "Alabama",
@@ -15,7 +16,8 @@
     "Total Population": 4849377,
     "Birth Rate": 12.25,
     "Female Population": 961109,
-    "Fertility Rate": 61.83
+    "Fertility Rate": 61.83,
+    "Median Income": 42278
   },
   {
     "State": "Alabama",
@@ -24,7 +26,8 @@
     "Total Population": 4858979,
     "Birth Rate": 12.28,
     "Female Population": 958981,
-    "Fertility Rate": 62.21
+    "Fertility Rate": 62.21,
+    "Median Income": 44509
   },
   {
     "State": "Alaska",
@@ -33,7 +36,8 @@
     "Total Population": 735132,
     "Birth Rate": 15.57,
     "Female Population": 147110,
-    "Fertility Rate": 77.81
+    "Fertility Rate": 77.81,
+    "Median Income": 72472
   },
   {
     "State": "Alaska",
@@ -42,7 +46,8 @@
     "Total Population": 736732,
     "Birth Rate": 15.46,
     "Female Population": 147302,
-    "Fertility Rate": 77.34
+    "Fertility Rate": 77.34,
+    "Median Income": 67629
   },
   {
     "State": "Alaska",
@@ -51,7 +56,8 @@
     "Total Population": 738432,
     "Birth Rate": 15.28,
     "Female Population": 146514,
-    "Fertility Rate": 77
+    "Fertility Rate": 77,
+    "Median Income": 75112
   },
   {
     "State": "Arizona",
@@ -60,7 +66,8 @@
     "Total Population": 6626624,
     "Birth Rate": 12.92,
     "Female Population": 1290612,
-    "Fertility Rate": 66.33
+    "Fertility Rate": 66.33,
+    "Median Income": 52611
   },
   {
     "State": "Arizona",
@@ -69,7 +76,8 @@
     "Total Population": 6731484,
     "Birth Rate": 12.91,
     "Female Population": 1308000,
-    "Fertility Rate": 66.43
+    "Fertility Rate": 66.43,
+    "Median Income": 49254
   },
   {
     "State": "Arizona",
@@ -78,7 +86,8 @@
     "Total Population": 6828065,
     "Birth Rate": 12.5,
     "Female Population": 1319880,
-    "Fertility Rate": 64.67
+    "Fertility Rate": 64.67,
+    "Median Income": 52248
   },
   {
     "State": "Arkansas",
@@ -87,7 +96,8 @@
     "Total Population": 2959373,
     "Birth Rate": 12.78,
     "Female Population": 574203,
-    "Fertility Rate": 65.89
+    "Fertility Rate": 65.89,
+    "Median Income": 39376
   },
   {
     "State": "Arkansas",
@@ -96,7 +106,8 @@
     "Total Population": 2966369,
     "Birth Rate": 12.98,
     "Female Population": 574772,
-    "Fertility Rate": 67
+    "Fertility Rate": 67,
+    "Median Income": 44922
   },
   {
     "State": "Arkansas",
@@ -105,7 +116,8 @@
     "Total Population": 2978204,
     "Birth Rate": 13.06,
     "Female Population": 576460,
-    "Fertility Rate": 67.46
+    "Fertility Rate": 67.46,
+    "Median Income": 42798
   },
   {
     "State": "California",
@@ -114,7 +126,8 @@
     "Total Population": 38332521,
     "Birth Rate": 12.91,
     "Female Population": 7982855,
-    "Fertility Rate": 61.97
+    "Fertility Rate": 61.97,
+    "Median Income": 60794
   },
   {
     "State": "California",
@@ -123,7 +136,8 @@
     "Total Population": 38802500,
     "Birth Rate": 12.96,
     "Female Population": 8061479,
-    "Fertility Rate": 62.38
+    "Fertility Rate": 62.38,
+    "Median Income": 60487
   },
   {
     "State": "California",
@@ -132,7 +146,8 @@
     "Total Population": 39144818,
     "Birth Rate": 12.56,
     "Female Population": 8084612,
-    "Fertility Rate": 60.83
+    "Fertility Rate": 60.83,
+    "Median Income": 63636
   },
   {
     "State": "Colorado",
@@ -141,7 +156,8 @@
     "Total Population": 5268367,
     "Birth Rate": 12.34,
     "Female Population": 1065777,
-    "Fertility Rate": 60.99
+    "Fertility Rate": 60.99,
+    "Median Income": 67912
   },
   {
     "State": "Colorado",
@@ -150,7 +166,8 @@
     "Total Population": 5355866,
     "Birth Rate": 12.29,
     "Female Population": 1084623,
-    "Fertility Rate": 60.69
+    "Fertility Rate": 60.69,
+    "Median Income": 60940
   },
   {
     "State": "Colorado",
@@ -159,7 +176,8 @@
     "Total Population": 5456574,
     "Birth Rate": 12.2,
     "Female Population": 1106534,
-    "Fertility Rate": 60.17
+    "Fertility Rate": 60.17,
+    "Median Income": 66596
   },
   {
     "State": "Connecticut",
@@ -168,7 +186,8 @@
     "Total Population": 3596080,
     "Birth Rate": 10.03,
     "Female Population": 684995,
-    "Fertility Rate": 52.68
+    "Fertility Rate": 52.68,
+    "Median Income": 69291
   },
   {
     "State": "Connecticut",
@@ -177,7 +196,8 @@
     "Total Population": 3596677,
     "Birth Rate": 10.09,
     "Female Population": 684158,
-    "Fertility Rate": 53.04
+    "Fertility Rate": 53.04,
+    "Median Income": 70161
   },
   {
     "State": "Connecticut",
@@ -186,7 +206,8 @@
     "Total Population": 3590886,
     "Birth Rate": 9.95,
     "Female Population": 680629,
-    "Fertility Rate": 52.52
+    "Fertility Rate": 52.52,
+    "Median Income": 72889
   },
   {
     "State": "Delaware",
@@ -195,7 +216,8 @@
     "Total Population": 925749,
     "Birth Rate": 11.7,
     "Female Population": 179522,
-    "Fertility Rate": 60.33
+    "Fertility Rate": 60.33,
+    "Median Income": 54091
   },
   {
     "State": "Delaware",
@@ -204,7 +226,8 @@
     "Total Population": 935614,
     "Birth Rate": 11.73,
     "Female Population": 180400,
-    "Fertility Rate": 60.82
+    "Fertility Rate": 60.82,
+    "Median Income": 57522
   },
   {
     "State": "Delaware",
@@ -213,7 +236,8 @@
     "Total Population": 945934,
     "Birth Rate": 11.8,
     "Female Population": 180812,
-    "Fertility Rate": 61.75
+    "Fertility Rate": 61.75,
+    "Median Income": 57756
   },
   {
     "State": "District of Columbia",
@@ -222,7 +246,8 @@
     "Total Population": 646449,
     "Birth Rate": 14.37,
     "Female Population": 174288,
-    "Fertility Rate": 53.29
+    "Fertility Rate": 53.29,
+    "Median Income": 60057
   },
   {
     "State": "District of Columbia",
@@ -231,7 +256,8 @@
     "Total Population": 658893,
     "Birth Rate": 14.43,
     "Female Population": 177568,
-    "Fertility Rate": 53.55
+    "Fertility Rate": 53.55,
+    "Median Income": 68277
   },
   {
     "State": "District of Columbia",
@@ -240,7 +266,8 @@
     "Total Population": 672228,
     "Birth Rate": 14.25,
     "Female Population": 181381,
-    "Fertility Rate": 52.81
+    "Fertility Rate": 52.81,
+    "Median Income": 70071
   },
   {
     "State": "Florida",
@@ -249,7 +276,8 @@
     "Total Population": 19552860,
     "Birth Rate": 11.02,
     "Female Population": 3634590,
-    "Fertility Rate": 59.27
+    "Fertility Rate": 59.27,
+    "Median Income": 48532
   },
   {
     "State": "Florida",
@@ -258,7 +286,8 @@
     "Total Population": 19893297,
     "Birth Rate": 11.06,
     "Female Population": 3687140,
-    "Fertility Rate": 59.66
+    "Fertility Rate": 59.66,
+    "Median Income": 46140
   },
   {
     "State": "Florida",
@@ -267,7 +296,8 @@
     "Total Population": 20271272,
     "Birth Rate": 11.06,
     "Female Population": 3740217,
-    "Fertility Rate": 59.96
+    "Fertility Rate": 59.96,
+    "Median Income": 48825
   },
   {
     "State": "Georgia",
@@ -276,7 +306,8 @@
     "Total Population": 9992167,
     "Birth Rate": 12.88,
     "Female Population": 2089387,
-    "Fertility Rate": 61.62
+    "Fertility Rate": 61.62,
+    "Median Income": 46992
   },
   {
     "State": "Georgia",
@@ -285,7 +316,8 @@
     "Total Population": 10097343,
     "Birth Rate": 12.97,
     "Female Population": 2104573,
-    "Fertility Rate": 62.22
+    "Fertility Rate": 62.22,
+    "Median Income": 49555
   },
   {
     "State": "Georgia",
@@ -294,7 +326,8 @@
     "Total Population": 10214860,
     "Birth Rate": 12.86,
     "Female Population": 2119884,
-    "Fertility Rate": 61.99
+    "Fertility Rate": 61.99,
+    "Median Income": 50768
   },
   {
     "State": "Hawaii",
@@ -303,7 +336,8 @@
     "Total Population": 1404054,
     "Birth Rate": 13.52,
     "Female Population": 265474,
-    "Fertility Rate": 71.52
+    "Fertility Rate": 71.52,
+    "Median Income": 64235
   },
   {
     "State": "Hawaii",
@@ -312,7 +346,8 @@
     "Total Population": 1419561,
     "Birth Rate": 13.07,
     "Female Population": 267712,
-    "Fertility Rate": 69.29
+    "Fertility Rate": 69.29,
+    "Median Income": 71223
   },
   {
     "State": "Hawaii",
@@ -321,7 +356,8 @@
     "Total Population": 1431603,
     "Birth Rate": 12.87,
     "Female Population": 268188,
-    "Fertility Rate": 68.68
+    "Fertility Rate": 68.68,
+    "Median Income": 64514
   },
   {
     "State": "Idaho",
@@ -330,7 +366,8 @@
     "Total Population": 1612136,
     "Birth Rate": 13.88,
     "Female Population": 311712,
-    "Fertility Rate": 71.81
+    "Fertility Rate": 71.81,
+    "Median Income": 48467
   },
   {
     "State": "Idaho",
@@ -339,7 +376,8 @@
     "Total Population": 1634464,
     "Birth Rate": 14,
     "Female Population": 314852,
-    "Fertility Rate": 72.66
+    "Fertility Rate": 72.66,
+    "Median Income": 53438
   },
   {
     "State": "Idaho",
@@ -348,7 +386,8 @@
     "Total Population": 1654930,
     "Birth Rate": 13.79,
     "Female Population": 317807,
-    "Fertility Rate": 71.83
+    "Fertility Rate": 71.83,
+    "Median Income": 51624
   },
   {
     "State": "Illinois",
@@ -357,7 +396,8 @@
     "Total Population": 12882135,
     "Birth Rate": 12.18,
     "Female Population": 2603359,
-    "Fertility Rate": 60.28
+    "Fertility Rate": 60.28,
+    "Median Income": 53937
   },
   {
     "State": "Illinois",
@@ -366,7 +406,8 @@
     "Total Population": 12880580,
     "Birth Rate": 12.31,
     "Female Population": 2596483,
-    "Fertility Rate": 61.07
+    "Fertility Rate": 61.07,
+    "Median Income": 54916
   },
   {
     "State": "Illinois",
@@ -375,7 +416,8 @@
     "Total Population": 12859995,
     "Birth Rate": 12.3,
     "Female Population": 2577634,
-    "Fertility Rate": 61.34
+    "Fertility Rate": 61.34,
+    "Median Income": 60413
   },
   {
     "State": "Indiana",
@@ -384,7 +426,8 @@
     "Total Population": 6570902,
     "Birth Rate": 12.65,
     "Female Population": 1292138,
-    "Fertility Rate": 64.31
+    "Fertility Rate": 64.31,
+    "Median Income": 49455
   },
   {
     "State": "Indiana",
@@ -393,7 +436,8 @@
     "Total Population": 6596855,
     "Birth Rate": 12.75,
     "Female Population": 1295431,
-    "Fertility Rate": 64.91
+    "Fertility Rate": 64.91,
+    "Median Income": 48060
   },
   {
     "State": "Indiana",
@@ -402,7 +446,8 @@
     "Total Population": 6619680,
     "Birth Rate": 12.7,
     "Female Population": 1296510,
-    "Fertility Rate": 64.82
+    "Fertility Rate": 64.82,
+    "Median Income": 51983
   },
   {
     "State": "Iowa",
@@ -411,7 +456,8 @@
     "Total Population": 3090416,
     "Birth Rate": 12.65,
     "Female Population": 582884,
-    "Fertility Rate": 67.07
+    "Fertility Rate": 67.07,
+    "Median Income": 60156
   },
   {
     "State": "Iowa",
@@ -420,7 +466,8 @@
     "Total Population": 3107126,
     "Birth Rate": 12.77,
     "Female Population": 585645,
-    "Fertility Rate": 67.77
+    "Fertility Rate": 67.77,
+    "Median Income": 57810
   },
   {
     "State": "Iowa",
@@ -429,7 +476,8 @@
     "Total Population": 3123899,
     "Birth Rate": 12.64,
     "Female Population": 588384,
-    "Fertility Rate": 67.1
+    "Fertility Rate": 67.1,
+    "Median Income": 60855
   },
   {
     "State": "Kansas",
@@ -438,7 +486,8 @@
     "Total Population": 2893957,
     "Birth Rate": 13.42,
     "Female Population": 558538,
-    "Fertility Rate": 69.54
+    "Fertility Rate": 69.54,
+    "Median Income": 47820
   },
   {
     "State": "Kansas",
@@ -447,7 +496,8 @@
     "Total Population": 2904021,
     "Birth Rate": 13.51,
     "Female Population": 560331,
-    "Fertility Rate": 70
+    "Fertility Rate": 70,
+    "Median Income": 53444
   },
   {
     "State": "Kansas",
@@ -456,7 +506,8 @@
     "Total Population": 2911641,
     "Birth Rate": 13.45,
     "Female Population": 560142,
-    "Fertility Rate": 69.9
+    "Fertility Rate": 69.9,
+    "Median Income": 54865
   },
   {
     "State": "Kentucky",
@@ -465,7 +516,8 @@
     "Total Population": 4395295,
     "Birth Rate": 12.67,
     "Female Population": 852992,
-    "Fertility Rate": 65.28
+    "Fertility Rate": 65.28,
+    "Median Income": 44879
   },
   {
     "State": "Kentucky",
@@ -474,7 +526,8 @@
     "Total Population": 4413457,
     "Birth Rate": 12.73,
     "Female Population": 853601,
-    "Fertility Rate": 65.8
+    "Fertility Rate": 65.8,
+    "Median Income": 42786
   },
   {
     "State": "Kentucky",
@@ -483,7 +536,8 @@
     "Total Population": 4425092,
     "Birth Rate": 12.65,
     "Female Population": 851631,
-    "Fertility Rate": 65.72
+    "Fertility Rate": 65.72,
+    "Median Income": 42387
   },
   {
     "State": "Louisiana",
@@ -492,7 +546,8 @@
     "Total Population": 4625470,
     "Birth Rate": 13.66,
     "Female Population": 938719,
-    "Fertility Rate": 67.33
+    "Fertility Rate": 67.33,
+    "Median Income": 46425
   },
   {
     "State": "Louisiana",
@@ -501,7 +556,8 @@
     "Total Population": 4649676,
     "Birth Rate": 13.87,
     "Female Population": 942656,
-    "Fertility Rate": 68.42
+    "Fertility Rate": 68.42,
+    "Median Income": 42406
   },
   {
     "State": "Louisiana",
@@ -510,7 +566,8 @@
     "Total Population": 4670724,
     "Birth Rate": 13.85,
     "Female Population": 943958,
-    "Fertility Rate": 68.53
+    "Fertility Rate": 68.53,
+    "Median Income": 45922
   },
   {
     "State": "Maine",
@@ -519,7 +576,8 @@
     "Total Population": 1328302,
     "Birth Rate": 9.62,
     "Female Population": 234970,
-    "Fertility Rate": 54.37
+    "Fertility Rate": 54.37,
+    "Median Income": 54957
   },
   {
     "State": "Maine",
@@ -528,7 +586,8 @@
     "Total Population": 1330089,
     "Birth Rate": 9.55,
     "Female Population": 233832,
-    "Fertility Rate": 54.3
+    "Fertility Rate": 54.3,
+    "Median Income": 51710
   },
   {
     "State": "Maine",
@@ -537,7 +596,8 @@
     "Total Population": 1329328,
     "Birth Rate": 9.48,
     "Female Population": 232112,
-    "Fertility Rate": 54.31
+    "Fertility Rate": 54.31,
+    "Median Income": 50756
   },
   {
     "State": "Maryland",
@@ -546,7 +606,8 @@
     "Total Population": 5928814,
     "Birth Rate": 12.14,
     "Female Population": 1197064,
-    "Fertility Rate": 60.11
+    "Fertility Rate": 60.11,
+    "Median Income": 69353
   },
   {
     "State": "Maryland",
@@ -555,7 +616,8 @@
     "Total Population": 5976407,
     "Birth Rate": 12.37,
     "Female Population": 1201916,
-    "Fertility Rate": 61.5
+    "Fertility Rate": 61.5,
+    "Median Income": 76165
   },
   {
     "State": "Maryland",
@@ -564,7 +626,8 @@
     "Total Population": 6006401,
     "Birth Rate": 12.26,
     "Female Population": 1200564,
-    "Fertility Rate": 61.32
+    "Fertility Rate": 61.32,
+    "Median Income": 73594
   },
   {
     "State": "Massachusetts",
@@ -573,7 +636,8 @@
     "Total Population": 6692824,
     "Birth Rate": 10.73,
     "Female Population": 1358679,
-    "Fertility Rate": 52.84
+    "Fertility Rate": 52.84,
+    "Median Income": 62529
   },
   {
     "State": "Massachusetts",
@@ -582,7 +646,8 @@
     "Total Population": 6745408,
     "Birth Rate": 10.66,
     "Female Population": 1369202,
-    "Fertility Rate": 52.52
+    "Fertility Rate": 52.52,
+    "Median Income": 63151
   },
   {
     "State": "Massachusetts",
@@ -591,7 +656,8 @@
     "Total Population": 6794422,
     "Birth Rate": 10.52,
     "Female Population": 1373958,
-    "Fertility Rate": 52.03
+    "Fertility Rate": 52.03,
+    "Median Income": 67861
   },
   {
     "State": "Michigan",
@@ -600,7 +666,8 @@
     "Total Population": 9895622,
     "Birth Rate": 11.47,
     "Female Population": 1890426,
-    "Fertility Rate": 60.03
+    "Fertility Rate": 60.03,
+    "Median Income": 56567
   },
   {
     "State": "Michigan",
@@ -609,7 +676,8 @@
     "Total Population": 9909877,
     "Birth Rate": 11.54,
     "Female Population": 1887778,
-    "Fertility Rate": 60.59
+    "Fertility Rate": 60.59,
+    "Median Income": 52005
   },
   {
     "State": "Michigan",
@@ -618,7 +686,8 @@
     "Total Population": 9922576,
     "Birth Rate": 11.42,
     "Female Population": 1880657,
-    "Fertility Rate": 60.25
+    "Fertility Rate": 60.25,
+    "Median Income": 54203
   },
   {
     "State": "Minnesota",
@@ -627,7 +696,8 @@
     "Total Population": 5420380,
     "Birth Rate": 12.76,
     "Female Population": 1049636,
-    "Fertility Rate": 65.89
+    "Fertility Rate": 65.89,
+    "Median Income": 64324
   },
   {
     "State": "Minnesota",
@@ -636,7 +706,8 @@
     "Total Population": 5457173,
     "Birth Rate": 12.81,
     "Female Population": 1053340,
-    "Fertility Rate": 66.36
+    "Fertility Rate": 66.36,
+    "Median Income": 67244
   },
   {
     "State": "Minnesota",
@@ -645,7 +716,8 @@
     "Total Population": 5489594,
     "Birth Rate": 12.72,
     "Female Population": 1054063,
-    "Fertility Rate": 66.25
+    "Fertility Rate": 66.25,
+    "Median Income": 68730
   },
   {
     "State": "Mississippi",
@@ -654,7 +726,8 @@
     "Total Population": 2991207,
     "Birth Rate": 12.92,
     "Female Population": 601690,
-    "Fertility Rate": 64.21
+    "Fertility Rate": 64.21,
+    "Median Income": 32338
   },
   {
     "State": "Mississippi",
@@ -663,7 +736,8 @@
     "Total Population": 2994079,
     "Birth Rate": 12.94,
     "Female Population": 601260,
-    "Fertility Rate": 64.42
+    "Fertility Rate": 64.42,
+    "Median Income": 35521
   },
   {
     "State": "Mississippi",
@@ -672,7 +746,8 @@
     "Total Population": 2992333,
     "Birth Rate": 12.83,
     "Female Population": 599445,
-    "Fertility Rate": 64.05
+    "Fertility Rate": 64.05,
+    "Median Income": 40037
   },
   {
     "State": "Missouri",
@@ -681,7 +756,8 @@
     "Total Population": 6044171,
     "Birth Rate": 12.46,
     "Female Population": 1174457,
-    "Fertility Rate": 64.11
+    "Fertility Rate": 64.11,
+    "Median Income": 46303
   },
   {
     "State": "Missouri",
@@ -690,7 +766,8 @@
     "Total Population": 6063589,
     "Birth Rate": 12.43,
     "Female Population": 1176158,
-    "Fertility Rate": 64.07
+    "Fertility Rate": 64.07,
+    "Median Income": 56630
   },
   {
     "State": "Missouri",
@@ -699,7 +776,8 @@
     "Total Population": 6083672,
     "Birth Rate": 12.34,
     "Female Population": 1176557,
-    "Fertility Rate": 63.8
+    "Fertility Rate": 63.8,
+    "Median Income": 59196
   },
   {
     "State": "Montana",
@@ -708,7 +786,8 @@
     "Total Population": 1015165,
     "Birth Rate": 12.19,
     "Female Population": 184153,
-    "Fertility Rate": 67.21
+    "Fertility Rate": 67.21,
+    "Median Income": 43201
   },
   {
     "State": "Montana",
@@ -717,7 +796,8 @@
     "Total Population": 1023579,
     "Birth Rate": 12.15,
     "Female Population": 185661,
-    "Fertility Rate": 66.96
+    "Fertility Rate": 66.96,
+    "Median Income": 51102
   },
   {
     "State": "Montana",
@@ -726,7 +806,8 @@
     "Total Population": 1032949,
     "Birth Rate": 12.18,
     "Female Population": 186922,
-    "Fertility Rate": 67.32
+    "Fertility Rate": 67.32,
+    "Median Income": 51395
   },
   {
     "State": "Nebraska",
@@ -735,7 +816,8 @@
     "Total Population": 1868516,
     "Birth Rate": 13.97,
     "Female Population": 361532,
-    "Fertility Rate": 72.18
+    "Fertility Rate": 72.18,
+    "Median Income": 57623
   },
   {
     "State": "Nebraska",
@@ -744,7 +826,8 @@
     "Total Population": 1881503,
     "Birth Rate": 14.24,
     "Female Population": 364075,
-    "Fertility Rate": 73.59
+    "Fertility Rate": 73.59,
+    "Median Income": 56870
   },
   {
     "State": "Nebraska",
@@ -753,7 +836,8 @@
     "Total Population": 1896190,
     "Birth Rate": 14.07,
     "Female Population": 366370,
-    "Fertility Rate": 72.82
+    "Fertility Rate": 72.82,
+    "Median Income": 60474
   },
   {
     "State": "Nevada",
@@ -762,7 +846,8 @@
     "Total Population": 2790136,
     "Birth Rate": 12.55,
     "Female Population": 557449,
-    "Fertility Rate": 62.84
+    "Fertility Rate": 62.84,
+    "Median Income": 51846
   },
   {
     "State": "Nevada",
@@ -771,7 +856,8 @@
     "Total Population": 2839099,
     "Birth Rate": 12.63,
     "Female Population": 566250,
-    "Fertility Rate": 63.33
+    "Fertility Rate": 63.33,
+    "Median Income": 49875
   },
   {
     "State": "Nevada",
@@ -780,7 +866,8 @@
     "Total Population": 2890845,
     "Birth Rate": 12.56,
     "Female Population": 573825,
-    "Fertility Rate": 63.26
+    "Fertility Rate": 63.26,
+    "Median Income": 52008
   },
   {
     "State": "New Hampshire",
@@ -789,7 +876,8 @@
     "Total Population": 1323459,
     "Birth Rate": 9.37,
     "Female Population": 244043,
-    "Fertility Rate": 50.79
+    "Fertility Rate": 50.79,
+    "Median Income": 69099
   },
   {
     "State": "New Hampshire",
@@ -798,7 +886,8 @@
     "Total Population": 1326813,
     "Birth Rate": 9.27,
     "Female Population": 243625,
-    "Fertility Rate": 50.5
+    "Fertility Rate": 50.5,
+    "Median Income": 73397
   },
   {
     "State": "New Hampshire",
@@ -807,7 +896,8 @@
     "Total Population": 1330608,
     "Birth Rate": 9.34,
     "Female Population": 242336,
-    "Fertility Rate": 51.3
+    "Fertility Rate": 51.3,
+    "Median Income": 75675
   },
   {
     "State": "New Jersey",
@@ -816,7 +906,8 @@
     "Total Population": 8899339,
     "Birth Rate": 11.53,
     "Female Population": 1721051,
-    "Fertility Rate": 59.6
+    "Fertility Rate": 59.6,
+    "Median Income": 63754
   },
   {
     "State": "New Jersey",
@@ -825,7 +916,8 @@
     "Total Population": 8938175,
     "Birth Rate": 11.56,
     "Female Population": 1723218,
-    "Fertility Rate": 59.95
+    "Fertility Rate": 59.95,
+    "Median Income": 65243
   },
   {
     "State": "New Jersey",
@@ -834,7 +926,8 @@
     "Total Population": 8958013,
     "Birth Rate": 11.51,
     "Female Population": 1718587,
-    "Fertility Rate": 60.01
+    "Fertility Rate": 60.01,
+    "Median Income": 68357
   },
   {
     "State": "New Mexico",
@@ -843,7 +936,8 @@
     "Total Population": 2085287,
     "Birth Rate": 12.64,
     "Female Population": 398793,
-    "Fertility Rate": 66.08
+    "Fertility Rate": 66.08,
+    "Median Income": 40166
   },
   {
     "State": "New Mexico",
@@ -852,7 +946,8 @@
     "Total Population": 2085572,
     "Birth Rate": 12.49,
     "Female Population": 397580,
-    "Fertility Rate": 65.53
+    "Fertility Rate": 65.53,
+    "Median Income": 46686
   },
   {
     "State": "New Mexico",
@@ -861,7 +956,8 @@
     "Total Population": 2085109,
     "Birth Rate": 12.38,
     "Female Population": 395491,
-    "Fertility Rate": 65.28
+    "Fertility Rate": 65.28,
+    "Median Income": 45119
   },
   {
     "State": "New York",
@@ -870,7 +966,8 @@
     "Total Population": 19651127,
     "Birth Rate": 12.06,
     "Female Population": 4033125,
-    "Fertility Rate": 58.76
+    "Fertility Rate": 58.76,
+    "Median Income": 49966
   },
   {
     "State": "New York",
@@ -879,7 +976,8 @@
     "Total Population": 19746227,
     "Birth Rate": 12.09,
     "Female Population": 4045782,
-    "Fertility Rate": 59.02
+    "Fertility Rate": 59.02,
+    "Median Income": 54310
   },
   {
     "State": "New York",
@@ -888,7 +986,8 @@
     "Total Population": 19795791,
     "Birth Rate": 11.99,
     "Female Population": 4036145,
-    "Fertility Rate": 58.79
+    "Fertility Rate": 58.79,
+    "Median Income": 58005
   },
   {
     "State": "North Carolina",
@@ -897,7 +996,8 @@
     "Total Population": 9848060,
     "Birth Rate": 12.08,
     "Female Population": 1971639,
-    "Fertility Rate": 60.36
+    "Fertility Rate": 60.36,
+    "Median Income": 46337
   },
   {
     "State": "North Carolina",
@@ -906,7 +1006,8 @@
     "Total Population": 9943964,
     "Birth Rate": 12.17,
     "Female Population": 1982894,
-    "Fertility Rate": 61.01
+    "Fertility Rate": 61.01,
+    "Median Income": 46784
   },
   {
     "State": "North Carolina",
@@ -915,7 +1016,8 @@
     "Total Population": 10042802,
     "Birth Rate": 12.03,
     "Female Population": 1991882,
-    "Fertility Rate": 60.67
+    "Fertility Rate": 60.67,
+    "Median Income": 50797
   },
   {
     "State": "North Dakota",
@@ -924,7 +1026,8 @@
     "Total Population": 723393,
     "Birth Rate": 14.65,
     "Female Population": 140687,
-    "Fertility Rate": 75.34
+    "Fertility Rate": 75.34,
+    "Median Income": 59152
   },
   {
     "State": "North Dakota",
@@ -933,7 +1036,8 @@
     "Total Population": 739482,
     "Birth Rate": 15.36,
     "Female Population": 144130,
-    "Fertility Rate": 78.81
+    "Fertility Rate": 78.81,
+    "Median Income": 60730
   },
   {
     "State": "North Dakota",
@@ -942,7 +1046,8 @@
     "Total Population": 756927,
     "Birth Rate": 14.95,
     "Female Population": 148084,
-    "Fertility Rate": 76.4
+    "Fertility Rate": 76.4,
+    "Median Income": 57415
   },
   {
     "State": "Ohio",
@@ -951,7 +1056,8 @@
     "Total Population": 11570808,
     "Birth Rate": 12.01,
     "Female Population": 2214152,
-    "Fertility Rate": 62.75
+    "Fertility Rate": 62.75,
+    "Median Income": 50748
   },
   {
     "State": "Ohio",
@@ -960,7 +1066,8 @@
     "Total Population": 11594163,
     "Birth Rate": 12.03,
     "Female Population": 2211573,
-    "Fertility Rate": 63.06
+    "Fertility Rate": 63.06,
+    "Median Income": 49644
   },
   {
     "State": "Ohio",
@@ -969,7 +1076,8 @@
     "Total Population": 11613423,
     "Birth Rate": 11.99,
     "Female Population": 2207849,
-    "Fertility Rate": 63.08
+    "Fertility Rate": 63.08,
+    "Median Income": 53301
   },
   {
     "State": "Oklahoma",
@@ -978,7 +1086,8 @@
     "Total Population": 3850568,
     "Birth Rate": 13.86,
     "Female Population": 756016,
-    "Fertility Rate": 70.59
+    "Fertility Rate": 70.59,
+    "Median Income": 46162
   },
   {
     "State": "Oklahoma",
@@ -987,7 +1096,8 @@
     "Total Population": 3878051,
     "Birth Rate": 13.75,
     "Female Population": 762653,
-    "Fertility Rate": 69.94
+    "Fertility Rate": 69.94,
+    "Median Income": 47199
   },
   {
     "State": "Oklahoma",
@@ -996,7 +1106,8 @@
     "Total Population": 3911338,
     "Birth Rate": 13.58,
     "Female Population": 768327,
-    "Fertility Rate": 69.14
+    "Fertility Rate": 69.14,
+    "Median Income": 47077
   },
   {
     "State": "Oregon",
@@ -1005,7 +1116,8 @@
     "Total Population": 3930065,
     "Birth Rate": 11.49,
     "Female Population": 770514,
-    "Fertility Rate": 58.6
+    "Fertility Rate": 58.6,
+    "Median Income": 48999
   },
   {
     "State": "Oregon",
@@ -1014,7 +1126,8 @@
     "Total Population": 3970239,
     "Birth Rate": 11.47,
     "Female Population": 776108,
-    "Fertility Rate": 58.7
+    "Fertility Rate": 58.7,
+    "Median Income": 58875
   },
   {
     "State": "Oregon",
@@ -1023,7 +1136,8 @@
     "Total Population": 4028977,
     "Birth Rate": 11.33,
     "Female Population": 786355,
-    "Fertility Rate": 58.06
+    "Fertility Rate": 58.06,
+    "Median Income": 60834
   },
   {
     "State": "Pennsylvania",
@@ -1032,7 +1146,8 @@
     "Total Population": 12773801,
     "Birth Rate": 11.03,
     "Female Population": 2414538,
-    "Fertility Rate": 58.36
+    "Fertility Rate": 58.36,
+    "Median Income": 55156
   },
   {
     "State": "Pennsylvania",
@@ -1041,7 +1156,8 @@
     "Total Population": 12787209,
     "Birth Rate": 11.13,
     "Female Population": 2407045,
-    "Fertility Rate": 59.1
+    "Fertility Rate": 59.1,
+    "Median Income": 55173
   },
   {
     "State": "Pennsylvania",
@@ -1050,7 +1166,8 @@
     "Total Population": 12802503,
     "Birth Rate": 11.02,
     "Female Population": 2400883,
-    "Fertility Rate": 58.75
+    "Fertility Rate": 58.75,
+    "Median Income": 60389
   },
   {
     "State": "Rhode Island",
@@ -1059,7 +1176,8 @@
     "Total Population": 1051511,
     "Birth Rate": 10.28,
     "Female Population": 209672,
-    "Fertility Rate": 51.55
+    "Fertility Rate": 51.55,
+    "Median Income": 56323
   },
   {
     "State": "Rhode Island",
@@ -1068,7 +1186,8 @@
     "Total Population": 1055173,
     "Birth Rate": 10.26,
     "Female Population": 210111,
-    "Fertility Rate": 51.51
+    "Fertility Rate": 51.51,
+    "Median Income": 58633
   },
   {
     "State": "Rhode Island",
@@ -1077,7 +1196,8 @@
     "Total Population": 1056298,
     "Birth Rate": 10.41,
     "Female Population": 209560,
-    "Fertility Rate": 52.46
+    "Fertility Rate": 52.46,
+    "Median Income": 55701
   },
   {
     "State": "South Carolina",
@@ -1086,7 +1206,8 @@
     "Total Population": 4774839,
     "Birth Rate": 11.89,
     "Female Population": 936748,
-    "Fertility Rate": 60.63
+    "Fertility Rate": 60.63,
+    "Median Income": 43563
   },
   {
     "State": "South Carolina",
@@ -1095,7 +1216,8 @@
     "Total Population": 4832482,
     "Birth Rate": 11.92,
     "Female Population": 943512,
-    "Fertility Rate": 61.08
+    "Fertility Rate": 61.08,
+    "Median Income": 44929
   },
   {
     "State": "South Carolina",
@@ -1104,7 +1226,8 @@
     "Total Population": 4896146,
     "Birth Rate": 11.87,
     "Female Population": 951940,
-    "Fertility Rate": 61.07
+    "Fertility Rate": 61.07,
+    "Median Income": 46360
   },
   {
     "State": "South Dakota",
@@ -1113,7 +1236,8 @@
     "Total Population": 844877,
     "Birth Rate": 14.5,
     "Female Population": 156851,
-    "Fertility Rate": 78.09
+    "Fertility Rate": 78.09,
+    "Median Income": 53413
   },
   {
     "State": "South Dakota",
@@ -1122,7 +1246,8 @@
     "Total Population": 853175,
     "Birth Rate": 14.4,
     "Female Population": 157896,
-    "Fertility Rate": 77.79
+    "Fertility Rate": 77.79,
+    "Median Income": 53053
   },
   {
     "State": "South Dakota",
@@ -1131,7 +1256,8 @@
     "Total Population": 858469,
     "Birth Rate": 14.37,
     "Female Population": 157806,
-    "Fertility Rate": 78.17
+    "Fertility Rate": 78.17,
+    "Median Income": 55065
   },
   {
     "State": "Tennessee",
@@ -1140,7 +1266,8 @@
     "Total Population": 6495978,
     "Birth Rate": 12.31,
     "Female Population": 1287200,
-    "Fertility Rate": 62.14
+    "Fertility Rate": 62.14,
+    "Median Income": 43361
   },
   {
     "State": "Tennessee",
@@ -1149,7 +1276,8 @@
     "Total Population": 6549352,
     "Birth Rate": 12.46,
     "Female Population": 1295676,
-    "Fertility Rate": 62.98
+    "Fertility Rate": 62.98,
+    "Median Income": 43716
   },
   {
     "State": "Tennessee",
@@ -1158,7 +1286,8 @@
     "Total Population": 6600299,
     "Birth Rate": 12.38,
     "Female Population": 1299690,
-    "Fertility Rate": 62.85
+    "Fertility Rate": 62.85,
+    "Median Income": 47330
   },
   {
     "State": "Texas",
@@ -1167,7 +1296,8 @@
     "Total Population": 26448193,
     "Birth Rate": 14.65,
     "Female Population": 5543584,
-    "Fertility Rate": 69.87
+    "Fertility Rate": 69.87,
+    "Median Income": 51406
   },
   {
     "State": "Texas",
@@ -1176,7 +1306,8 @@
     "Total Population": 26956958,
     "Birth Rate": 14.83,
     "Female Population": 5654684,
-    "Fertility Rate": 70.7
+    "Fertility Rate": 70.7,
+    "Median Income": 53875
   },
   {
     "State": "Texas",
@@ -1185,7 +1316,8 @@
     "Total Population": 27469114,
     "Birth Rate": 14.69,
     "Female Population": 5748631,
-    "Fertility Rate": 70.21
+    "Fertility Rate": 70.21,
+    "Median Income": 56473
   },
   {
     "State": "Utah",
@@ -1194,7 +1326,8 @@
     "Total Population": 2900872,
     "Birth Rate": 17.57,
     "Female Population": 629778,
-    "Fertility Rate": 80.91
+    "Fertility Rate": 80.91,
+    "Median Income": 61047
   },
   {
     "State": "Utah",
@@ -1203,7 +1336,8 @@
     "Total Population": 2942902,
     "Birth Rate": 17.38,
     "Female Population": 639388,
-    "Fertility Rate": 80
+    "Fertility Rate": 80,
+    "Median Income": 63383
   },
   {
     "State": "Utah",
@@ -1212,7 +1346,8 @@
     "Total Population": 2995919,
     "Birth Rate": 16.95,
     "Female Population": 651344,
-    "Fertility Rate": 77.96
+    "Fertility Rate": 77.96,
+    "Median Income": 66258
   },
   {
     "State": "Vermont",
@@ -1221,7 +1356,8 @@
     "Total Population": 626630,
     "Birth Rate": 9.54,
     "Female Population": 116335,
-    "Fertility Rate": 51.36
+    "Fertility Rate": 51.36,
+    "Median Income": 65513
   },
   {
     "State": "Vermont",
@@ -1230,7 +1366,8 @@
     "Total Population": 626562,
     "Birth Rate": 9.78,
     "Female Population": 115981,
-    "Fertility Rate": 52.85
+    "Fertility Rate": 52.85,
+    "Median Income": 60708
   },
   {
     "State": "Vermont",
@@ -1239,7 +1376,8 @@
     "Total Population": 626042,
     "Birth Rate": 9.43,
     "Female Population": 115598,
-    "Fertility Rate": 51.06
+    "Fertility Rate": 51.06,
+    "Median Income": 59494
   },
   {
     "State": "Virginia",
@@ -1248,7 +1386,8 @@
     "Total Population": 8260405,
     "Birth Rate": 12.37,
     "Female Population": 1676517,
-    "Fertility Rate": 60.93
+    "Fertility Rate": 60.93,
+    "Median Income": 65907
   },
   {
     "State": "Virginia",
@@ -1257,7 +1396,8 @@
     "Total Population": 8326289,
     "Birth Rate": 12.41,
     "Female Population": 1684103,
-    "Fertility Rate": 61.34
+    "Fertility Rate": 61.34,
+    "Median Income": 66155
   },
   {
     "State": "Virginia",
@@ -1266,7 +1406,8 @@
     "Total Population": 8382993,
     "Birth Rate": 12.32,
     "Female Population": 1684883,
-    "Fertility Rate": 61.31
+    "Fertility Rate": 61.31,
+    "Median Income": 61486
   },
   {
     "State": "Washington",
@@ -1275,7 +1416,8 @@
     "Total Population": 6971406,
     "Birth Rate": 12.42,
     "Female Population": 1383781,
-    "Fertility Rate": 62.57
+    "Fertility Rate": 62.57,
+    "Median Income": 63922
   },
   {
     "State": "Washington",
@@ -1284,7 +1426,8 @@
     "Total Population": 7061530,
     "Birth Rate": 12.54,
     "Female Population": 1398464,
-    "Fertility Rate": 63.34
+    "Fertility Rate": 63.34,
+    "Median Income": 59068
   },
   {
     "State": "Washington",
@@ -1293,7 +1436,8 @@
     "Total Population": 7170351,
     "Birth Rate": 12.41,
     "Female Population": 1417209,
-    "Fertility Rate": 62.79
+    "Fertility Rate": 62.79,
+    "Median Income": 67243
   },
   {
     "State": "West Virginia",
@@ -1302,7 +1446,8 @@
     "Total Population": 1854304,
     "Birth Rate": 11.23,
     "Female Population": 338651,
-    "Fertility Rate": 61.49
+    "Fertility Rate": 61.49,
+    "Median Income": 43069
   },
   {
     "State": "West Virginia",
@@ -1311,7 +1456,8 @@
     "Total Population": 1850326,
     "Birth Rate": 10.97,
     "Female Population": 336741,
-    "Fertility Rate": 60.29
+    "Fertility Rate": 60.29,
+    "Median Income": 39552
   },
   {
     "State": "West Virginia",
@@ -1320,7 +1466,8 @@
     "Total Population": 1844128,
     "Birth Rate": 10.74,
     "Female Population": 333468,
-    "Fertility Rate": 59.39
+    "Fertility Rate": 59.39,
+    "Median Income": 42824
   },
   {
     "State": "Wisconsin",
@@ -1329,7 +1476,8 @@
     "Total Population": 5742713,
     "Birth Rate": 11.61,
     "Female Population": 1086889,
-    "Fertility Rate": 61.32
+    "Fertility Rate": 61.32,
+    "Median Income": 51726
   },
   {
     "State": "Wisconsin",
@@ -1338,7 +1486,8 @@
     "Total Population": 5757564,
     "Birth Rate": 11.66,
     "Female Population": 1087273,
-    "Fertility Rate": 61.77
+    "Fertility Rate": 61.77,
+    "Median Income": 58080
   },
   {
     "State": "Wisconsin",
@@ -1347,7 +1496,8 @@
     "Total Population": 5771337,
     "Birth Rate": 11.62,
     "Female Population": 1085396,
-    "Fertility Rate": 61.77
+    "Fertility Rate": 61.77,
+    "Median Income": 55425
   },
   {
     "State": "Wyoming",
@@ -1356,7 +1506,8 @@
     "Total Population": 582658,
     "Birth Rate": 13.12,
     "Female Population": 110241,
-    "Fertility Rate": 69.34
+    "Fertility Rate": 69.34,
+    "Median Income": 67441
   },
   {
     "State": "Wyoming",
@@ -1365,7 +1516,8 @@
     "Total Population": 584153,
     "Birth Rate": 13.17,
     "Female Population": 110821,
-    "Fertility Rate": 69.45
+    "Fertility Rate": 69.45,
+    "Median Income": 55690
   },
   {
     "State": "Wyoming",
@@ -1374,6 +1526,7 @@
     "Total Population": 586107,
     "Birth Rate": 13.25,
     "Female Population": 110670,
-    "Fertility Rate": 70.16
+    "Fertility Rate": 70.16,
+    "Median Income": 60925
   }
 ]
