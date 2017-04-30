@@ -136,7 +136,7 @@ div.leaflet-popup-tip {
     position: absolute;
     width: 100%;
     top: 10%;
-    height: 10%;
+    height: 8%;
     overflow: hidden;
     white-space: nowrap;
 }
@@ -159,6 +159,7 @@ div.leaflet-popup-tip {
     text-align: right;
     float:left;
     clear: both;
+    padding-bottom: 5px;
 }
 
 .selector {
@@ -174,7 +175,7 @@ div.leaflet-popup-tip {
 #d3-elements {
     position: absolute;
     width: 100%;
-    top: 20%;
+    top: 18%;
     height: 80%;
 }
 
