@@ -193,7 +193,7 @@ function generateMap(dataNatality, elementID) {
             map.legendControl.addLegend(getLegendHTML_birth());
             map.legendControl.removeLegend(getLegendHTML_female());
             map.legendControl.removeLegend(getLegendHTML_income());
-            updateScatter("#d3-elements", "avg_birth", "Number of Birth (2013-2015)");
+            updateScatter("#d3-elements", "avg_birth", "Number of Birth");
         } else if ($(this).val() == "female_pop") {
             map.setView([40, -96], 4);
             map.addLayer(womenLayer);
@@ -202,7 +202,7 @@ function generateMap(dataNatality, elementID) {
             map.legendControl.addLegend(getLegendHTML_female());
             map.legendControl.removeLegend(getLegendHTML_birth());
             map.legendControl.removeLegend(getLegendHTML_income());
-            updateScatter("#d3-elements", "avg_female", "Number of Female (2013-2015)");
+            updateScatter("#d3-elements", "avg_female", "Female Population");
         } else if ($(this).val() == "median_income") {
             map.setView([40, -96], 4);
             map.addLayer(incomeLayer);
@@ -211,7 +211,7 @@ function generateMap(dataNatality, elementID) {
             map.legendControl.addLegend(getLegendHTML_income());
             map.legendControl.removeLegend(getLegendHTML_birth());
             map.legendControl.removeLegend(getLegendHTML_female());
-            updateScatter("#d3-elements", "avg_income", "Median Income ($) (2013-2015)");
+            updateScatter("#d3-elements", "avg_income", "Median Income ($)");
         } else if ($(this).val() == "female_tobacco") {
             // map.setView([40, -96], 4);
             // map.addLayer(incomeLayer);
@@ -220,7 +220,7 @@ function generateMap(dataNatality, elementID) {
             // map.legendControl.addLegend(getLegendHTML_income());
             // map.legendControl.removeLegend(getLegendHTML_birth());
             // map.legendControl.removeLegend(getLegendHTML_female());
-            updateScatter("#d3-elements", "female_tobacco", "Female Tobacco Use (%) (2013-2015)");
+            updateScatter("#d3-elements", "female_tobacco", "Female Tobacco Use (%)");
         }
     });
 
@@ -418,17 +418,17 @@ function generateMap(dataNatality, elementID) {
     map.legendControl.addLegend(getLegendHTML_birth());
 
     function getLegendHTML_birth() {
-        var Legends = getLegend("Population Growth (2013-2015)", "avg_birth", 4, 10, 1000, 1, "k");
+        var Legends = getLegend("Population Growth", "avg_birth", 4, 10, 1000, 1, "k");
         return Legends;
     }
 
     function getLegendHTML_female() {
-        var Legends = getLegend("Female Population (2013-2015)", "avg_female", 5, 1, 100000, 10, "m");
+        var Legends = getLegend("Female Population", "avg_female", 5, 1, 100000, 10, "m");
         return Legends;
     }
 
     function getLegendHTML_income() {
-        var Legends = getLegend("Median Income ($) (2013-2015)", "avg_income", 3, 1, 1000, 1, "k");
+        var Legends = getLegend("Median Income ($)", "avg_income", 3, 1, 1000, 1, "k");
         return Legends;
     }
 
@@ -504,16 +504,16 @@ function generateScatter(divId) {
         .attr("font-size", "10px")
         .attr("font-family", "HelveticaNeue-Light, Helvetica, sans-serif")
         .attr("fill", "white")
-        .text("Birth Rate per 1000")
+        .text("Birth Rate per 1000 Population")
 
     scaSvg.append("text")
         .attr("class", "textX")
-        .attr("x", scaW / 5)
+        .attr("x", scaW / 3.5)
         .attr("y", scaH + 35)
         .attr("font-size", "10px")
         .attr("font-family", "HelveticaNeue-Light, Helvetica, sans-serif")
         .attr("fill", "white")
-        .text("Number of Birth (2013-2015)")
+        .text("Number of Birth")
 
 }
 
