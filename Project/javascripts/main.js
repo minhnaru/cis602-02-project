@@ -482,8 +482,6 @@ function generateScatter(divId) {
         .attr("fill", "#1DFF84")
         .attr("opacity", 0.5)
 
-    console.log(ussData.features[0].properties.natalities[0]["Birth Rate"]);
-
     // create axis
     var scaXAxis = d3.axisBottom(scaX).ticks(5);
     var scaYAxis = d3.axisLeft(scaY).ticks(5);
