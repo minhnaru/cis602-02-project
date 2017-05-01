@@ -177,6 +177,8 @@ div.leaflet-popup-tip {
     width: 100%;
     top: 18%;
     height: 80%;
+    font-size: 9px;
+    font-family: "HelveticaNeue-Light", Helvetica, sans-serif;
 }
 
 #about {
@@ -247,7 +249,7 @@ div.leaflet-popup-tip {
     position: absolute;
 }*/
 
-.xA text {
+.xA {
     font-size: 9px;
     font-family: "HelveticaNeue-Light", Helvetica, sans-serif;
     stroke: white;

@@ -16,19 +16,19 @@ function about() {
 
 function processData (dataNatality) {
     // calculate total birth
-    var totalBirth = _(dataNatality)
+    var avgBirth = _(dataNatality)
         .groupBy("State")
         .map((v, k) => ({
             State: k,
-            Births: _.sumBy(v, "Births")
+            Births: Math.round((_.sumBy(v, "Births") / 3) * 1) / 1
         })).value();
 
     // calculate total female population
-    var totalFemale = _(dataNatality)
+    var avgFemale = _(dataNatality)
         .groupBy("State")
         .map((v, k) => ({
             State: k,
-            Female: _.sumBy(v, "Female Population")
+            Female: Math.round((_.sumBy(v, "Female Population") / 3) * 1) / 1
         })).value();
 
     // calculate average birth rate
@@ -44,24 +44,33 @@ function processData (dataNatality) {
         .groupBy("State")
         .map((v, k) => ({
             State: k,
-            Income: Math.round((_.sumBy(v, "Median Income") / 3) * 100) / 100
+            Income: Math.round((_.sumBy(v, "Median Income") / 3) * 1) / 1
+        })).value();
+
+    // calculate female tobacco use
+    var femaleTobacco = _(dataNatality)
+        .groupBy("State")
+        .map((v, k) => ({
+            State: k,
+            Tobacco: Math.round((_.sumBy(v, "Female Tobacco Use") / 3) * 10) / 10
         })).value();
 
     // combine total data
     _.each(ussData.features, function(d) {
-        d.properties.total_birth = {};
-        d.properties.total_female = {};
+        d.properties.avg_birth = {};
+        d.properties.avg_female = {};
         d.properties.avg_birthrate = {};
         d.properties.avg_income = {};
+        d.properties.female_tobacco = {};
         var state = d.properties.name;
-        _.each(totalBirth, function(n) {
+        _.each(avgBirth, function(n) {
             if (n.State == state) {
-                d.properties.total_birth = n["Births"];
+                d.properties.avg_birth = n["Births"];
             }
         });
-        _.each(totalFemale, function(n) {
+        _.each(avgFemale, function(n) {
             if (n.State == state) {
-                d.properties.total_female = n["Female"];
+                d.properties.avg_female = n["Female"];
             }
         });
         _.each(avgBirthRate, function(n) {
@@ -72,6 +81,11 @@ function processData (dataNatality) {
         _.each(avgIncome, function(n) {
             if (n.State == state) {
                 d.properties.avg_income = n["Income"];
+            }
+        });
+        _.each(femaleTobacco, function(n) {
+            if (n.State == state) {
+                d.properties.female_tobacco = n["Tobacco"];
             }
         });
     });
@@ -89,7 +103,8 @@ function processData (dataNatality) {
                     "Birth Rate": n["Birth Rate"],
                     "Female Population": n["Female Population"],
                     "Fertility Rate": n["Fertility Rate"],
-                    "Median Income": n["Median Income"]
+                    "Median Income": n["Median Income"],
+                    "Female Tobacco Use": n["Female Tobacco Use"]
                 };
                 d.properties.natalities.push(tmp);
             }
@@ -121,6 +136,8 @@ function getLegend(legendTitle, propAttr, zeroCount, range, multiLegend, normNum
     });
     var grades = [];
     v.map(function(d) { grades.push(Math.round( d / Math.pow(10,zeroCount))*range) });
+    // console.log(grades);
+    // console.log(v);
     
     var labels1 = [],
     labels2 = [],
@@ -165,7 +182,7 @@ function generateMap(dataNatality, elementID) {
     // // init default map layer
     map.addLayer(growthLayer);
 
-    // change map layer on change
+    // change map layer on selector
     $('#layer-selector').change(function(event) {
         event.preventDefault();
         if ($(this).val() == "pop_growth") {
@@ -176,7 +193,8 @@ function generateMap(dataNatality, elementID) {
             map.legendControl.addLegend(getLegendHTML_birth());
             map.legendControl.removeLegend(getLegendHTML_female());
             map.legendControl.removeLegend(getLegendHTML_income());
-        } else if ($(this).val() == "women_pop") {
+            updateScatter("#d3-elements", "avg_birth", "Number of Birth (2013-2015)");
+        } else if ($(this).val() == "female_pop") {
             map.setView([40, -96], 4);
             map.addLayer(womenLayer);
             map.removeLayer(growthLayer);
@@ -184,6 +202,7 @@ function generateMap(dataNatality, elementID) {
             map.legendControl.addLegend(getLegendHTML_female());
             map.legendControl.removeLegend(getLegendHTML_birth());
             map.legendControl.removeLegend(getLegendHTML_income());
+            updateScatter("#d3-elements", "avg_female", "Number of Female (2013-2015)");
         } else if ($(this).val() == "median_income") {
             map.setView([40, -96], 4);
             map.addLayer(incomeLayer);
@@ -192,6 +211,16 @@ function generateMap(dataNatality, elementID) {
             map.legendControl.addLegend(getLegendHTML_income());
             map.legendControl.removeLegend(getLegendHTML_birth());
             map.legendControl.removeLegend(getLegendHTML_female());
+            updateScatter("#d3-elements", "avg_income", "Median Income ($) (2013-2015)");
+        } else if ($(this).val() == "female_tobacco") {
+            // map.setView([40, -96], 4);
+            // map.addLayer(incomeLayer);
+            // map.removeLayer(growthLayer);
+            // map.removeLayer(womenLayer);
+            // map.legendControl.addLegend(getLegendHTML_income());
+            // map.legendControl.removeLegend(getLegendHTML_birth());
+            // map.legendControl.removeLegend(getLegendHTML_female());
+            updateScatter("#d3-elements", "female_tobacco", "Female Tobacco Use (%) (2013-2015)");
         }
     });
 
@@ -201,7 +230,7 @@ function generateMap(dataNatality, elementID) {
             opacity: 0.7,
             color: 'white',
             fillOpacity: 0.7,
-            fillColor: getColor(d.properties.total_birth, 20000, 70000, 120000, 170000, 260000, 390000, 1190000)
+            fillColor: getColor(d.properties.avg_birth, 10000, 20000, 40000, 60000, 90000, 130000, 400000)
         };
     }
 
@@ -211,7 +240,7 @@ function generateMap(dataNatality, elementID) {
             opacity: 0.7,
             color: 'white',
             fillOpacity: 0.7,
-            fillColor: getColor(d.properties.total_female, 300000, 1000000, 1800000, 2600000, 4100000, 6300000, 16900000)
+            fillColor: getColor(d.properties.avg_female, 100000, 300000, 600000, 900000, 1400000, 2100000, 5600000)
         };
     }
 
@@ -280,7 +309,7 @@ function generateMap(dataNatality, elementID) {
         var layer = e.target;
 
         // decimal number format
-        var dec = layer.feature.properties.total_birth;
+        var dec = layer.feature.properties.avg_birth;
         var value = dec.toLocaleString('en-US', {
             minimumFractionDigits: 0
         });
@@ -308,7 +337,7 @@ function generateMap(dataNatality, elementID) {
         var layer = e.target;
 
         // decimal number format
-        var dec = layer.feature.properties.total_female;
+        var dec = layer.feature.properties.avg_female;
         var value = dec.toLocaleString('en-US', {
             minimumFractionDigits: 0
         });
@@ -389,12 +418,12 @@ function generateMap(dataNatality, elementID) {
     map.legendControl.addLegend(getLegendHTML_birth());
 
     function getLegendHTML_birth() {
-        var Legends = getLegend("Population Growth (2013-2015)", "total_birth", 4, 10, 1000, 1, "k");
+        var Legends = getLegend("Population Growth (2013-2015)", "avg_birth", 4, 10, 1000, 1, "k");
         return Legends;
     }
 
     function getLegendHTML_female() {
-        var Legends = getLegend("Female Population (2013-2015)", "total_female", 5, 1, 100000, 10, "m");
+        var Legends = getLegend("Female Population (2013-2015)", "avg_female", 5, 1, 100000, 10, "m");
         return Legends;
     }
 
@@ -405,21 +434,28 @@ function generateMap(dataNatality, elementID) {
 
 }
 
+var scaMargin = {top: 10, bottom: 10, left: 55, right: 30},
+    scaW = 300 - scaMargin.left - scaMargin.right,
+    scaH = 190 - scaMargin.top - scaMargin.bottom,
+    scaX = d3.scaleLinear().range([0, scaW]),
+    scaY = d3.scaleLinear().range([scaH, 0]);
+
 function generateScatter(divId) {
 
     console.log(ussData);
     // console.log(ussData.eatures[0].properties.natalities[0]["Birth Rate"]);
 
-    // init variable
-    var scaMargin = {top: 10, bottom: 10, left: 55, right: 30},
-        scaW = 300 - scaMargin.left - scaMargin.right,
-        scaH = 190 - scaMargin.top - scaMargin.bottom,
-        scaX = d3.scaleLinear().range([0, scaW]),
-        scaY = d3.scaleLinear().range([scaH, 0]),
-        data = ussData.features;
+    // // init variable
+    // var scaMargin = {top: 10, bottom: 10, left: 55, right: 30},
+    //     scaW = 300 - scaMargin.left - scaMargin.right,
+    //     scaH = 190 - scaMargin.top - scaMargin.bottom,
+    //     scaX = d3.scaleLinear().range([0, scaW]),
+    //     scaY = d3.scaleLinear().range([scaH, 0]),
+    //     data = ussData.features;
+    var data = ussData.features;
 
-    scaX.domain([d3.min(data, function(d) { return d.properties.avg_income; }) / 1.05,
-                 d3.max(data, function(d) { return d.properties.avg_income; }) * 1.05]);
+    scaX.domain([d3.min(data, function(d) { return d.properties.avg_birth; }) / 1.05,
+                 d3.max(data, function(d) { return d.properties.avg_birth; }) * 1.05]);
     scaY.domain([d3.min(data, function(d) { return d.properties.avg_birthrate; }) / 1.2,
                  d3.max(data, function(d) { return d.properties.avg_birthrate; }) * 1.05]);
 
@@ -440,9 +476,8 @@ function generateScatter(divId) {
         .data(data)
         .enter()
         .append("circle")
-        .attr("cx", function(d){ return scaX(d.properties.avg_income); })
+        .attr("cx", function(d){ return scaX(d.properties.avg_birth); })
         .attr("cy", function(d){ return scaY(d.properties.avg_birthrate); })
-        // .attr("cy", function(d){ return 20; })
         .attr("r", 4)
         .attr("fill", "#1DFF84")
         .attr("opacity", 0.5)
@@ -480,12 +515,39 @@ function generateScatter(divId) {
         .attr("font-size", "10px")
         .attr("font-family", "HelveticaNeue-Light, Helvetica, sans-serif")
         .attr("fill", "white")
-        .text("Median Income ($) (2013-2015)")
-    
+        .text("Number of Birth (2013-2015)")
+
 }
 
-function updateScatter() {
+function updateScatter(divId, value, text) {
+    var data = ussData.features;
 
+    var scaSvg = d3.select(divId);
+    //update x Axis
+    scaX.domain([d3.min(data, function(d) { return d.properties[value]; }) / 1.05,
+                 d3.max(data, function(d) { return d.properties[value]; }) * 1.05]);
+    //update circle
+    scaSvg.selectAll("circle")
+        .data(data)
+        .transition()
+        .duration(1500)
+        .attr("cx", function(d){ return scaX(d.properties[value]); })
+        .attr("r", 4)
+        .attr("fill", "#1DFF84")
+        .attr("opacity", 0.5)
+
+    //update x Axis variable
+    var scaXAxis = d3.axisBottom(scaX).ticks(5);
+
+    scaSvg.select(".xA")
+        .transition()
+        .duration(1500)
+        .call(scaXAxis)
+
+    scaSvg.select(".textX")
+        .transition()
+        .duration(1500)
+        .text(text)
 }
 
 function createVis(errors, dataNatality, elementID)
