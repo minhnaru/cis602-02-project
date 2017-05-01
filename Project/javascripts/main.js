@@ -156,7 +156,7 @@ function getLegend(legendTitle, propAttr, zeroCount, range, multiLegend, normNum
 }
 
 // function to create Population Growth & Women Population choropleth map
-function generateMap(dataNatality, elementID) {
+function generateMap(dataNatality, elementID, divId) {
 
     // display a map
     L.mapbox.accessToken = 'pk.eyJ1IjoibmFydW1pbmgiLCJhIjoiY2oxY3dvanlrMDAwdTJ3bzE5bnl4Mmk1ZyJ9.694Vl0Mc9dqbPrkL0svBhQ';
@@ -412,6 +412,10 @@ function generateMap(dataNatality, elementID) {
 
     function zoomToFeature(e) {
         map.fitBounds(e.target.getBounds());
+
+        var layer = e.target;
+        var selectedTitle = layer.feature.properties.name;
+        updateLine(divId, dataNatality, selectedTitle);
     }
 
     // init population growth legend
@@ -434,6 +438,7 @@ function generateMap(dataNatality, elementID) {
 
 }
 
+// global variable for scatter map
 var scaMargin = {top: 10, bottom: 10, left: 55, right: 30},
     scaW = 300 - scaMargin.left - scaMargin.right,
     scaH = 190 - scaMargin.top - scaMargin.bottom,
@@ -461,13 +466,13 @@ function generateScatter(divId) {
 
     // create svg
     var scaSvg = d3.select(divId)
-        // .append("div")
-        // .classed("svg-container", true)
+        .append("div")
+        .classed("svg-container", true)
         .append("svg")
         .attr("preserveAspectRatio", "xMinYMin meet")
         .attr("viewBox", "0 0 300 220")
-        // .classed("svg-content-responsive", true)
-        .attr("class", "main")
+        .classed("svg-content-responsive", true)
+        .attr("class", "svg-container")
         .append("g")
         .attr("transform", "translate(" + scaMargin.left + "," + scaMargin.top + ")")
 
@@ -548,14 +553,111 @@ function updateScatter(divId, value, text) {
         .text(text)
 }
 
+// global variable for line chart
+var lineMargin = {top: 10, bottom: 10, left: 55, right: 30},
+    lineW = 300 - lineMargin.left - lineMargin.right,
+    lineH = 190 - lineMargin.top - lineMargin.bottom,
+    lineX = d3.scaleBand().rangeRound([0, lineW], .1).padding(5),
+    lineY = d3.scaleLinear().range([lineH, 0]);
+
+function generateLine(divId, data, selectCode) {
+
+    var dataset = data.filter(
+        function(d) { return (d.State == "Alabama"); }
+    );
+
+    var lineSvg = d3.select(divId).append("svg")
+        .attr("preserveAspectRatio", "xMinYMin meet")
+        .attr("viewBox", "0 0 300 220")
+        .attr("class", "svg-container-2")
+        .append("g")
+        .attr("transform", "translate(" + lineMargin.left + "," + lineMargin.top + ")");
+
+    lineX.domain(dataset.map(function(d) { return d["Year"]; }));
+    lineY.domain([ d3.min(dataset, function(d) { return +d["Birth Rate"]; }) / 1.05, d3.max(dataset, function(d) { return +d["Birth Rate"]; }) * 1.05 ]);
+
+    var line = d3.line()
+        .x(function(d) { return lineX(d["Year"]); })
+        .y(function(d) { return lineY(d["Birth Rate"]); });
+
+    lineSvg.append("path")
+        .datum(dataset)
+        .attr("class", "drawLine")
+        .attr("fill", "none")   
+        .attr("stroke", "#1DFF84")
+        .attr("stroke-width", 1.5)
+        .attr("opacity", 0.7)
+        .attr("d", line)
+
+    var lineXAxis = d3.axisBottom(lineX);
+    var lineYAxis = d3.axisLeft(lineY).ticks(5);
+
+    lineSvg.append("g")
+        .attr("transform", "translate(0," + lineH +")")
+        .attr("class", "xL")
+        .call(lineXAxis)
+
+    lineSvg.append("g")
+        .attr("class", "yL")
+        .call(lineYAxis)
+
+    lineSvg.append("g")
+        .attr("transform", "translate(-30," + (lineH/2) + ") rotate(-90)")
+        .append("text")
+        .attr("y", -5)
+        .style("text-anchor", "middle")
+        .attr("font-size", "10px")
+        .attr("font-family", "HelveticaNeue-Light, Helvetica, sans-serif")
+        .attr("fill", "white")
+        .text("Birth Rate per 1000 Population")
+
+    lineSvg.append("text")
+        .attr("x", lineW/2.5)
+        .attr("y", lineH + 35)
+        .attr("font-size", "10px")
+        .attr("font-family", "HelveticaNeue-Light, Helvetica, sans-serif")
+        .attr("fill", "white")
+        .text("Year")
+
+}
+
+function updateLine(divId, dataNatality, state) {
+    var dataset = dataNatality.filter(
+        function(d) { return (d.State == state); }
+    );
+
+    var lineSvg = d3.select(divId);
+
+    lineY.domain([ d3.min(dataset, function(d) { return +d["Birth Rate"]; }) / 1.05, d3.max(dataset, function(d) { return +d["Birth Rate"]; }) * 1.05 ]);
+
+    var line = d3.line()
+        .x(function(d) { return lineX(d["Year"]); })
+        .y(function(d) { return lineY(d["Birth Rate"]); });
+
+    lineSvg.select(".drawLine")
+        .datum(dataset)
+        .transition()
+        .duration(1000)
+            .attr("d", line)
+
+    var lineYAxis = d3.axisLeft(lineY).ticks(5);
+
+    lineSvg.select(".yL")
+        .transition()
+        .duration(1000)
+        .call(lineYAxis)
+
+}
+
 function createVis(errors, dataNatality, elementID)
 {
     if (errors) throw errors;
 
     about();
     processData(dataNatality);
-    generateMap(dataNatality, "map");
+    generateMap(dataNatality, "map", "#d3-elements");
     generateScatter("#d3-elements");
+    generateLine("#d3-elements", dataNatality, "Alabama");
 
 }
 

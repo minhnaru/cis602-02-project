@@ -269,3 +269,37 @@ div.leaflet-popup-tip {
 .domain {
     stroke: white;
 }
+
+.svg-container {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+}
+
+.svg-container-2 {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    top: 5%;
+}
+
+.svg-content-responsive {
+    display: inline-block;
+    position: absolute;
+}
+
+.xL {
+    font-size: 9px;
+    font-family: "HelveticaNeue-Light", Helvetica, sans-serif;
+    stroke: white;
+}
+
+.xL line {
+    stroke: white;
+}
+
+.yL text {
+    font-size: 9px;
+    font-family: "HelveticaNeue-Light", Helvetica, sans-serif;
+    stroke: white;
+}

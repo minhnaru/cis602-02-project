@@ -8,7 +8,8 @@
     "Female Population": 959756,
     "Fertility Rate": 60.61,
     "Median Income": 47320,
-    "Female Tobacco Use": 18.2
+    "Female Tobacco Use": 18.2,
+    "Infant Death Rate": 8.6
   },
   {
     "State": "Alabama",
@@ -19,7 +20,8 @@
     "Female Population": 961109,
     "Fertility Rate": 61.83,
     "Median Income": 42278,
-    "Female Tobacco Use": 19
+    "Female Tobacco Use": 19,
+    "Infant Death Rate": 8.67
   },
   {
     "State": "Alabama",
@@ -30,7 +32,8 @@
     "Female Population": 958981,
     "Fertility Rate": 62.21,
     "Median Income": 44509,
-    "Female Tobacco Use": 19.2
+    "Female Tobacco Use": 19.2,
+    "Infant Death Rate": 8.7
   },
   {
     "State": "Alaska",
@@ -41,7 +44,8 @@
     "Female Population": 147110,
     "Fertility Rate": 77.81,
     "Median Income": 72472,
-    "Female Tobacco Use": 22.2
+    "Female Tobacco Use": 22.2,
+    "Infant Death Rate": 5.77
   },
   {
     "State": "Alaska",
@@ -52,7 +56,8 @@
     "Female Population": 147302,
     "Fertility Rate": 77.34,
     "Median Income": 67629,
-    "Female Tobacco Use": 18.4
+    "Female Tobacco Use": 18.4,
+    "Infant Death Rate": 6.67
   },
   {
     "State": "Alaska",
@@ -63,7 +68,8 @@
     "Female Population": 146514,
     "Fertility Rate": 77,
     "Median Income": 75112,
-    "Female Tobacco Use": 18.5
+    "Female Tobacco Use": 18.5,
+    "Infant Death Rate": 5.4
   },
   {
     "State": "Arizona",
@@ -74,7 +80,8 @@
     "Female Population": 1290612,
     "Fertility Rate": 66.33,
     "Median Income": 52611,
-    "Female Tobacco Use": 13.5
+    "Female Tobacco Use": 13.5,
+    "Infant Death Rate": 5.25
   },
   {
     "State": "Arizona",
@@ -85,7 +92,8 @@
     "Female Population": 1308000,
     "Fertility Rate": 66.43,
     "Median Income": 49254,
-    "Female Tobacco Use": 13.9
+    "Female Tobacco Use": 13.9,
+    "Infant Death Rate": 6.1
   },
   {
     "State": "Arizona",
@@ -96,7 +104,8 @@
     "Female Population": 1319880,
     "Fertility Rate": 64.67,
     "Median Income": 52248,
-    "Female Tobacco Use": 12
+    "Female Tobacco Use": 12,
+    "Infant Death Rate": 5.5
   },
   {
     "State": "Arkansas",
@@ -107,7 +116,8 @@
     "Female Population": 574203,
     "Fertility Rate": 65.89,
     "Median Income": 39376,
-    "Female Tobacco Use": 25.2
+    "Female Tobacco Use": 25.2,
+    "Infant Death Rate": 7.85
   },
   {
     "State": "Arkansas",
@@ -118,7 +128,8 @@
     "Female Population": 574772,
     "Fertility Rate": 67,
     "Median Income": 44922,
-    "Female Tobacco Use": 23.4
+    "Female Tobacco Use": 23.4,
+    "Infant Death Rate": 7.48
   },
   {
     "State": "Arkansas",
@@ -129,7 +140,8 @@
     "Female Population": 576460,
     "Fertility Rate": 67.46,
     "Median Income": 42798,
-    "Female Tobacco Use": 22.1
+    "Female Tobacco Use": 22.1,
+    "Infant Death Rate": 7.5
   },
   {
     "State": "California",
@@ -140,7 +152,8 @@
     "Female Population": 7982855,
     "Fertility Rate": 61.97,
     "Median Income": 60794,
-    "Female Tobacco Use": 9.1
+    "Female Tobacco Use": 9.1,
+    "Infant Death Rate": 4.76
   },
   {
     "State": "California",
@@ -151,7 +164,8 @@
     "Female Population": 8061479,
     "Fertility Rate": 62.38,
     "Median Income": 60487,
-    "Female Tobacco Use": 9.5
+    "Female Tobacco Use": 9.5,
+    "Infant Death Rate": 4.32
   },
   {
     "State": "California",
@@ -162,7 +176,8 @@
     "Female Population": 8084612,
     "Fertility Rate": 60.83,
     "Median Income": 63636,
-    "Female Tobacco Use": 8.3
+    "Female Tobacco Use": 8.3,
+    "Infant Death Rate": 4.6
   },
   {
     "State": "Colorado",
@@ -173,7 +188,8 @@
     "Female Population": 1065777,
     "Fertility Rate": 60.99,
     "Median Income": 67912,
-    "Female Tobacco Use": 16.4
+    "Female Tobacco Use": 16.4,
+    "Infant Death Rate": 5.12
   },
   {
     "State": "Colorado",
@@ -184,7 +200,8 @@
     "Female Population": 1084623,
     "Fertility Rate": 60.69,
     "Median Income": 60940,
-    "Female Tobacco Use": 14.6
+    "Female Tobacco Use": 14.6,
+    "Infant Death Rate": 4.79
   },
   {
     "State": "Colorado",
@@ -195,7 +212,8 @@
     "Female Population": 1106534,
     "Fertility Rate": 60.17,
     "Median Income": 66596,
-    "Female Tobacco Use": 14.2
+    "Female Tobacco Use": 14.2,
+    "Infant Death Rate": 4.8
   },
   {
     "State": "Connecticut",
@@ -206,7 +224,8 @@
     "Female Population": 684995,
     "Fertility Rate": 52.68,
     "Median Income": 69291,
-    "Female Tobacco Use": 14.3
+    "Female Tobacco Use": 14.3,
+    "Infant Death Rate": 4.79
   },
   {
     "State": "Connecticut",
@@ -217,7 +236,8 @@
     "Female Population": 684158,
     "Fertility Rate": 53.04,
     "Median Income": 70161,
-    "Female Tobacco Use": 13.5
+    "Female Tobacco Use": 13.5,
+    "Infant Death Rate": 4.82
   },
   {
     "State": "Connecticut",
@@ -228,7 +248,8 @@
     "Female Population": 680629,
     "Fertility Rate": 52.52,
     "Median Income": 72889,
-    "Female Tobacco Use": 10.9
+    "Female Tobacco Use": 10.9,
+    "Infant Death Rate": 5
   },
   {
     "State": "Delaware",
@@ -239,7 +260,8 @@
     "Female Population": 179522,
     "Fertility Rate": 60.33,
     "Median Income": 54091,
-    "Female Tobacco Use": 17.3
+    "Female Tobacco Use": 17.3,
+    "Infant Death Rate": 6.37
   },
   {
     "State": "Delaware",
@@ -250,7 +272,8 @@
     "Female Population": 180400,
     "Fertility Rate": 60.82,
     "Median Income": 57522,
-    "Female Tobacco Use": 16.6
+    "Female Tobacco Use": 16.6,
+    "Infant Death Rate": 6.74
   },
   {
     "State": "Delaware",
@@ -261,7 +284,8 @@
     "Female Population": 180812,
     "Fertility Rate": 61.75,
     "Median Income": 57756,
-    "Female Tobacco Use": 14.2
+    "Female Tobacco Use": 14.2,
+    "Infant Death Rate": 7
   },
   {
     "State": "District of Columbia",
@@ -272,7 +296,8 @@
     "Female Population": 174288,
     "Fertility Rate": 53.29,
     "Median Income": 60057,
-    "Female Tobacco Use": 14.7
+    "Female Tobacco Use": 14.7,
+    "Infant Death Rate": 6.68
   },
   {
     "State": "District of Columbia",
@@ -283,7 +308,8 @@
     "Female Population": 177568,
     "Fertility Rate": 53.55,
     "Median Income": 68277,
-    "Female Tobacco Use": 14.6
+    "Female Tobacco Use": 14.6,
+    "Infant Death Rate": 7.47
   },
   {
     "State": "District of Columbia",
@@ -294,7 +320,8 @@
     "Female Population": 181381,
     "Fertility Rate": 52.81,
     "Median Income": 70071,
-    "Female Tobacco Use": 16.1
+    "Female Tobacco Use": 16.1,
+    "Infant Death Rate": 7.3
   },
   {
     "State": "Florida",
@@ -305,7 +332,8 @@
     "Female Population": 3634590,
     "Fertility Rate": 59.27,
     "Median Income": 48532,
-    "Female Tobacco Use": 14.4
+    "Female Tobacco Use": 14.4,
+    "Infant Death Rate": 6.14
   },
   {
     "State": "Florida",
@@ -316,7 +344,8 @@
     "Female Population": 3687140,
     "Fertility Rate": 59.66,
     "Median Income": 46140,
-    "Female Tobacco Use": 15.5
+    "Female Tobacco Use": 15.5,
+    "Infant Death Rate": 6.11
   },
   {
     "State": "Florida",
@@ -327,7 +356,8 @@
     "Female Population": 3740217,
     "Fertility Rate": 59.96,
     "Median Income": 48825,
-    "Female Tobacco Use": 14.3
+    "Female Tobacco Use": 14.3,
+    "Infant Death Rate": 6.1
   },
   {
     "State": "Georgia",
@@ -338,7 +368,8 @@
     "Female Population": 2089387,
     "Fertility Rate": 61.62,
     "Median Income": 46992,
-    "Female Tobacco Use": 15.4
+    "Female Tobacco Use": 15.4,
+    "Infant Death Rate": 6.98
   },
   {
     "State": "Georgia",
@@ -349,7 +380,8 @@
     "Female Population": 2104573,
     "Fertility Rate": 62.22,
     "Median Income": 49555,
-    "Female Tobacco Use": 13.6
+    "Female Tobacco Use": 13.6,
+    "Infant Death Rate": 7.52
   },
   {
     "State": "Georgia",
@@ -360,7 +392,8 @@
     "Female Population": 2119884,
     "Fertility Rate": 61.99,
     "Median Income": 50768,
-    "Female Tobacco Use": 15.5
+    "Female Tobacco Use": 15.5,
+    "Infant Death Rate": 6.6
   },
   {
     "State": "Hawaii",
@@ -371,7 +404,8 @@
     "Female Population": 265474,
     "Fertility Rate": 71.52,
     "Median Income": 64235,
-    "Female Tobacco Use": 11.6
+    "Female Tobacco Use": 11.6,
+    "Infant Death Rate": 6.37
   },
   {
     "State": "Hawaii",
@@ -382,7 +416,8 @@
     "Female Population": 267712,
     "Fertility Rate": 69.29,
     "Median Income": 71223,
-    "Female Tobacco Use": 12.1
+    "Female Tobacco Use": 12.1,
+    "Infant Death Rate": 4.47
   },
   {
     "State": "Hawaii",
@@ -393,7 +428,8 @@
     "Female Population": 268188,
     "Fertility Rate": 68.68,
     "Median Income": 64514,
-    "Female Tobacco Use": 10.8
+    "Female Tobacco Use": 10.8,
+    "Infant Death Rate": 5.6
   },
   {
     "State": "Idaho",
@@ -404,7 +440,8 @@
     "Female Population": 311712,
     "Fertility Rate": 71.81,
     "Median Income": 48467,
-    "Female Tobacco Use": 15
+    "Female Tobacco Use": 15,
+    "Infant Death Rate": 5.63
   },
   {
     "State": "Idaho",
@@ -415,7 +452,8 @@
     "Female Population": 314852,
     "Fertility Rate": 72.66,
     "Median Income": 53438,
-    "Female Tobacco Use": 15.5
+    "Female Tobacco Use": 15.5,
+    "Infant Death Rate": 5.33
   },
   {
     "State": "Idaho",
@@ -426,7 +464,8 @@
     "Female Population": 317807,
     "Fertility Rate": 71.83,
     "Median Income": 51624,
-    "Female Tobacco Use": 13
+    "Female Tobacco Use": 13,
+    "Infant Death Rate": 5.5
   },
   {
     "State": "Illinois",
@@ -437,7 +476,8 @@
     "Female Population": 2603359,
     "Fertility Rate": 60.28,
     "Median Income": 53937,
-    "Female Tobacco Use": 15
+    "Female Tobacco Use": 15,
+    "Infant Death Rate": 5.97
   },
   {
     "State": "Illinois",
@@ -448,7 +488,8 @@
     "Female Population": 2596483,
     "Fertility Rate": 61.07,
     "Median Income": 54916,
-    "Female Tobacco Use": 14.5
+    "Female Tobacco Use": 14.5,
+    "Infant Death Rate": 6.58
   },
   {
     "State": "Illinois",
@@ -459,7 +500,8 @@
     "Female Population": 2577634,
     "Fertility Rate": 61.34,
     "Median Income": 60413,
-    "Female Tobacco Use": 12.8
+    "Female Tobacco Use": 12.8,
+    "Infant Death Rate": 6.2
   },
   {
     "State": "Indiana",
@@ -470,7 +512,8 @@
     "Female Population": 1292138,
     "Fertility Rate": 64.31,
     "Median Income": 49455,
-    "Female Tobacco Use": 20.4
+    "Female Tobacco Use": 20.4,
+    "Infant Death Rate": 7.24
   },
   {
     "State": "Indiana",
@@ -481,7 +524,8 @@
     "Female Population": 1295431,
     "Fertility Rate": 64.91,
     "Median Income": 48060,
-    "Female Tobacco Use": 21.5
+    "Female Tobacco Use": 21.5,
+    "Infant Death Rate": 7.08
   },
   {
     "State": "Indiana",
@@ -492,7 +536,8 @@
     "Female Population": 1296510,
     "Fertility Rate": 64.82,
     "Median Income": 51983,
-    "Female Tobacco Use": 19.3
+    "Female Tobacco Use": 19.3,
+    "Infant Death Rate": 7
   },
   {
     "State": "Iowa",
@@ -503,7 +548,8 @@
     "Female Population": 582884,
     "Fertility Rate": 67.07,
     "Median Income": 60156,
-    "Female Tobacco Use": 16.6
+    "Female Tobacco Use": 16.6,
+    "Infant Death Rate": 4.25
   },
   {
     "State": "Iowa",
@@ -514,7 +560,8 @@
     "Female Population": 585645,
     "Fertility Rate": 67.77,
     "Median Income": 57810,
-    "Female Tobacco Use": 17.2
+    "Female Tobacco Use": 17.2,
+    "Infant Death Rate": 4.76
   },
   {
     "State": "Iowa",
@@ -525,7 +572,8 @@
     "Female Population": 588384,
     "Fertility Rate": 67.1,
     "Median Income": 60855,
-    "Female Tobacco Use": 16.7
+    "Female Tobacco Use": 16.7,
+    "Infant Death Rate": 4.8
   },
   {
     "State": "Kansas",
@@ -536,7 +584,8 @@
     "Female Population": 558538,
     "Fertility Rate": 69.54,
     "Median Income": 47820,
-    "Female Tobacco Use": 17.8
+    "Female Tobacco Use": 17.8,
+    "Infant Death Rate": 6.49
   },
   {
     "State": "Kansas",
@@ -547,7 +596,8 @@
     "Female Population": 560331,
     "Fertility Rate": 70,
     "Median Income": 53444,
-    "Female Tobacco Use": 16.7
+    "Female Tobacco Use": 16.7,
+    "Infant Death Rate": 6.2
   },
   {
     "State": "Kansas",
@@ -558,7 +608,8 @@
     "Female Population": 560142,
     "Fertility Rate": 69.9,
     "Median Income": 54865,
-    "Female Tobacco Use": 16.1
+    "Female Tobacco Use": 16.1,
+    "Infant Death Rate": 6.4
   },
   {
     "State": "Kentucky",
@@ -569,7 +620,8 @@
     "Female Population": 852992,
     "Fertility Rate": 65.28,
     "Median Income": 44879,
-    "Female Tobacco Use": 24.6
+    "Female Tobacco Use": 24.6,
+    "Infant Death Rate": 6.39
   },
   {
     "State": "Kentucky",
@@ -580,7 +632,8 @@
     "Female Population": 853601,
     "Fertility Rate": 65.8,
     "Median Income": 42786,
-    "Female Tobacco Use": 25.2
+    "Female Tobacco Use": 25.2,
+    "Infant Death Rate": 7.12
   },
   {
     "State": "Kentucky",
@@ -591,7 +644,8 @@
     "Female Population": 851631,
     "Fertility Rate": 65.72,
     "Median Income": 42387,
-    "Female Tobacco Use": 25.5
+    "Female Tobacco Use": 25.5,
+    "Infant Death Rate": 6.8
   },
   {
     "State": "Louisiana",
@@ -602,7 +656,8 @@
     "Female Population": 938719,
     "Fertility Rate": 67.33,
     "Median Income": 46425,
-    "Female Tobacco Use": 20
+    "Female Tobacco Use": 20,
+    "Infant Death Rate": 8.69
   },
   {
     "State": "Louisiana",
@@ -613,7 +668,8 @@
     "Female Population": 942656,
     "Fertility Rate": 68.42,
     "Median Income": 42406,
-    "Female Tobacco Use": 20.7
+    "Female Tobacco Use": 20.7,
+    "Infant Death Rate": 7.52
   },
   {
     "State": "Louisiana",
@@ -624,7 +680,8 @@
     "Female Population": 943958,
     "Fertility Rate": 68.53,
     "Median Income": 45922,
-    "Female Tobacco Use": 19.3
+    "Female Tobacco Use": 19.3,
+    "Infant Death Rate": 8.4
   },
   {
     "State": "Maine",
@@ -635,7 +692,8 @@
     "Female Population": 234970,
     "Fertility Rate": 54.37,
     "Median Income": 54957,
-    "Female Tobacco Use": 18.2
+    "Female Tobacco Use": 18.2,
+    "Infant Death Rate": 7.12
   },
   {
     "State": "Maine",
@@ -646,7 +704,8 @@
     "Female Population": 233832,
     "Fertility Rate": 54.3,
     "Median Income": 51710,
-    "Female Tobacco Use": 17.8
+    "Female Tobacco Use": 17.8,
+    "Infant Death Rate": 6.62
   },
   {
     "State": "Maine",
@@ -657,7 +716,8 @@
     "Female Population": 232112,
     "Fertility Rate": 54.31,
     "Median Income": 50756,
-    "Female Tobacco Use": 18.1
+    "Female Tobacco Use": 18.1,
+    "Infant Death Rate": 7
   },
   {
     "State": "Maryland",
@@ -668,7 +728,8 @@
     "Female Population": 1197064,
     "Fertility Rate": 60.11,
     "Median Income": 69353,
-    "Female Tobacco Use": 13.7
+    "Female Tobacco Use": 13.7,
+    "Infant Death Rate": 6.63
   },
   {
     "State": "Maryland",
@@ -679,7 +740,8 @@
     "Female Population": 1201916,
     "Fertility Rate": 61.5,
     "Median Income": 76165,
-    "Female Tobacco Use": 12.6
+    "Female Tobacco Use": 12.6,
+    "Infant Death Rate": 6.49
   },
   {
     "State": "Maryland",
@@ -690,7 +752,8 @@
     "Female Population": 1200564,
     "Fertility Rate": 61.32,
     "Median Income": 73594,
-    "Female Tobacco Use": 13.4
+    "Female Tobacco Use": 13.4,
+    "Infant Death Rate": 6.5
   },
   {
     "State": "Massachusetts",
@@ -701,7 +764,8 @@
     "Female Population": 1358679,
     "Fertility Rate": 52.84,
     "Median Income": 62529,
-    "Female Tobacco Use": 14.7
+    "Female Tobacco Use": 14.7,
+    "Infant Death Rate": 4.18
   },
   {
     "State": "Massachusetts",
@@ -712,7 +776,8 @@
     "Female Population": 1369202,
     "Fertility Rate": 52.52,
     "Median Income": 63151,
-    "Female Tobacco Use": 12.9
+    "Female Tobacco Use": 12.9,
+    "Infant Death Rate": 4.32
   },
   {
     "State": "Massachusetts",
@@ -723,7 +788,8 @@
     "Female Population": 1373958,
     "Fertility Rate": 52.03,
     "Median Income": 67861,
-    "Female Tobacco Use": 11.9
+    "Female Tobacco Use": 11.9,
+    "Infant Death Rate": 4.2
   },
   {
     "State": "Michigan",
@@ -734,7 +800,8 @@
     "Female Population": 1890426,
     "Fertility Rate": 60.03,
     "Median Income": 56567,
-    "Female Tobacco Use": 18.3
+    "Female Tobacco Use": 18.3,
+    "Infant Death Rate": 7.05
   },
   {
     "State": "Michigan",
@@ -745,7 +812,8 @@
     "Female Population": 1887778,
     "Fertility Rate": 60.59,
     "Median Income": 52005,
-    "Female Tobacco Use": 18.9
+    "Female Tobacco Use": 18.9,
+    "Infant Death Rate": 6.46
   },
   {
     "State": "Michigan",
@@ -756,7 +824,8 @@
     "Female Population": 1880657,
     "Fertility Rate": 60.25,
     "Median Income": 54203,
-    "Female Tobacco Use": 19.1
+    "Female Tobacco Use": 19.1,
+    "Infant Death Rate": 7
   },
   {
     "State": "Minnesota",
@@ -767,7 +836,8 @@
     "Female Population": 1049636,
     "Fertility Rate": 65.89,
     "Median Income": 64324,
-    "Female Tobacco Use": 16.7
+    "Female Tobacco Use": 16.7,
+    "Infant Death Rate": 5.06
   },
   {
     "State": "Minnesota",
@@ -778,7 +848,8 @@
     "Female Population": 1053340,
     "Fertility Rate": 66.36,
     "Median Income": 67244,
-    "Female Tobacco Use": 14.8
+    "Female Tobacco Use": 14.8,
+    "Infant Death Rate": 5.01
   },
   {
     "State": "Minnesota",
@@ -789,7 +860,8 @@
     "Female Population": 1054063,
     "Fertility Rate": 66.25,
     "Median Income": 68730,
-    "Female Tobacco Use": 14.8
+    "Female Tobacco Use": 14.8,
+    "Infant Death Rate": 5.1
   },
   {
     "State": "Mississippi",
@@ -800,7 +872,8 @@
     "Female Population": 601690,
     "Fertility Rate": 64.21,
     "Median Income": 32338,
-    "Female Tobacco Use": 22
+    "Female Tobacco Use": 22,
+    "Infant Death Rate": 9.6
   },
   {
     "State": "Mississippi",
@@ -811,7 +884,8 @@
     "Female Population": 601260,
     "Fertility Rate": 64.42,
     "Median Income": 35521,
-    "Female Tobacco Use": 22.7
+    "Female Tobacco Use": 22.7,
+    "Infant Death Rate": 8.18
   },
   {
     "State": "Mississippi",
@@ -822,7 +896,8 @@
     "Female Population": 599445,
     "Fertility Rate": 64.05,
     "Median Income": 40037,
-    "Female Tobacco Use": 18.4
+    "Female Tobacco Use": 18.4,
+    "Infant Death Rate": 9.3
   },
   {
     "State": "Missouri",
@@ -833,7 +908,8 @@
     "Female Population": 1174457,
     "Fertility Rate": 64.11,
     "Median Income": 46303,
-    "Female Tobacco Use": 20.1
+    "Female Tobacco Use": 20.1,
+    "Infant Death Rate": 6.52
   },
   {
     "State": "Missouri",
@@ -844,7 +920,8 @@
     "Female Population": 1176158,
     "Fertility Rate": 64.07,
     "Median Income": 56630,
-    "Female Tobacco Use": 19.4
+    "Female Tobacco Use": 19.4,
+    "Infant Death Rate": 6.12
   },
   {
     "State": "Missouri",
@@ -855,7 +932,8 @@
     "Female Population": 1176557,
     "Fertility Rate": 63.8,
     "Median Income": 59196,
-    "Female Tobacco Use": 21
+    "Female Tobacco Use": 21,
+    "Infant Death Rate": 6.6
   },
   {
     "State": "Montana",
@@ -866,7 +944,8 @@
     "Female Population": 184153,
     "Fertility Rate": 67.21,
     "Median Income": 43201,
-    "Female Tobacco Use": 17.3
+    "Female Tobacco Use": 17.3,
+    "Infant Death Rate": 5.57
   },
   {
     "State": "Montana",
@@ -877,7 +956,8 @@
     "Female Population": 185661,
     "Fertility Rate": 66.96,
     "Median Income": 51102,
-    "Female Tobacco Use": 19.9
+    "Female Tobacco Use": 19.9,
+    "Infant Death Rate": 5.79
   },
   {
     "State": "Montana",
@@ -888,7 +968,8 @@
     "Female Population": 186922,
     "Fertility Rate": 67.32,
     "Median Income": 51395,
-    "Female Tobacco Use": 18.5
+    "Female Tobacco Use": 18.5,
+    "Infant Death Rate": 5.8
   },
   {
     "State": "Nebraska",
@@ -899,7 +980,8 @@
     "Female Population": 361532,
     "Fertility Rate": 72.18,
     "Median Income": 57623,
-    "Female Tobacco Use": 17.2
+    "Female Tobacco Use": 17.2,
+    "Infant Death Rate": 5.21
   },
   {
     "State": "Nebraska",
@@ -910,7 +992,8 @@
     "Female Population": 364075,
     "Fertility Rate": 73.59,
     "Median Income": 56870,
-    "Female Tobacco Use": 16.2
+    "Female Tobacco Use": 16.2,
+    "Infant Death Rate": 5.08
   },
   {
     "State": "Nebraska",
@@ -921,7 +1004,8 @@
     "Female Population": 366370,
     "Fertility Rate": 72.82,
     "Median Income": 60474,
-    "Female Tobacco Use": 15.8
+    "Female Tobacco Use": 15.8,
+    "Infant Death Rate": 4.9
   },
   {
     "State": "Nevada",
@@ -932,7 +1016,8 @@
     "Female Population": 557449,
     "Fertility Rate": 62.84,
     "Median Income": 51846,
-    "Female Tobacco Use": 18.1
+    "Female Tobacco Use": 18.1,
+    "Infant Death Rate": 5.31
   },
   {
     "State": "Nevada",
@@ -943,7 +1028,8 @@
     "Female Population": 566250,
     "Fertility Rate": 63.33,
     "Median Income": 49875,
-    "Female Tobacco Use": 13.7
+    "Female Tobacco Use": 13.7,
+    "Infant Death Rate": 5.52
   },
   {
     "State": "Nevada",
@@ -954,7 +1040,8 @@
     "Female Population": 573825,
     "Fertility Rate": 63.26,
     "Median Income": 52008,
-    "Female Tobacco Use": 14.6
+    "Female Tobacco Use": 14.6,
+    "Infant Death Rate": 5.1
   },
   {
     "State": "New Hampshire",
@@ -965,7 +1052,8 @@
     "Female Population": 244043,
     "Fertility Rate": 50.79,
     "Median Income": 69099,
-    "Female Tobacco Use": 15.8
+    "Female Tobacco Use": 15.8,
+    "Infant Death Rate": 5.57
   },
   {
     "State": "New Hampshire",
@@ -976,7 +1064,8 @@
     "Female Population": 243625,
     "Fertility Rate": 50.5,
     "Median Income": 73397,
-    "Female Tobacco Use": 16.7
+    "Female Tobacco Use": 16.7,
+    "Infant Death Rate": 4.39
   },
   {
     "State": "New Hampshire",
@@ -987,7 +1076,8 @@
     "Female Population": 242336,
     "Fertility Rate": 51.3,
     "Median Income": 75675,
-    "Female Tobacco Use": 15.4
+    "Female Tobacco Use": 15.4,
+    "Infant Death Rate": 4.9
   },
   {
     "State": "New Jersey",
@@ -998,7 +1088,8 @@
     "Female Population": 1721051,
     "Fertility Rate": 59.6,
     "Median Income": 63754,
-    "Female Tobacco Use": 13.9
+    "Female Tobacco Use": 13.9,
+    "Infant Death Rate": 4.51
   },
   {
     "State": "New Jersey",
@@ -1009,7 +1100,8 @@
     "Female Population": 1723218,
     "Fertility Rate": 59.95,
     "Median Income": 65243,
-    "Female Tobacco Use": 12.6
+    "Female Tobacco Use": 12.6,
+    "Infant Death Rate": 4.39
   },
   {
     "State": "New Jersey",
@@ -1020,7 +1112,8 @@
     "Female Population": 1718587,
     "Fertility Rate": 60.01,
     "Median Income": 68357,
-    "Female Tobacco Use": 11.5
+    "Female Tobacco Use": 11.5,
+    "Infant Death Rate": 4.5
   },
   {
     "State": "New Mexico",
@@ -1031,7 +1124,8 @@
     "Female Population": 398793,
     "Fertility Rate": 66.08,
     "Median Income": 40166,
-    "Female Tobacco Use": 16.2
+    "Female Tobacco Use": 16.2,
+    "Infant Death Rate": 5.27
   },
   {
     "State": "New Mexico",
@@ -1042,7 +1136,8 @@
     "Female Population": 397580,
     "Fertility Rate": 65.53,
     "Median Income": 46686,
-    "Female Tobacco Use": 16.5
+    "Female Tobacco Use": 16.5,
+    "Infant Death Rate": 5.22
   },
   {
     "State": "New Mexico",
@@ -1053,7 +1148,8 @@
     "Female Population": 395491,
     "Fertility Rate": 65.28,
     "Median Income": 45119,
-    "Female Tobacco Use": 16
+    "Female Tobacco Use": 16,
+    "Infant Death Rate": 6.1
   },
   {
     "State": "New York",
@@ -1064,7 +1160,8 @@
     "Female Population": 4033125,
     "Fertility Rate": 58.76,
     "Median Income": 49966,
-    "Female Tobacco Use": 14.1
+    "Female Tobacco Use": 14.1,
+    "Infant Death Rate": 4.93
   },
   {
     "State": "New York",
@@ -1075,7 +1172,8 @@
     "Female Population": 4045782,
     "Fertility Rate": 59.02,
     "Median Income": 54310,
-    "Female Tobacco Use": 12
+    "Female Tobacco Use": 12,
+    "Infant Death Rate": 4.62
   },
   {
     "State": "New York",
@@ -1086,7 +1184,8 @@
     "Female Population": 4036145,
     "Fertility Rate": 58.79,
     "Median Income": 58005,
-    "Female Tobacco Use": 12.9
+    "Female Tobacco Use": 12.9,
+    "Infant Death Rate": 5
   },
   {
     "State": "North Carolina",
@@ -1097,7 +1196,8 @@
     "Female Population": 1971639,
     "Fertility Rate": 60.36,
     "Median Income": 46337,
-    "Female Tobacco Use": 17.3
+    "Female Tobacco Use": 17.3,
+    "Infant Death Rate": 6.99
   },
   {
     "State": "North Carolina",
@@ -1108,7 +1208,8 @@
     "Female Population": 1982894,
     "Fertility Rate": 61.01,
     "Median Income": 46784,
-    "Female Tobacco Use": 16.5
+    "Female Tobacco Use": 16.5,
+    "Infant Death Rate": 7.14
   },
   {
     "State": "North Carolina",
@@ -1119,7 +1220,8 @@
     "Female Population": 1991882,
     "Fertility Rate": 60.67,
     "Median Income": 50797,
-    "Female Tobacco Use": 16.3
+    "Female Tobacco Use": 16.3,
+    "Infant Death Rate": 7.2
   },
   {
     "State": "North Dakota",
@@ -1130,7 +1232,8 @@
     "Female Population": 140687,
     "Fertility Rate": 75.34,
     "Median Income": 59152,
-    "Female Tobacco Use": 19.4
+    "Female Tobacco Use": 19.4,
+    "Infant Death Rate": 6.04
   },
   {
     "State": "North Dakota",
@@ -1141,7 +1244,8 @@
     "Female Population": 144130,
     "Fertility Rate": 78.81,
     "Median Income": 60730,
-    "Female Tobacco Use": 16.3
+    "Female Tobacco Use": 16.3,
+    "Infant Death Rate": 5.11
   },
   {
     "State": "North Dakota",
@@ -1152,7 +1256,8 @@
     "Female Population": 148084,
     "Fertility Rate": 76.4,
     "Median Income": 57415,
-    "Female Tobacco Use": 15.4
+    "Female Tobacco Use": 15.4,
+    "Infant Death Rate": 6.2
   },
   {
     "State": "Ohio",
@@ -1163,7 +1268,8 @@
     "Female Population": 2214152,
     "Fertility Rate": 62.75,
     "Median Income": 50748,
-    "Female Tobacco Use": 22.6
+    "Female Tobacco Use": 22.6,
+    "Infant Death Rate": 7.33
   },
   {
     "State": "Ohio",
@@ -1174,7 +1280,8 @@
     "Female Population": 2211573,
     "Fertility Rate": 63.06,
     "Median Income": 49644,
-    "Female Tobacco Use": 20.4
+    "Female Tobacco Use": 20.4,
+    "Infant Death Rate": 6.88
   },
   {
     "State": "Ohio",
@@ -1185,7 +1292,8 @@
     "Female Population": 2207849,
     "Fertility Rate": 63.08,
     "Median Income": 53301,
-    "Female Tobacco Use": 20.2
+    "Female Tobacco Use": 20.2,
+    "Infant Death Rate": 7.4
   },
   {
     "State": "Oklahoma",
@@ -1196,7 +1304,8 @@
     "Female Population": 756016,
     "Fertility Rate": 70.59,
     "Median Income": 46162,
-    "Female Tobacco Use": 21.7
+    "Female Tobacco Use": 21.7,
+    "Infant Death Rate": 6.73
   },
   {
     "State": "Oklahoma",
@@ -1207,7 +1316,8 @@
     "Female Population": 762653,
     "Fertility Rate": 69.94,
     "Median Income": 47199,
-    "Female Tobacco Use": 19.1
+    "Female Tobacco Use": 19.1,
+    "Infant Death Rate": 8.21
   },
   {
     "State": "Oklahoma",
@@ -1218,7 +1328,8 @@
     "Female Population": 768327,
     "Fertility Rate": 69.14,
     "Median Income": 47077,
-    "Female Tobacco Use": 20.4
+    "Female Tobacco Use": 20.4,
+    "Infant Death Rate": 7.1
   },
   {
     "State": "Oregon",
@@ -1229,7 +1340,8 @@
     "Female Population": 770514,
     "Fertility Rate": 58.6,
     "Median Income": 48999,
-    "Female Tobacco Use": 16
+    "Female Tobacco Use": 16,
+    "Infant Death Rate": 4.94
   },
   {
     "State": "Oregon",
@@ -1240,7 +1352,8 @@
     "Female Population": 776108,
     "Fertility Rate": 58.7,
     "Median Income": 58875,
-    "Female Tobacco Use": 15.8
+    "Female Tobacco Use": 15.8,
+    "Infant Death Rate": 5.09
   },
   {
     "State": "Oregon",
@@ -1251,7 +1364,8 @@
     "Female Population": 786355,
     "Fertility Rate": 58.06,
     "Median Income": 60834,
-    "Female Tobacco Use": 16.3
+    "Female Tobacco Use": 16.3,
+    "Infant Death Rate": 5.1
   },
   {
     "State": "Pennsylvania",
@@ -1262,7 +1376,8 @@
     "Female Population": 2414538,
     "Fertility Rate": 58.36,
     "Median Income": 55156,
-    "Female Tobacco Use": 18.6
+    "Female Tobacco Use": 18.6,
+    "Infant Death Rate": 6.65
   },
   {
     "State": "Pennsylvania",
@@ -1273,7 +1388,8 @@
     "Female Population": 2407045,
     "Fertility Rate": 59.1,
     "Median Income": 55173,
-    "Female Tobacco Use": 18.9
+    "Female Tobacco Use": 18.9,
+    "Infant Death Rate": 5.89
   },
   {
     "State": "Pennsylvania",
@@ -1284,7 +1400,8 @@
     "Female Population": 2400883,
     "Fertility Rate": 58.75,
     "Median Income": 60389,
-    "Female Tobacco Use": 16.6
+    "Female Tobacco Use": 16.6,
+    "Infant Death Rate": 6.9
   },
   {
     "State": "Rhode Island",
@@ -1295,7 +1412,8 @@
     "Female Population": 209672,
     "Fertility Rate": 51.55,
     "Median Income": 56323,
-    "Female Tobacco Use": 15.9
+    "Female Tobacco Use": 15.9,
+    "Infant Death Rate": 6.48
   },
   {
     "State": "Rhode Island",
@@ -1306,7 +1424,8 @@
     "Female Population": 210111,
     "Fertility Rate": 51.51,
     "Median Income": 58633,
-    "Female Tobacco Use": 13.9
+    "Female Tobacco Use": 13.9,
+    "Infant Death Rate": 4.43
   },
   {
     "State": "Rhode Island",
@@ -1317,7 +1436,8 @@
     "Female Population": 209560,
     "Fertility Rate": 52.46,
     "Median Income": 55701,
-    "Female Tobacco Use": 12.8
+    "Female Tobacco Use": 12.8,
+    "Infant Death Rate": 6.5
   },
   {
     "State": "South Carolina",
@@ -1328,7 +1448,8 @@
     "Female Population": 936748,
     "Fertility Rate": 60.63,
     "Median Income": 43563,
-    "Female Tobacco Use": 18.1
+    "Female Tobacco Use": 18.1,
+    "Infant Death Rate": 6.87
   },
   {
     "State": "South Carolina",
@@ -1339,7 +1460,8 @@
     "Female Population": 943512,
     "Fertility Rate": 61.08,
     "Median Income": 44929,
-    "Female Tobacco Use": 19.1
+    "Female Tobacco Use": 19.1,
+    "Infant Death Rate": 6.44
   },
   {
     "State": "South Carolina",
@@ -1350,7 +1472,8 @@
     "Female Population": 951940,
     "Fertility Rate": 61.07,
     "Median Income": 46360,
-    "Female Tobacco Use": 16.2
+    "Female Tobacco Use": 16.2,
+    "Infant Death Rate": 7.2
   },
   {
     "State": "South Dakota",
@@ -1361,7 +1484,8 @@
     "Female Population": 156851,
     "Fertility Rate": 78.09,
     "Median Income": 53413,
-    "Female Tobacco Use": 19.4
+    "Female Tobacco Use": 19.4,
+    "Infant Death Rate": 6.45
   },
   {
     "State": "South Dakota",
@@ -1372,7 +1496,8 @@
     "Female Population": 157896,
     "Fertility Rate": 77.79,
     "Median Income": 53053,
-    "Female Tobacco Use": 18.4
+    "Female Tobacco Use": 18.4,
+    "Infant Death Rate": 5.7
   },
   {
     "State": "South Dakota",
@@ -1383,7 +1508,8 @@
     "Female Population": 157806,
     "Fertility Rate": 78.17,
     "Median Income": 55065,
-    "Female Tobacco Use": 20.6
+    "Female Tobacco Use": 20.6,
+    "Infant Death Rate": 7.4
   },
   {
     "State": "Tennessee",
@@ -1394,7 +1520,8 @@
     "Female Population": 1287200,
     "Fertility Rate": 62.14,
     "Median Income": 43361,
-    "Female Tobacco Use": 22
+    "Female Tobacco Use": 22,
+    "Infant Death Rate": 6.8
   },
   {
     "State": "Tennessee",
@@ -1405,7 +1532,8 @@
     "Female Population": 1295676,
     "Fertility Rate": 62.98,
     "Median Income": 43716,
-    "Female Tobacco Use": 22.6
+    "Female Tobacco Use": 22.6,
+    "Infant Death Rate": 6.87
   },
   {
     "State": "Tennessee",
@@ -1416,7 +1544,8 @@
     "Female Population": 1299690,
     "Fertility Rate": 62.85,
     "Median Income": 47330,
-    "Female Tobacco Use": 21.1
+    "Female Tobacco Use": 21.1,
+    "Infant Death Rate": 7
   },
   {
     "State": "Texas",
@@ -1427,7 +1556,8 @@
     "Female Population": 5543584,
     "Fertility Rate": 69.87,
     "Median Income": 51406,
-    "Female Tobacco Use": 13.1
+    "Female Tobacco Use": 13.1,
+    "Infant Death Rate": 5.82
   },
   {
     "State": "Texas",
@@ -1438,7 +1568,8 @@
     "Female Population": 5654684,
     "Fertility Rate": 70.7,
     "Median Income": 53875,
-    "Female Tobacco Use": 12.5
+    "Female Tobacco Use": 12.5,
+    "Infant Death Rate": 5.85
   },
   {
     "State": "Texas",
@@ -1449,7 +1580,8 @@
     "Female Population": 5748631,
     "Fertility Rate": 70.21,
     "Median Income": 56473,
-    "Female Tobacco Use": 12.4
+    "Female Tobacco Use": 12.4,
+    "Infant Death Rate": 5.8
   },
   {
     "State": "Utah",
@@ -1460,7 +1592,8 @@
     "Female Population": 629778,
     "Fertility Rate": 80.91,
     "Median Income": 61047,
-    "Female Tobacco Use": 8.8
+    "Female Tobacco Use": 8.8,
+    "Infant Death Rate": 5.18
   },
   {
     "State": "Utah",
@@ -1471,7 +1604,8 @@
     "Female Population": 639388,
     "Fertility Rate": 80,
     "Median Income": 63383,
-    "Female Tobacco Use": 8.2
+    "Female Tobacco Use": 8.2,
+    "Infant Death Rate": 4.91
   },
   {
     "State": "Utah",
@@ -1482,7 +1616,8 @@
     "Female Population": 651344,
     "Fertility Rate": 77.96,
     "Median Income": 66258,
-    "Female Tobacco Use": 7
+    "Female Tobacco Use": 7,
+    "Infant Death Rate": 5
   },
   {
     "State": "Vermont",
@@ -1493,7 +1628,8 @@
     "Female Population": 116335,
     "Fertility Rate": 51.36,
     "Median Income": 65513,
-    "Female Tobacco Use": 15.4
+    "Female Tobacco Use": 15.4,
+    "Infant Death Rate": 4.35
   },
   {
     "State": "Vermont",
@@ -1504,7 +1640,8 @@
     "Female Population": 115981,
     "Fertility Rate": 52.85,
     "Median Income": 60708,
-    "Female Tobacco Use": 15
+    "Female Tobacco Use": 15,
+    "Infant Death Rate": 4.57
   },
   {
     "State": "Vermont",
@@ -1515,7 +1652,8 @@
     "Female Population": 115598,
     "Fertility Rate": 51.06,
     "Median Income": 59494,
-    "Female Tobacco Use": 14
+    "Female Tobacco Use": 14,
+    "Infant Death Rate": 4.3
   },
   {
     "State": "Virginia",
@@ -1526,7 +1664,8 @@
     "Female Population": 1676517,
     "Fertility Rate": 60.93,
     "Median Income": 65907,
-    "Female Tobacco Use": 16.7
+    "Female Tobacco Use": 16.7,
+    "Infant Death Rate": 6.18
   },
   {
     "State": "Virginia",
@@ -1537,7 +1676,8 @@
     "Female Population": 1684103,
     "Fertility Rate": 61.34,
     "Median Income": 66155,
-    "Female Tobacco Use": 16.6
+    "Female Tobacco Use": 16.6,
+    "Infant Death Rate": 5.65
   },
   {
     "State": "Virginia",
@@ -1548,7 +1688,8 @@
     "Female Population": 1684883,
     "Fertility Rate": 61.31,
     "Median Income": 61486,
-    "Female Tobacco Use": 14.4
+    "Female Tobacco Use": 14.4,
+    "Infant Death Rate": 6.3
   },
   {
     "State": "Washington",
@@ -1559,7 +1700,8 @@
     "Female Population": 1383781,
     "Fertility Rate": 62.57,
     "Median Income": 63922,
-    "Female Tobacco Use": 14.3
+    "Female Tobacco Use": 14.3,
+    "Infant Death Rate": 4.53
   },
   {
     "State": "Washington",
@@ -1570,7 +1712,8 @@
     "Female Population": 1398464,
     "Fertility Rate": 63.34,
     "Median Income": 59068,
-    "Female Tobacco Use": 13.8
+    "Female Tobacco Use": 13.8,
+    "Infant Death Rate": 4.48
   },
   {
     "State": "Washington",
@@ -1581,7 +1724,8 @@
     "Female Population": 1417209,
     "Fertility Rate": 62.79,
     "Median Income": 67243,
-    "Female Tobacco Use": 13.4
+    "Female Tobacco Use": 13.4,
+    "Infant Death Rate": 4.9
   },
   {
     "State": "West Virginia",
@@ -1592,7 +1736,8 @@
     "Female Population": 338651,
     "Fertility Rate": 61.49,
     "Median Income": 43069,
-    "Female Tobacco Use": 26.1
+    "Female Tobacco Use": 26.1,
+    "Infant Death Rate": 7.64
   },
   {
     "State": "West Virginia",
@@ -1603,7 +1748,8 @@
     "Female Population": 336741,
     "Fertility Rate": 60.29,
     "Median Income": 39552,
-    "Female Tobacco Use": 25.6
+    "Female Tobacco Use": 25.6,
+    "Infant Death Rate": 6.95
   },
   {
     "State": "West Virginia",
@@ -1614,7 +1760,8 @@
     "Female Population": 333468,
     "Fertility Rate": 59.39,
     "Median Income": 42824,
-    "Female Tobacco Use": 25.7
+    "Female Tobacco Use": 25.7,
+    "Infant Death Rate": 7.4
   },
   {
     "State": "Wisconsin",
@@ -1625,7 +1772,8 @@
     "Female Population": 1086889,
     "Fertility Rate": 61.32,
     "Median Income": 51726,
-    "Female Tobacco Use": 17.3
+    "Female Tobacco Use": 17.3,
+    "Infant Death Rate": 6.26
   },
   {
     "State": "Wisconsin",
@@ -1636,7 +1784,8 @@
     "Female Population": 1087273,
     "Fertility Rate": 61.77,
     "Median Income": 58080,
-    "Female Tobacco Use": 16.1
+    "Female Tobacco Use": 16.1,
+    "Infant Death Rate": 5.72
   },
   {
     "State": "Wisconsin",
@@ -1647,7 +1796,8 @@
     "Female Population": 1085396,
     "Fertility Rate": 61.77,
     "Median Income": 55425,
-    "Female Tobacco Use": 14.9
+    "Female Tobacco Use": 14.9,
+    "Infant Death Rate": 6
   },
   {
     "State": "Wyoming",
@@ -1658,7 +1808,8 @@
     "Female Population": 110241,
     "Fertility Rate": 69.34,
     "Median Income": 67441,
-    "Female Tobacco Use": 19.2
+    "Female Tobacco Use": 19.2,
+    "Infant Death Rate": 4.84
   },
   {
     "State": "Wyoming",
@@ -1669,7 +1820,8 @@
     "Female Population": 110821,
     "Fertility Rate": 69.45,
     "Median Income": 55690,
-    "Female Tobacco Use": 18.2
+    "Female Tobacco Use": 18.2,
+    "Infant Death Rate": 6.37
   },
   {
     "State": "Wyoming",
@@ -1680,6 +1832,7 @@
     "Female Population": 110670,
     "Fertility Rate": 70.16,
     "Median Income": 60925,
-    "Female Tobacco Use": 17.5
+    "Female Tobacco Use": 17.5,
+    "Infant Death Rate": 5.2
   }
 ]
