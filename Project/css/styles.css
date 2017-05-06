@@ -239,17 +239,6 @@ div.leaflet-popup-tip {
     visibility: hidden;
 }
 
-/*.svg-container {
-    display: inline-block;
-    position: relative;
-    width: 100%;
-}
-
-.svg-content-responsive {
-    display: inline-block;
-    position: absolute;
-}*/
-
 .xA {
     font-size: 9px;
     font-family: "HelveticaNeue-Light", Helvetica, sans-serif;
