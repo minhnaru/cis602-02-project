@@ -274,13 +274,14 @@ div.leaflet-popup-tip {
     display: inline-block;
     position: relative;
     width: 100%;
+    /*top:5%;*/
 }
 
 .svg-container-2 {
     display: inline-block;
     position: relative;
     width: 100%;
-    top: 5%;
+    top: 2%;
 }
 
 .svg-content-responsive {
@@ -302,4 +303,17 @@ div.leaflet-popup-tip {
     font-size: 9px;
     font-family: "HelveticaNeue-Light", Helvetica, sans-serif;
     stroke: white;
+}
+
+.tablePopup {
+    width:200px;
+}
+
+.td1 {
+    width: 150px;
+}
+
+.td2 {
+    text-align: right;
+    width: 50px;
 }

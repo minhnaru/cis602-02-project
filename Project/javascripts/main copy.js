@@ -1,3 +1,23 @@
+// set default attributes
+var selectedTitle = "Alabama",
+    selectedData = "Birth Rate",
+    text = "Birth Rate per 1000 Population",
+    selectedViz = "Population Growth";
+
+// global variable for scatter map
+var scaMargin = {top: 30, bottom: 10, left: 55, right: 30},
+    scaW = 300 - scaMargin.left - scaMargin.right,
+    scaH = 210 - scaMargin.top - scaMargin.bottom,
+    scaX = d3.scaleLinear().range([0, scaW]),
+    scaY = d3.scaleLinear().range([scaH, 0]);
+
+// global variable for line chart
+var lineMargin = {top: 30, bottom: 10, left: 55, right: 30},
+    lineW = 300 - lineMargin.left - lineMargin.right,
+    lineH = 190 - lineMargin.top - lineMargin.bottom,
+    lineX = d3.scaleBand().rangeRound([0, lineW], .1).padding(5),
+    lineY = d3.scaleLinear().range([lineH, 0]);
+
 function about() {
     // Show the text when clicking about button
     $("#about").on("click", function(){
@@ -55,13 +75,31 @@ function processData (dataNatality) {
             Tobacco: Math.round((_.sumBy(v, "Female Tobacco Use") / 3) * 10) / 10
         })).value();
 
+    // calculate fertility rate
+    var avgFertilityRate = _(dataNatality)
+        .groupBy("State")
+        .map((v, k) => ({
+            State: k,
+            FertilityR: Math.round((_.sumBy(v, "Fertility Rate") / 3) * 100) / 100
+        })).value();
+
+    // calculate average infant death rate
+    var avgDeathRate = _(dataNatality)
+        .groupBy("State")
+        .map((v, k) => ({
+            State: k,
+            DeathR: Math.round((_.sumBy(v, "Infant Death Rate") / 3) * 100) / 100
+        })).value();
+
     // combine total data
     _.each(ussData.features, function(d) {
         d.properties.avg_birth = {};
         d.properties.avg_female = {};
         d.properties.avg_birthrate = {};
         d.properties.avg_income = {};
-        d.properties.female_tobacco = {};
+        d.properties.avg_tobacco = {};
+        d.properties.avg_fertilityrate = {};
+        d.properties.avg_deathrate = {};
         var state = d.properties.name;
         _.each(avgBirth, function(n) {
             if (n.State == state) {
@@ -85,7 +123,17 @@ function processData (dataNatality) {
         });
         _.each(femaleTobacco, function(n) {
             if (n.State == state) {
-                d.properties.female_tobacco = n["Tobacco"];
+                d.properties.avg_tobacco = n["Tobacco"];
+            }
+        });
+        _.each(avgDeathRate, function(n) {
+            if (n.State == state) {
+                d.properties.avg_deathrate = n["DeathR"];
+            }
+        });
+        _.each(avgFertilityRate, function(n) {
+            if (n.State == state) {
+                d.properties.avg_fertilityrate = n["FertilityR"];
             }
         });
     });
@@ -104,7 +152,8 @@ function processData (dataNatality) {
                     "Female Population": n["Female Population"],
                     "Fertility Rate": n["Fertility Rate"],
                     "Median Income": n["Median Income"],
-                    "Female Tobacco Use": n["Female Tobacco Use"]
+                    "Female Tobacco Use": n["Female Tobacco Use"],
+                    "Infant Death Rate": n["Infant Death Rate"]
                 };
                 d.properties.natalities.push(tmp);
             }
@@ -136,8 +185,6 @@ function getLegend(legendTitle, propAttr, zeroCount, range, multiLegend, normNum
     });
     var grades = [];
     v.map(function(d) { grades.push(Math.round( d / Math.pow(10,zeroCount))*range) });
-    // console.log(grades);
-    // console.log(v);
     
     var labels1 = [],
     labels2 = [],
@@ -179,48 +226,92 @@ function generateMap(dataNatality, elementID, divId) {
         onEachFeature: onEachFeature_income
     });
 
+    var tobaccoLayer = L.geoJson(ussData, {
+        style: getStyle_tobacco,
+        onEachFeature: onEachFeature_tobacco
+    });
+
     // // init default map layer
     map.addLayer(growthLayer);
 
-    // change map layer on selector
+    // change map layer on layer-selector
     $('#layer-selector').change(function(event) {
         event.preventDefault();
         if ($(this).val() == "pop_growth") {
-            map.setView([40, -96], 4);
             map.addLayer(growthLayer);
             map.removeLayer(womenLayer);
             map.removeLayer(incomeLayer);
+            map.removeLayer(tobaccoLayer);
             map.legendControl.addLegend(getLegendHTML_birth());
             map.legendControl.removeLegend(getLegendHTML_female());
             map.legendControl.removeLegend(getLegendHTML_income());
-            updateScatter("#d3-elements", "avg_birth", "Number of Birth");
+            map.legendControl.removeLegend(getLegendHTML_tobacco());
+            selectedViz = "Population Growth";
+            var scaTitle = selectedViz + " and " + selectedData + " Comparison";
+            updateScatter("#d3-elements", "avg_birth", "Number of Birth", scaTitle);
         } else if ($(this).val() == "female_pop") {
-            map.setView([40, -96], 4);
             map.addLayer(womenLayer);
             map.removeLayer(growthLayer);
             map.removeLayer(incomeLayer);
+            map.removeLayer(tobaccoLayer);
             map.legendControl.addLegend(getLegendHTML_female());
             map.legendControl.removeLegend(getLegendHTML_birth());
             map.legendControl.removeLegend(getLegendHTML_income());
-            updateScatter("#d3-elements", "avg_female", "Female Population");
+            map.legendControl.removeLegend(getLegendHTML_tobacco());
+            selectedViz = "Female Population";
+            var scaTitle = selectedViz + " and " + selectedData + " Comparison";
+            updateScatter("#d3-elements", "avg_female", "Female Population", scaTitle);
         } else if ($(this).val() == "median_income") {
-            map.setView([40, -96], 4);
             map.addLayer(incomeLayer);
             map.removeLayer(growthLayer);
             map.removeLayer(womenLayer);
+            map.removeLayer(tobaccoLayer);
             map.legendControl.addLegend(getLegendHTML_income());
             map.legendControl.removeLegend(getLegendHTML_birth());
             map.legendControl.removeLegend(getLegendHTML_female());
-            updateScatter("#d3-elements", "avg_income", "Median Income ($)");
+            map.legendControl.removeLegend(getLegendHTML_tobacco());
+            selectedViz = "Median Income";
+            var scaTitle = selectedViz + " and " + selectedData + " Comparison";
+            updateScatter("#d3-elements", "avg_income", "Median Income ($)", scaTitle);
         } else if ($(this).val() == "female_tobacco") {
-            // map.setView([40, -96], 4);
-            // map.addLayer(incomeLayer);
-            // map.removeLayer(growthLayer);
-            // map.removeLayer(womenLayer);
-            // map.legendControl.addLegend(getLegendHTML_income());
-            // map.legendControl.removeLegend(getLegendHTML_birth());
-            // map.legendControl.removeLegend(getLegendHTML_female());
-            updateScatter("#d3-elements", "female_tobacco", "Female Tobacco Use (%)");
+            map.addLayer(tobaccoLayer);
+            map.removeLayer(growthLayer);
+            map.removeLayer(womenLayer);
+            map.removeLayer(incomeLayer);
+            map.legendControl.addLegend(getLegendHTML_tobacco());
+            map.legendControl.removeLegend(getLegendHTML_birth());
+            map.legendControl.removeLegend(getLegendHTML_female());
+            map.legendControl.removeLegend(getLegendHTML_income());
+            selectedViz = "Female Tobacco Use";
+            var scaTitle = selectedViz + " and " + selectedData + " Comparison";
+            updateScatter("#d3-elements", "avg_tobacco", "Female Tobacco Use (%)", scaTitle);
+        }
+    });
+
+    // change scatter map on data-layer
+    $('#data-selector').change(function(event) {
+        event.preventDefault();
+        if ($(this).val() == "birth_rate") {
+            selectedData = "Birth Rate";
+            text = "Birth Rate per 1000 Population";
+            var lineTitle = selectedData + " in " + selectedTitle;
+            var scaTitle = selectedViz + " and " + selectedData + " Comparison";
+            updateScatter2("#d3-elements", "avg_birthrate", text, scaTitle);
+            updateLine(divId, dataNatality, selectedTitle, selectedData, text, lineTitle);
+        } else if ($(this).val() == "fertility_rate") {
+            selectedData = "Fertility Rate";
+            text = "Fertility Rate per 1000 Population";
+            var lineTitle = selectedData + " in " + selectedTitle;
+            var scaTitle = selectedViz + " and " + selectedData + " Comparison";
+            updateScatter2("#d3-elements", "avg_fertilityrate", text, scaTitle);
+            updateLine(divId, dataNatality, selectedTitle, selectedData, text, lineTitle);
+        } else if ($(this).val() == "death_rate") {
+            selectedData = "Infant Death Rate";
+            text = "Death Rate per 1000 Live Births";
+            var lineTitle = selectedData + " in " + selectedTitle;
+            var scaTitle = selectedViz + " and " + selectedData + " Comparison";
+            updateScatter2("#d3-elements", "avg_deathrate", text, scaTitle);
+            updateLine(divId, dataNatality, selectedTitle, selectedData, text, lineTitle);
         }
     });
 
@@ -254,48 +345,44 @@ function generateMap(dataNatality, elementID, divId) {
         };
     }
 
-    // var latlng = L.latLng(40, -96);
-    // popup_female.setLatLng(e.latlng);
-
-    // function getStyle_income(d) {
-    //     _.map(ussData, function(collection) {
-    //         /* Add a LatLng object to each item in the dataset */
-    //         collection.objects.forEach(function(d) {
-    //             d.LatLng = new L.LatLng(d.circle.coordinates[0],
-    //                                     d.circle.coordinates[1])
-    //         })
-    //     });
-    //     // latlng.setLatLng(d.latlng);
-    //     // var LatLng = new latlng.setLatLng(40, -96);
-    //     return L.circleMarker(d.LatLng, {
-    //         weight: 10,
-    //         color: 'red',
-    //         fillOpacity: 0.7,
-    //         fillColor: 'red'
-    //         // fillColor: getColor_income(d.properties.avg_income)
-    //     });
-    // }
+    function getStyle_tobacco(d) {
+        return {
+            weight: 1,
+            opacity: 0.7,
+            color: 'white',
+            fillOpacity: 0.7,
+            fillColor: getColor(d.properties.avg_tobacco, 9, 14.5, 15.4, 16.1, 18.8, 20.4, 25.1)
+        };
+    }
 
     function onEachFeature_birth(feature, layer) {
         layer.on({
-            mousemove: mousemove_birth,
-            mouseout: mouseout_birth,
+            mousemove: mousemove,
+            mouseout: mouseout,
             click: zoomToFeature
         });
     }
 
     function onEachFeature_female(feature, layer) {
         layer.on({
-            mousemove: mousemove_female,
-            mouseout: mouseout_female,
+            mousemove: mousemove,
+            mouseout: mouseout,
             click: zoomToFeature
         });
     }
 
     function onEachFeature_income(feature, layer) {
         layer.on({
-            mousemove: mousemove_income,
-            mouseout: mouseout_income,
+            mousemove: mousemove,
+            mouseout: mouseout,
+            click: zoomToFeature
+        });
+    }
+
+    function onEachFeature_tobacco(feature, layer) {
+        layer.on({
+            mousemove: mousemove,
+            mouseout: mouseout,
             click: zoomToFeature
         });
     }
@@ -304,19 +391,48 @@ function generateMap(dataNatality, elementID, divId) {
     var popup_birth = new L.Popup({ autoPan: false });
     var popup_female = new L.Popup({ autoPan: false });
     var popup_income = new L.Popup({ autoPan: false });
+    var popup_tobacco = new L.Popup({ autoPan: false });
 
-    function mousemove_birth(e) {
+    function mousemove(e) {
         var layer = e.target;
 
+        var currency = "";
+            percents = "";
+
+        // get data from layer selector
+        if (selectedViz == "Population Growth") {
+            var dec = layer.feature.properties.avg_birth;
+        } else if (selectedViz == "Female Population") {
+            var dec = layer.feature.properties.avg_female;
+        } else if (selectedViz == "Median Income") {
+            currency = " ($)";
+            var dec = layer.feature.properties.avg_income;
+        } else if (selectedViz == "Female Tobacco Use") {
+            percents = " (%)";
+            var dec = layer.feature.properties.avg_tobacco;
+        }
         // decimal number format
-        var dec = layer.feature.properties.avg_birth;
         var value = dec.toLocaleString('en-US', {
             minimumFractionDigits: 0
         });
 
+        // if (selectedData == "Birth Rate") {
+        //     var decOpt = layer.feature.properties.avg_birthrate;
+        // } else if (selectedData == "Fertility Rate") {
+        //     var decOpt = layer.feature.properties.avg_fertilityrate;
+        // } else if (selectedData == "Infant Death Rate") {
+        //     var decOpt = layer.feature.properties.avg_deathrate;
+        // }
+        // var valueOpt = decOpt.toLocaleString('en-US', {
+        //     minimumFractionDigits: 0
+        // });
+
         popup_birth.setLatLng(e.latlng);
         popup_birth.setContent('<div class="marker-title">' + layer.feature.properties.name + '</div>' +
-        'Number of Births: ' + value);
+        '<div class="tablePopup"><table><tr><td class="td1">' + selectedViz + percents + currency + '</td><td class="td2"><strong>' + value + '</strong></td></tr></table></div>');
+        // popup_birth.setContent('<div class="marker-title">' + layer.feature.properties.name + '</div>' +
+        // '<div class="tablePopup"><table><tr><td class="td1">' + selectedViz + percents + currency + '</td><td class="td2"><strong>' + value + '</strong></td></tr>' +
+        // '<tr><td class="td1">' + selectedData + ' per 1000</td><td class="td2"><strong>' + valueOpt + '</strong></td></tr></table></div>');
 
         if (!popup_birth._map) popup_birth.openOn(map);
         window.clearTimeout(closeTooltip);
@@ -333,89 +449,31 @@ function generateMap(dataNatality, elementID, divId) {
         }
     }
 
-    function mousemove_female(e) {
-        var layer = e.target;
-
-        // decimal number format
-        var dec = layer.feature.properties.avg_female;
-        var value = dec.toLocaleString('en-US', {
-            minimumFractionDigits: 0
-        });
-
-        popup_female.setLatLng(e.latlng);
-        popup_female.setContent('<div class="marker-title">' + layer.feature.properties.name + '</div>' +
-        'Female Population: ' + value);
-
-        if (!popup_female._map) popup_female.openOn(map);
-        window.clearTimeout(closeTooltip);
-
-        // highlight feature
-        layer.setStyle({
-            weight: 3,
-            opacity: 0.3,
-            fillOpacity: 0.9
-        });
-
-        if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-        layer.bringToFront();
+    function mouseout(e) {
+        // get data from layer selector
+        if (selectedViz == "Population Growth") {
+            growthLayer.resetStyle(e.target);
+        } else if (selectedViz == "Female Population") {
+            womenLayer.resetStyle(e.target);
+        } else if (selectedViz == "Median Income") {
+            incomeLayer.resetStyle(e.target);
+        } else if (selectedViz == "Female Tobacco Use") {
+            tobaccoLayer.resetStyle(e.target);
         }
-    }
 
-    function mousemove_income(e) {
-        var layer = e.target;
-
-        // decimal number format
-        var dec = layer.feature.properties.avg_income;
-        var value = dec.toLocaleString('en-US', {
-            minimumFractionDigits: 0
-        });
-
-        popup_income.setLatLng(e.latlng);
-        popup_income.setContent('<div class="marker-title">' + layer.feature.properties.name + '</div>' +
-        'Median Income: ' + '$' + value);
-
-        if (!popup_income._map) popup_income.openOn(map);
-        window.clearTimeout(closeTooltip);
-
-        // highlight feature
-        layer.setStyle({
-            weight: 3,
-            opacity: 0.3,
-            fillOpacity: 0.9
-        });
-
-        if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-        layer.bringToFront();
-        }
-    }
-
-    function mouseout_birth(e) {
-        growthLayer.resetStyle(e.target);
         closeTooltip = window.setTimeout(function() {
             map.closePopup();
         }, 100);
     }
 
-    function mouseout_female(e) {
-        womenLayer.resetStyle(e.target);
-        closeTooltip = window.setTimeout(function() {
-            map.closePopup();
-        }, 100);
-    }
-
-    function mouseout_income(e) {
-        incomeLayer.resetStyle(e.target);
-        closeTooltip = window.setTimeout(function() {
-            map.closePopup();
-        }, 100);
-    }
-
+    // zoom and change line chart based on selected state
     function zoomToFeature(e) {
         map.fitBounds(e.target.getBounds());
 
         var layer = e.target;
-        var selectedTitle = layer.feature.properties.name;
-        updateLine(divId, dataNatality, selectedTitle);
+        selectedTitle = layer.feature.properties.name;
+        var lineTitle = selectedData + " in " + selectedTitle;
+        updateLine(divId, dataNatality, selectedTitle, selectedData, text, lineTitle);
     }
 
     // init population growth legend
@@ -436,27 +494,14 @@ function generateMap(dataNatality, elementID, divId) {
         return Legends;
     }
 
+    function getLegendHTML_tobacco() {
+        var Legends = getLegend("Female Tobacco Use (%)", "avg_tobacco", -1, 1, 1, 10, "");
+        return Legends;
+    }
 }
-
-// global variable for scatter map
-var scaMargin = {top: 10, bottom: 10, left: 55, right: 30},
-    scaW = 300 - scaMargin.left - scaMargin.right,
-    scaH = 190 - scaMargin.top - scaMargin.bottom,
-    scaX = d3.scaleLinear().range([0, scaW]),
-    scaY = d3.scaleLinear().range([scaH, 0]);
 
 function generateScatter(divId) {
 
-    console.log(ussData);
-    // console.log(ussData.eatures[0].properties.natalities[0]["Birth Rate"]);
-
-    // // init variable
-    // var scaMargin = {top: 10, bottom: 10, left: 55, right: 30},
-    //     scaW = 300 - scaMargin.left - scaMargin.right,
-    //     scaH = 190 - scaMargin.top - scaMargin.bottom,
-    //     scaX = d3.scaleLinear().range([0, scaW]),
-    //     scaY = d3.scaleLinear().range([scaH, 0]),
-    //     data = ussData.features;
     var data = ussData.features;
 
     scaX.domain([d3.min(data, function(d) { return d.properties.avg_birth; }) / 1.05,
@@ -470,7 +515,7 @@ function generateScatter(divId) {
         .classed("svg-container", true)
         .append("svg")
         .attr("preserveAspectRatio", "xMinYMin meet")
-        .attr("viewBox", "0 0 300 220")
+        .attr("viewBox", "0 0 300 240")
         .classed("svg-content-responsive", true)
         .attr("class", "svg-container")
         .append("g")
@@ -500,10 +545,18 @@ function generateScatter(divId) {
         .attr("class", "yA")
         .call(scaYAxis)
 
-    scaSvg.append("g")
+    scaSvg.append("text")
+        .attr("class", "textX")
+        .attr("x", scaW / 3.5)
+        .attr("y", scaH + 35)
+        .attr("font-size", "10px")
+        .attr("font-family", "HelveticaNeue-Light, Helvetica, sans-serif")
+        .attr("fill", "white")
+        .text("Population Growth")
+
+    scaSvg.append("text")
         .attr("class", "textY")
         .attr("transform", "translate(-30," + (scaH/2) + ") rotate(-90)")
-        .append("text")
         .attr("y", 0)
         .style("text-anchor", "middle")
         .attr("font-size", "10px")
@@ -512,17 +565,18 @@ function generateScatter(divId) {
         .text("Birth Rate per 1000 Population")
 
     scaSvg.append("text")
-        .attr("class", "textX")
-        .attr("x", scaW / 3.5)
-        .attr("y", scaH + 35)
-        .attr("font-size", "10px")
+        .attr("class", "titleY")
+        .attr("x", 100)
+        .attr("y", -15)
+        .style("text-anchor", "middle")
+        .attr("font-size", "12px")
         .attr("font-family", "HelveticaNeue-Light, Helvetica, sans-serif")
         .attr("fill", "white")
-        .text("Number of Birth")
-
+        .text("Population Growth and Birth Rate Comparison")
 }
 
-function updateScatter(divId, value, text) {
+function updateScatter(divId, value, text, scaTitle) {
+
     var data = ussData.features;
 
     var scaSvg = d3.select(divId);
@@ -535,9 +589,6 @@ function updateScatter(divId, value, text) {
         .transition()
         .duration(1500)
         .attr("cx", function(d){ return scaX(d.properties[value]); })
-        .attr("r", 4)
-        .attr("fill", "#1DFF84")
-        .attr("opacity", 0.5)
 
     //update x Axis variable
     var scaXAxis = d3.axisBottom(scaX).ticks(5);
@@ -551,19 +602,47 @@ function updateScatter(divId, value, text) {
         .transition()
         .duration(1500)
         .text(text)
+
+    scaSvg.select(".titleY")
+        .text(scaTitle)
 }
 
-// global variable for line chart
-var lineMargin = {top: 10, bottom: 10, left: 55, right: 30},
-    lineW = 300 - lineMargin.left - lineMargin.right,
-    lineH = 190 - lineMargin.top - lineMargin.bottom,
-    lineX = d3.scaleBand().rangeRound([0, lineW], .1).padding(5),
-    lineY = d3.scaleLinear().range([lineH, 0]);
+function updateScatter2(divId, value, text, scaTitle) {
+
+    var data = ussData.features;
+
+    var scaSvg = d3. select(divId);
+    //update y Axis
+    scaY.domain([d3.min(data, function(d) { return d.properties[value]; }) / 1.2,
+                 d3.max(data, function(d) { return d.properties[value]; }) * 1.05]);
+    //update circle
+    scaSvg.selectAll("circle")
+        .data(data)
+        .transition()
+        .duration(1500)
+        .attr("cy", function(d){ return scaY(d.properties[value]); })
+
+    //update x Axis variable
+    var scaYAxis = d3.axisLeft(scaY).ticks(5);
+
+    scaSvg.select(".yA")
+        .transition()
+        .duration(1500)
+        .call(scaYAxis)
+
+    scaSvg.select(".textY")
+        .transition()
+        .duration(1500)
+        .text(text)
+
+    scaSvg.select(".titleY")
+        .text(scaTitle)
+}
 
 function generateLine(divId, data, selectCode) {
 
     var dataset = data.filter(
-        function(d) { return (d.State == "Alabama"); }
+        function(d) { return (d.State == selectedTitle); }
     );
 
     var lineSvg = d3.select(divId).append("svg")
@@ -604,6 +683,7 @@ function generateLine(divId, data, selectCode) {
     lineSvg.append("g")
         .attr("transform", "translate(-30," + (lineH/2) + ") rotate(-90)")
         .append("text")
+        .attr("class", "linetextY")
         .attr("y", -5)
         .style("text-anchor", "middle")
         .attr("font-size", "10px")
@@ -619,20 +699,30 @@ function generateLine(divId, data, selectCode) {
         .attr("fill", "white")
         .text("Year")
 
+    lineSvg.append("text")
+        .attr("class", "linetitleY")
+        .attr("x", lineW/2)
+        .attr("y", -10)
+        .style("text-anchor", "middle")
+        .attr("font-size", "12px")
+        .attr("font-family", "HelveticaNeue-Light, Helvetica, sans-serif")
+        .attr("fill", "white")
+        .text("Birth Rate in Alabama")
 }
 
-function updateLine(divId, dataNatality, state) {
+function updateLine(divId, dataNatality, state, selectedData, lineText, lineTitle) {
+
     var dataset = dataNatality.filter(
         function(d) { return (d.State == state); }
     );
 
     var lineSvg = d3.select(divId);
 
-    lineY.domain([ d3.min(dataset, function(d) { return +d["Birth Rate"]; }) / 1.05, d3.max(dataset, function(d) { return +d["Birth Rate"]; }) * 1.05 ]);
+    lineY.domain([ d3.min(dataset, function(d) { return +d[selectedData]; }) / 1.05, d3.max(dataset, function(d) { return +d[selectedData]; }) * 1.05 ]);
 
     var line = d3.line()
         .x(function(d) { return lineX(d["Year"]); })
-        .y(function(d) { return lineY(d["Birth Rate"]); });
+        .y(function(d) { return lineY(d[selectedData]); });
 
     lineSvg.select(".drawLine")
         .datum(dataset)
@@ -647,6 +737,13 @@ function updateLine(divId, dataNatality, state) {
         .duration(1000)
         .call(lineYAxis)
 
+    lineSvg.select(".linetextY")
+        .transition()
+        .duration(1500)
+        .text(lineText)
+
+    lineSvg.select(".linetitleY")
+        .text(lineTitle)
 }
 
 function createVis(errors, dataNatality, elementID)
@@ -658,7 +755,6 @@ function createVis(errors, dataNatality, elementID)
     generateMap(dataNatality, "map", "#d3-elements");
     generateScatter("#d3-elements");
     generateLine("#d3-elements", dataNatality, "Alabama");
-
 }
 
 d3.queue()
