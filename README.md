@@ -45,7 +45,11 @@ This dataset is behavioral risk factor data represent tobacco use from 2011 to p
 ## References
 
 [Carto](https://carto.com)
+
 [Lodash](https://lodash.com)
+
 [D3-Data Driven Documents](https://d3js.org)
+
 [Leaflet JS](http://leafletjs.com)
+
 [Mapbox](https://www.mapbox.com)
