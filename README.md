@@ -15,23 +15,30 @@ The dataset in the website CDC WONDER provides table, and data extracts accordin
 
 Header | Definition
 ---|---------
-`Date/Time` | The date and time of the Uber pickup
-`Lat` | The latitude of the Uber pickup
-`Lon` | The longitude of the Uber pickup
-`Base` | The [TLC base company](http://www.nyc.gov/html/tlc/html/industry/base_and_business.shtml) code affiliated with the Uber pickup
+`State` | The states of the United States
+`Year` | The year of the data (2013-2015)
+`Births` | The total number of births are given
+`Total Population` | The total population for each US State
+`Birth Rate` | The number of births per 1000 population
+`Female Population` | The total number of female in the US
+`Fertility Rate` | The number of born children per 1000 women over her lifetime
+`Median Income` | The median household income by State
+`Female Tobacco Use` | The percentage of female using tobacco while given birth
+`Infant Death Rate` | The percentage of infant death per 1000 live births
 
 ### Natality Data
 The raw data is from 130MB to 200MB in zip files.
 When unzip, the data is around 5GB. Here is the link to obtain the raw data:
-https://www.cdc.gov/nchs/data_access/VitalStatsOnline.htm#Births%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF
+[Natality](https://www.cdc.gov/nchs/data_access/VitalStatsOnline.htm#Births%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF)
 
 ### Median Income Data
 The raw data (included in zip file) can be obtained from:
-https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html
+[Median Income](https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html)
 
 ### Tobacco Use
 The raw data (included in zip file) can be obtained from:
-https://www.healthdata.gov/dataset/behavioral-risk-factor-data-tobacco-use-2011-present
+[Tobacco Use](https://www.healthdata.gov/dataset/behavioral-risk-factor-data-tobacco-use-2011-present)
+
 This dataset is behavioral risk factor data represent tobacco use from 2011 to present. All information about leading causes of death are collected from CDC, State Tobacco Activities Tracking and Evaluation (STATE) system. BRFSS Survey Data. I extracted and filtered the data and get the current smoking status of female only from 2013 to 2015.
 
 ## References
