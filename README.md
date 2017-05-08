@@ -53,3 +53,5 @@ This dataset is behavioral risk factor data represent tobacco use from 2011 to p
 [Leaflet JS](http://leafletjs.com)
 
 [Mapbox](https://www.mapbox.com)
+
+[Pace](http://github.hubspot.com/pace/docs/welcome/)
