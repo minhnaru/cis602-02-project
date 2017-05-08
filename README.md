@@ -27,8 +27,8 @@ Header | Definition
 `Infant Death Rate` | The percentage of infant death per 1000 live births
 
 ### Natality Data
-The raw data is from 130MB to 200MB in zip files.
-When unzip, the data is around 5GB. Here is the link to obtain the raw data:
+The raw data is from 130MB to 200MB in zip files. When unzip, the data is around 5GB.
+Here is the link to obtain the raw data:
 [Natality](https://www.cdc.gov/nchs/data_access/VitalStatsOnline.htm#Births%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF%EF%BB%BF)
 
 ### Median Income Data
