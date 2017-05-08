@@ -43,3 +43,9 @@ The raw data (included in zip file) can be obtained from:
 This dataset is behavioral risk factor data represent tobacco use from 2011 to present. All information about leading causes of death are collected from CDC, State Tobacco Activities Tracking and Evaluation (STATE) system. BRFSS Survey Data. I extracted and filtered the data and get the current smoking status of female only from 2013 to 2015.
 
 ## References
+
+[Carto](https://carto.com)
+[Lodash](https://lodash.com)
+[D3-Data Driven Documents](https://d3js.org)
+[Leaflet JS](http://leafletjs.com)
+[Mapbox](https://www.mapbox.com)
