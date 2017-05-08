@@ -6,10 +6,10 @@ Natality Information (Births)
 The dataset “Natality” represents the birth counts of residents and non-residents based on the maternal risk factors of Tobacco Use happening within the United States regions. The number of given births are calculated from state, census regions, mother’s age, and mother’s risk factors such as tobacco use. All the data were collected from 2007 to 2015.
 
 Source of dataset:
-			- Centers for Disease Control and Prevention (CDC).
-			- United States Department of Health and Human Services (US DHHS).
-			- National Center and Health Statistics (NCHS).
-			- Natality public-use data on CDC WONDER Online Database.
+- Centers for Disease Control and Prevention (CDC).
+- United States Department of Health and Human Services (US DHHS).
+- National Center and Health Statistics (NCHS).
+- Natality public-use data on CDC WONDER Online Database.
 
 The dataset in the website CDC WONDER provides table, and data extracts according to the chosen Group results. When requesting the data, I can limit and index the data by any and all of the data variables. Follow is the description of types and semantic of datasets:
 
