@@ -247,7 +247,7 @@ function generateMap(dataNatality, elementID, divId) {
             map.legendControl.removeLegend(getLegendHTML_income());
             map.legendControl.removeLegend(getLegendHTML_tobacco());
             selectedViz = "Population Growth";
-            var scaTitle = selectedViz + " and " + selectedData + " Comparison";
+            var scaTitle = selectedViz + " & " + selectedData + " Comparison";
             updateScatter("#d3-elements", "avg_birth", "Number of Birth", scaTitle);
         } else if ($(this).val() == "female_pop") {
             map.addLayer(womenLayer);
@@ -259,7 +259,7 @@ function generateMap(dataNatality, elementID, divId) {
             map.legendControl.removeLegend(getLegendHTML_income());
             map.legendControl.removeLegend(getLegendHTML_tobacco());
             selectedViz = "Female Population";
-            var scaTitle = selectedViz + " and " + selectedData + " Comparison";
+            var scaTitle = selectedViz + " & " + selectedData + " Comparison";
             updateScatter("#d3-elements", "avg_female", "Female Population", scaTitle);
         } else if ($(this).val() == "median_income") {
             map.addLayer(incomeLayer);
@@ -271,7 +271,7 @@ function generateMap(dataNatality, elementID, divId) {
             map.legendControl.removeLegend(getLegendHTML_female());
             map.legendControl.removeLegend(getLegendHTML_tobacco());
             selectedViz = "Median Income";
-            var scaTitle = selectedViz + " and " + selectedData + " Comparison";
+            var scaTitle = selectedViz + " & " + selectedData + " Comparison";
             updateScatter("#d3-elements", "avg_income", "Median Income ($)", scaTitle);
         } else if ($(this).val() == "female_tobacco") {
             map.addLayer(tobaccoLayer);
@@ -283,7 +283,7 @@ function generateMap(dataNatality, elementID, divId) {
             map.legendControl.removeLegend(getLegendHTML_female());
             map.legendControl.removeLegend(getLegendHTML_income());
             selectedViz = "Female Tobacco Use";
-            var scaTitle = selectedViz + " and " + selectedData + " Comparison";
+            var scaTitle = selectedViz + " & " + selectedData + " Comparison";
             updateScatter("#d3-elements", "avg_tobacco", "Female Tobacco Use (%)", scaTitle);
         }
     });
@@ -295,21 +295,21 @@ function generateMap(dataNatality, elementID, divId) {
             selectedData = "Birth Rate";
             text = "Birth Rate per 1000 Population";
             var lineTitle = selectedData + " in " + selectedTitle;
-            var scaTitle = selectedViz + " and " + selectedData + " Comparison";
+            var scaTitle = selectedViz + " & " + selectedData + " Comparison";
             updateScatter2("#d3-elements", "avg_birthrate", text, scaTitle);
             updateLine(divId, dataNatality, selectedTitle, selectedData, text, lineTitle);
         } else if ($(this).val() == "fertility_rate") {
             selectedData = "Fertility Rate";
-            text = "Fertility Rate per 1000 Population";
+            text = "Fertility Rate per 1000 Women";
             var lineTitle = selectedData + " in " + selectedTitle;
-            var scaTitle = selectedViz + " and " + selectedData + " Comparison";
+            var scaTitle = selectedViz + " & " + selectedData + " Comparison";
             updateScatter2("#d3-elements", "avg_fertilityrate", text, scaTitle);
             updateLine(divId, dataNatality, selectedTitle, selectedData, text, lineTitle);
         } else if ($(this).val() == "death_rate") {
             selectedData = "Infant Death Rate";
             text = "Death Rate per 1000 Live Births";
             var lineTitle = selectedData + " in " + selectedTitle;
-            var scaTitle = selectedViz + " and " + selectedData + " Comparison";
+            var scaTitle = selectedViz + " & " + selectedData + " Comparison";
             updateScatter2("#d3-elements", "avg_deathrate", text, scaTitle);
             updateLine(divId, dataNatality, selectedTitle, selectedData, text, lineTitle);
         }
@@ -454,7 +454,7 @@ function generateMap(dataNatality, elementID, divId) {
 
     // zoom and change line chart based on selected state
     function zoomToFeature(e) {
-        map.fitBounds(e.target.getBounds());
+        map.fitBounds(e.target.getBounds(), {maxZoom: 15});
 
         var layer = e.target;
         selectedTitle = layer.feature.properties.name;
@@ -558,7 +558,7 @@ function generateScatter(divId) {
         .attr("font-size", "12px")
         .attr("font-family", "HelveticaNeue-Light, Helvetica, sans-serif")
         .attr("fill", "white")
-        .text("Population Growth and Birth Rate Comparison")
+        .text("Population Growth & Birth Rate Comparison")
 }
 
 function updateScatter(divId, value, text, scaTitle) {

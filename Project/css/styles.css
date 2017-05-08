@@ -84,21 +84,17 @@ div.leaflet-popup-tip {
     vertical-align: middle;
 }
 
-#photo {
+#topTitle {
     height: 7%;
-    width: 40%;
+    width: 35%;
     position: absolute;
-    top: 0;
-    left: 0;
+    top: -2%;
+    left: 5%;
     overflow: hidden;
     display: inline-block;
     background: white;
-}
-
-.logo {
-    height: 100%;
-    width: auto;
-    overflow: hidden;
+    font-family: "HelveticaNeue-Light", Helvetica, sans-serif;
+    font-size: 25px;
 }
 
 #dashboard {
