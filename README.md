@@ -42,6 +42,40 @@ The raw data (included in zip file) can be obtained from:
 
 This dataset is behavioral risk factor data represent tobacco use from 2011 to present. All information about leading causes of death are collected from CDC, State Tobacco Activities Tracking and Evaluation (STATE) system. BRFSS Survey Data. I extracted and filtered the data and get the current smoking status of female only from 2013 to 2015.
 
+## Questions
+
+1. What state in the US see the highest density of birth over the past 3 years? What is the trend?
+
+On the choropleth map, California accounts for the highest number of birth with nearly five hundred thousand, follow by Texas with approximately four hundred thousand. On the line chart, in overall, we can see that the birth rate in California is lower than in Texas with nearly 2 births per 1000 population. California shows decreasing trend but Texas shows the stable balance.
+
+2. What is the difference between each census regions based on the number of births? Do the census regions affect the number of given birth?
+
+Most of the Eastern states have the highest density of birth.
+
+3. What is the difference between median income and population growth data?
+
+According to the choropleth map with two variables Population Growth and Median Income, we can see that states with higher income will mostly have lower number of births.
+
+4. Does the tobacco usage affect the birth rate, the fertility rate, and the infant death rate? What is it trend?
+
+Yes. Smoking during pregnant can harm the baby. It slows the growth of the baby before birth and health problem after birth. So that the population growth and tobacco use comparison does not show any trend in scatterplot, but it forms a cluster in the middle. From this point, the graph shows that the average between birth rate and tobacco use is around 12 per 1000 and 15% respectively. And the same as fertility rate, 60 per 1000 for fertility rate compare to 15% tobacco use.
+
+However, smoking does effect the rate of infant death, the higher the tobacco usage is, the higher the death rate per 1000 live birth is. Thus, the scatter spot shows the increase trend.
+
+5. Does the median income affect the birth rate, the fertility rate, and the infant death rate? What is it trend?
+
+Yes. According to the graph, the dots form a cluster at the low income with the birth rate value of around 12 per 1000 population. As the income goes higher, the distance of dots become further. So the same as fertility rate.
+
+However, we can see clearly that the higher the income is, the lower the infant death rate is.
+
+6. How many baby was born in each state from 2013 to 2015? What is the average number of births in all states in the US?
+
+By hover the mouse on each state, we can see the number of births for each over 3-year period. The average number of births is around two hundred thousand children in the US.
+
+7. What is the trend of infant death rate and fertility rate for each state in the US from 2013 to 2015?
+
+The line chart will show the trend for each state. Below is the infant death rate and fertility rate in Massachusetts.
+
 ## References
 
 [Carto](https://carto.com)
