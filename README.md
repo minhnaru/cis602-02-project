@@ -1,5 +1,7 @@
 # Project Visualization
 
+My visualization is an interactive web application designed to help users visualize spatial and statistical relationships between births, fertility, infant death, median income, and tobacco use.
+
 ## Dataset
 
 Natality Information (Births)
