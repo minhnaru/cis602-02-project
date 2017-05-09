@@ -5,7 +5,7 @@ My visualization is an interactive web application designed to help users visual
 ## Dataset
 
 Natality Information (Births)
-The dataset “Natality” represents the birth counts of residents and non-residents based on the maternal risk factors of Tobacco Use happening within the United States regions. The number of given births are calculated from state, census regions, mother’s age, and mother’s risk factors such as tobacco use. All the data were collected from 2007 to 2015.
+The dataset “Natality” represents the birth counts of residents and non-residents along with the infant death rate happening within the United States regions. The number of given births are calculated from state, census regions, and mother’s risk factors such as tobacco use. All the data were collected from 2007 to 2015.
 
 Source of dataset:
 - Centers for Disease Control and Prevention (CDC).
